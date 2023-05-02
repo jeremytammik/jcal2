@@ -1,0 +1,96 @@
+#!/bin/sh
+# to define preprocessor symbols, call with 'jcal -Dall'
+# Jeremy Tammik, Autodesk Inc. 2003-2016
+
+DIR="$HOME/j/doc/db/jcal"
+
+#MONTH=1214
+#MONTH=0916
+
+MONTH=`date "+%m%y"`
+
+#echo $DIR
+#echo $MONTH
+
+if [ "$1" = "-b" ]
+then
+  open $DIR/../birthday.txt
+  exit 0
+fi
+
+if [ "$1" = "-d" ]
+then
+  cd $DIR
+  #exit 0
+  return
+fi
+
+if [ "$1" = "-e" ]
+then
+  open $DIR/calendar.txt
+  exit 0
+fi
+
+if [ "$1" = "-l" ]
+then
+  shift
+  grep $* $DIR/calendar.txt
+  exit 0
+fi
+
+if [ "$1" = "-m" ]
+then
+  #"/Applications/Komodo Edit 8.app/Contents/MacOS/komodo" $0
+  #k $0 # --> /j/doc/db/jcal/jcal: line 42: k: command not found
+  #"$EDITOR" $0
+  open -a Komodo\ Edit\ 8 $0
+  exit 0
+fi
+
+if [ "$1" = "" ]
+then
+  YEAR=20`date "+%y"`
+else
+  YEAR=$1
+fi
+
+if [ "$1" = "-?" -o "$1" = "-h" -o "$1" = "help" ]
+then
+  echo usage: jcal [YYYY]
+  exit 1
+fi
+
+F=$DIR/tmp/gotomonth.sed
+F2=$DIR/addurl.sed
+
+#echo $F
+
+#echo onload="window.location.href='#_$MONTH'"
+
+echo s/body bgcolor=\"#ffffff\"/body bgcolor=\"#ffffff\" onload=\"window.location.href=\'#_$MONTH\'\"/ > $F
+#echo s:\(body bgcolor=\"#ffffff\"\).*$:\1 onload=\"window.location.href=\'#_$MONTH\'\"><p><a href=\"http://jeremytammik.github.io/jcal/\">url</a></p>: > $F
+#echo -f $DIR/jcal.sed  > $F
+
+#cat $F
+
+echo 's|a><br|a>\&nbsp\;<a href="http://jeremytammik.github.io/jcal">url</a>\&nbsp\;<a href="../tt.txt">tt</a><br|' >> $F
+echo 's|<title>|<meta charset="UTF-8"><title>|' >> $F
+
+sed -f $DIR/unisodate.sed < $DIR/calendar.txt > $DIR/tmp/calendar
+
+#pcal -f $DIR/tmp/calendar -H $YEAR | sed -f $F | sed -e 's|a><br|a>\&nbsp\;<a href="http://jeremytammik.github.io/jcal">url</a><br|' > $DIR/out/$YEAR.htm
+
+pcal -f $DIR/tmp/calendar -H $YEAR | sed -f $F > $DIR/out/$YEAR.htm
+
+echo $DIR/out/$YEAR.htm
+
+#open -a Firefox.app $DIR/$YEAR.htm
+
+#open $DIR/out/$YEAR.htm
+
+open file://$DIR/out/$YEAR.htm
+
+cd $DIR
+git add .
+git commit -m "calendar update"
+git push
