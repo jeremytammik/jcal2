@@ -10018,7 +10018,7 @@ year 2015
 2023-05-05 10:00 barbara umzug
 2023-05-06 10:00 hirschenhof
 2023-05-07 14:30 stoepsel@loe
-2023-05-10 10:00 solar@h30
+2023-05-09 10:00 solar@h30
 2023-05-10 17:00-18:30 solar@zoom # BuergerSolarberater tandempartner
 2023-05-12 10:00 delzer@kuri
 2023-05-14 muttertag
