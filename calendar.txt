@@ -10015,7 +10015,7 @@ year 2015
 2023-05-02 17:00-18:30 solar@zoom # BuergerSolarberater tandempartner
 2023-05-03 16:00-17:40 solar@kaltenbach # kaltenbach-stiftung, konrad-adenauer-strasse 22
 2023-05-03 18:00 klima@schoepflin
-2023-05-06 barbara umzug
+2023-05-05 10:00 barbara umzug
 2023-05-06 10:00 hirschenhof
 2023-05-07 14:30 stoepsel@loe
 2023-05-10 17:00-18:30 solar@zoom # BuergerSolarberater tandempartner
