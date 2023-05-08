@@ -1,6 +1,7 @@
 # jcal
 
-Personal text-based calendar system using [pcal](http://pcal.sourceforge.net).
+Jeremy's personal text-based [calendar](/Users/jta/j/doc/db/jcal2) system
+using [pcal](http://pcal.sourceforge.net).
 
 ## Documentation
 
