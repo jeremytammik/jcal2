@@ -1,6 +1,6 @@
 # jcal
 
-Jeremy's personal text-based [calendar](/Users/jta/j/doc/db/jcal2) system
+Jeremy's personal text-based [calendar](https://jeremytammik.github.io/jcal2/) system
 using [pcal](http://pcal.sourceforge.net).
 
 ## Documentation
