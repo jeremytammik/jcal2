@@ -10043,6 +10043,8 @@ year 2015
 2023-06-23 tammiku begin
 2023-07-01 tammiku end
 
+2023-07-05 18:00-19:30 pvselbst@nellie
+
 2023-07-08 roadtrip end
 
 2023-07-14 17:00 bunterkunt@h30
