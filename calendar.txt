@@ -10042,11 +10042,13 @@ year 2015
 #2023-06-01 hannover?
 2023-05-28 rosemi
 2023-05-29 rosemi
-2023-05-30 danmark
+2023-05-30 <a href="http://vestmoen-lokalraad.dk/sheltere-i-slotshaven">slotshaven shelterplads</a>
 
 2023-06-03 stuga begin # Åtvidaberg V
 2023-06-07 stuga end
 2023-06-11 10:00-13:00 daniela@frälsegården
+2023-06-18 <a href="http://vestmoen-lokalraad.dk/sheltere-i-slotshaven">slotshaven shelterplads</a>
+2023-06-19 hannover
 2023-06-20 lina
 2023-06-21 rodenkirchen-loire
 2023-06-22 chaumont-sur-loire
