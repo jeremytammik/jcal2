@@ -10051,10 +10051,12 @@ year 2015
 2023-06-11 10:00-13:00 daniela@fr&auml;lseg&aring;rden
 2023-06-17 oeresundsbron # Ordernummer PRD_SU_35634 Namn JEREMY TAMMIK E-post jeremy.tammik@autodesk.com Biljettyp Enkel fordon BL139548
 2023-06-17 <a href="https://www.google.com/maps/dir//Havnevej+50+4895+Errindlev+Denmark">shelter errindlev havn</a>
+2023-06-18 faerja
 2023-06-18 hannover
 2023-06-19 hannover
 2023-06-20 lina
 2023-06-21 rodenkirchen-loire
+2023-06-21 <a href="https://www.camping-chaumont-sur-loire.com">camping</a>@<a href="https://www.google.com/maps/dir/Zitronenfalterstrasse+38+Cologne+Germany/Camping+municipal+41150+Chaumont-sur-Loire,+France">loire</a>
 2023-06-22 chaumont-sur-loire
 2023-06-23 tammiku begin
 2023-06-29 15:30-17:00 solar@nellie
