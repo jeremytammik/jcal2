@@ -10065,6 +10065,8 @@ year 2015
 2023-07-01 tammiku end
 
 2023-07-04 18:00-19:30 pvselbst@nellie
+2023-07-05 12:00 rose@garten begin
+2023-07-10 rose@garten end
 
 2023-07-08 roadtrip end
 
