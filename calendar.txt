@@ -10063,6 +10063,7 @@ year 2015
 2023-06-23 tammiku@<a href="https://www.google.com/maps/dir/41150+Chaumont-sur-Loire+France/Chem+de+la+Poste+16170+echallat+France">echallat</a> # Chemin de la Poste, F-16170 Échallat, France
 2023-06-29 15:30-17:00 solar@nellie
 2023-07-01 tammiku end
+2023-07-01 <a href="https://www.google.com/maps/dir/Echallat/camping+municipal+60+Rte+du+Pin+Sec+33990+Naujac-sur-Mer/@45.2192523,-1.2572274,213406m/">campingpinsec</a>
 
 2023-07-04 18:00-19:30 pvselbst@nellie
 2023-07-05 12:00 rose@garten begin
