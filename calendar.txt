@@ -10067,11 +10067,11 @@ year 2015
 
 2023-07-04 18:00-19:30 pvselbst@nellie
 2023-07-05 12:00 rose@garten begin
+2023-07-08 roadtrip end
 2023-07-10 rose@garten end
 
-2023-07-08 roadtrip end
-
 2023-07-14 17:00 bunterkunt@h30
+2023-07-14 19:00 tanz@waedel
 2023-07-16 10:00-12:30 tanz@holzen # regina kenk
 
 2023-07-19 sommercamp begin
