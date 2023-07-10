@@ -10072,6 +10072,7 @@ year 2015
 
 2023-07-10 11:40 hno@claraplatz # Claraplatz 1, 4058, Basel, +41616869200
 2023-07-10 rose@garten end
+2023-07-11 16:20 dav@lucke
 2023-07-12 07:30 hno@claraplatz # Claraplatz 1, 4058, Basel, +41616869200
 2023-07-12 10:00 kuri@schopfheim # belchenstrasse 80
 2023-07-12 14:00 hermann # am sonnenrain 38
