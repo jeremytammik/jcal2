@@ -9706,7 +9706,7 @@ year 2015
 2022-09-06 08:00 magnus@jog
 2022-09-06 09:00 mannsbart@wld
 
-2022-09-10 10:00-14:00 bunterkunt
+2022-09-10 10:00-14:00 kunterbunt
 2022-09-10 10:00 holz@karen + maike
 2022-09-10 ticino begin
 2022-09-11 15:30 <a href="/Users/jta/j/tmp/2022-09-11_kulturraum.pdf">lesung@kulturraum</a>
@@ -9726,7 +9726,7 @@ year 2015
 2022-09-19 09:14-13:22 <a href="/Users/jta/a/doc/expense/receipt/2022/2022-09-16_db_bsl_bonn_bsl.pdf">bonn-bsl</a>
 
 #2022-09-21 10:00-22:00 <a href="https://gasthof-schmuck.de">summerparty</a> # DACH Summer Party 2022, Landgasthof Schmuck, Munich/Sauerlach, September 21, 2022, 450 km
-2022-09-21 18:00 dinner@bunterkunt
+2022-09-21 18:00 dinner@kunterbunt
 2022-09-22 12:00-17:30 juergen@jurtenbau
 #2022-09-22 18:00 stadtspaziergang # touristen-info untere wallbrunnstrasse
 2022-09-23 18:00 marion + alex
@@ -9763,10 +9763,10 @@ year 2015
 2022-10-21 18:00 cb begin
 2022-10-21 18:00 ara + karen kochen
 2022-10-22 15:00-21:00 mannfrau@loe
-#2022-10-23 10:00-14:00 bunterkunt
+#2022-10-23 10:00-14:00 kunterbunt
 2022-10-23 16:00 cb end
 
-2022-10-26 19:00-22:00 bunterkunt
+2022-10-26 19:00-22:00 kunterbunt
 
 2022-10-29 moni@heilkreis
 2022-10-29 14:00 essen vorbereiten
@@ -9807,7 +9807,7 @@ year 2015
 
 2022-11-28 14:30 <a href="https://www.swisstph.ch/en/travelclinic">tph</a>@<a href="/Users/jta/a/doc/travel/trip/basel/map_socinstrasse.png">socinstrasse 55</a>
 
-2022-11-29 19:30 bunterkunt
+2022-11-29 19:30 kunterbunt
 
 2022-12-01 13:30 nik@h30
 2022-12-02 10:00 anette@blauweiss
@@ -9862,7 +9862,7 @@ year 2015
 2023-01-08 lina end
 2023-01-11 08:00 marie end
 2023-01-12 18:30 nadine
-2023-01-13 12:00 bunterkunt
+2023-01-13 12:00 kunterbunt
 
 2023-01-15 15:00 praenatal
 
@@ -10023,7 +10023,7 @@ year 2015
 2023-05-11 15:00 dentist connert@uzb
 2023-05-12 10:00 delzer@kuri # schopfheim belchenstrasse 80
 2023-05-12 13:30 nik@h30
-2023-05-13 10:00 bunterkunt@h30
+2023-05-13 10:00 kunterbunt@h30
 2023-05-14 muttertag
 2023-05-14 15:00 praenatal@natacha?
 2023-05-15 15:00 coffee@<a href="/Users/jta/a/doc/travel/trip/loerrach/map_markgrafen_23.png">rupi</a>
@@ -10078,7 +10078,7 @@ year 2015
 2023-07-12 14:00 hermann # am sonnenrain 38
 2023-07-12 18:30 anouk
 2023-07-13 14:30 christian@lucke # scheppach, dav, klettern
-2023-07-14 17:00 bunterkunt@h30
+2023-07-14 17:00 kunterbunt@h30
 2023-07-14 19:00 tanz@waedel
 2023-07-16 10:00-12:30 tanz@holzen # regina kenk
 2023-07-16 11:00-18:00 <a href="/Users/jta/j/tmp/2023-07-16_ateliergarten.pdf">ateliergARTen@gruett</a> # petra pompe + paolo pinna, gartenanlage im gruett, garten nr. 3 beim haagensteg
@@ -10096,6 +10096,8 @@ year 2015
 
 2023-08-06 moni ferien end
 2023-08-19 18:00 gartenfest@andrea # oristalstr. 16
+
+2023-09-01 19:00 kunterbunt@h30
 
 2023-09-08 15:00 aufbau@h30
 2023-09-08 17:00 nachbarn@h30
