@@ -10107,6 +10107,8 @@ year 2015
 2023-09-16 rodenkirchen
 2023-09-16 11:00 lina + ben away
 2023-09-17 rodenkirchen
+2023-09-27 rudi@h30 begin
+2023-09-29 rudi@h30 end
 
 2023-10-09 adsk_holiday # mental health recharge day
 2023-10-09 moni ferien begin
