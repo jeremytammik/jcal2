@@ -10096,9 +10096,11 @@ year 2015
 2023-08-03 15:30 solar@nellie
 
 2023-08-06 11:00-14:30 medi@jurte
+2023-08-07 18:00 stephan
 2023-08-06 moni ferien end
 2023-08-12 06:45 isorno begin # salmenstrasse 20, birsfelden
 2023-08-13 isorno
+2023-09-13 15:00 praenatal
 2023-08-14 isorno end
 2023-08-15 juerg@poncione_di_vespero
 2023-08-19 18:00 gartenfest@andrea # oristalstr. 16
