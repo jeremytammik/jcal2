@@ -10105,7 +10105,7 @@ year 2015
 2023-08-13 11:00 stoepsel@stefan
 2023-08-13 15:00 praenatal
 2023-08-14 isorno end
-2023-08-15 juerg@poncione_di_vespero
+#2023-08-15 juerg@poncione_di_vespero
 2023-08-16 10:00-11:00 vince@h30
 2023-08-17 13:15 hno@claraplatz
 2023-08-19 18:00 gartenfest@andrea # oristalstr. 16
