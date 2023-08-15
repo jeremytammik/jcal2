@@ -10112,7 +10112,7 @@ year 2015
 2023-08-20 dani begin
 2023-08-21 dani
 2023-08-21 17:00-20:00 <a href="/Users/jta/j/tmp/2023-08-21_anja.jpg">anja@solitude</a>
-2023-08-22 dani
+2023-08-22 dani end
 2023-08-23 16:00-17:30 das all hands
 
 2023-09-01 15:00 aufbau@h30
