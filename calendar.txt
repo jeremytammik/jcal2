@@ -10116,6 +10116,7 @@ year 2015
 #2023-08-22 dani
 2023-08-22 19:30-21:00 stammtisch@fairvelo
 #2023-08-23 dani end
+2023-08-23 11:00 blum@vb3
 2023-08-23 16:00-17:30 das all hands
 2023-08-25 09:15 hno@claraplatz
 2023-08-26 18:00 kim
