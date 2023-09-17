@@ -10147,6 +10147,7 @@ year 2015
 2023-09-16 11:00 lina + ben away
 2023-09-17 rodenkirchen
 2023-09-18 09:14-13:22 <a href="/Users/jta/a/doc/expense/receipt/2023/2023-09-18_bonn_bsl.pdf">bonn-bsl</a>
+2023-09-18 13:40 <a href="/Users/jta/j/tmp/2023-09-17_abholschein.jpg">einschreiben</a>
 2023-09-18 15:00 kuri@zoom
 2023-09-23 miriam + markus
 2023-09-27 rudi@h30 begin
