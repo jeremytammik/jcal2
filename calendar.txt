@@ -10070,9 +10070,9 @@ year 2015
 2023-07-07 09:30 airplan@zoom
 2023-07-08 roadtrip end
 
-2023-07-10 11:40 hno@claraplatz # Patrice von Wenna, Claraplatz 1, 4058, Basel, +41616869200
+2023-07-10 11:40 hno@claraplatz #1 Patrice von Wenna, Claraplatz 1, 4058, Basel, +41616869200
 2023-07-10 rose@garten end
-2023-07-12 08:15 hno@claraplatz # Montserrat, Claraplatz 1, 4058, Basel, +41616869200
+2023-07-12 08:15 hno@claraplatz #2 Montserrat, Claraplatz 1, 4058, Basel, +41616869200
 2023-07-12 10:00 kuri@schopfheim # belchenstrasse 80
 2023-07-12 14:00 hermann # am sonnenrain 38
 2023-07-12 18:30 anouk
@@ -10099,7 +10099,7 @@ year 2015
 #2023-08-07 18:00 stephan
 2023-08-06 moni ferien end
 2023-08-09 10:00 kuri@zoom
-2023-08-10 13:30 hno@claraplatz
+2023-08-10 13:30 hno@claraplatz #3
 2023-08-12 06:45 isorno begin # salmenstrasse 20, birsfelden
 2023-08-13 isorno
 2023-08-13 11:00 stoepsel@stefan
@@ -10108,7 +10108,7 @@ year 2015
 #2023-08-15 juerg@poncione_di_vespero
 2023-08-16 10:00-11:00 vince@h30
 2023-08-16 18:30 kernietreff
-2023-08-17 13:15 hno@claraplatz
+2023-08-17 13:15 hno@claraplatz #4
 2023-08-19 18:00 gartenfest@andrea # oristalstr. 16
 #2023-08-20 dani begin
 #2023-08-21 dani
@@ -10118,13 +10118,13 @@ year 2015
 #2023-08-23 dani end
 2023-08-23 11:00 blum@vb3
 2023-08-23 16:00-17:30 das all hands
-2023-08-25 09:15 hno@claraplatz
+2023-08-25 09:15 hno@claraplatz #5
 2023-08-25 11:00 kuri@zoom
 2023-08-26 18:00 kim
-2023-08-29 08:45 hno@claraplatz
+2023-08-29 08:45 hno@claraplatz #6
 2023-08-29 10:00 delzer@h30
 
-2023-09-01 11:45 hno@claraplatz
+2023-09-01 11:45 hno@claraplatz #7
 2023-09-01 15:00 aufbau@h30
 2023-09-01 17:00 nachbarn@h30
 #2023-09-02 14:00 sweatlodge@muehlital
