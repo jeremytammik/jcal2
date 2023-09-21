@@ -10156,12 +10156,13 @@ year 2015
 2023-09-26 piazzogna end
 2023-09-26 14:00 1:1 review # meeting mikako
 2023-09-27 14:30 delzer@kuri
-2023-09-27 rudi@h30 begin
+2023-09-27 15:57 rudi@h30 begin
 2023-09-27 18:00 karin@tichu
-2023-09-29 rudi@h30 end
+2023-09-29 12:01 rudi@h30 end
 2023-09-29 schtonk@hinterhof
 2023-09-30 irmaladouce@hinterhof
 
+2023-10-01 15:00 praenatal
 2023-10-04 19:30 m+j@bafudi
 2023-10-08 19:00-20:30 tanz@lichtraum
 2023-10-09 adsk_holiday # mental health recharge day
