@@ -10157,6 +10157,7 @@ year 2015
 2023-09-27 14:30 delzer@kuri
 2023-09-27 15:57 rudi@h30 begin
 2023-09-27 18:00 karin@tichu
+2023-09-28 15:30 solar@nellie
 2023-09-29 12:01 rudi@h30 end
 2023-09-29 schtonk@hinterhof
 2023-09-30 18:00 miriam + markus
