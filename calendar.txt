@@ -10173,6 +10173,7 @@ year 2015
 2023-10-15 11:00 stoepsel@st_pantha
 2023-10-17 07:00-09:35 agp-bsl # easyjet EJU7021 Malaga to Basel
 2023-10-19 13:30 dentist connert@uzb
+2023-10-20 18:00-19:30 pvselbst@kaltenbach
 
 2023-10-22 moni@heilkreis
 
