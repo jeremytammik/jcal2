@@ -10193,6 +10193,8 @@ year 2015
 2023-12-03 19:00-20:30 tanz@lichtraum
 
 2023-12-23 moni@heilkreis
+2023-12-23 wildhaus begin
+2024-01-01 wildhaus end
 
 2024-05-03 telpaare@kiental
 2024-05-04 telpaare@kiental
