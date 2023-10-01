@@ -10165,7 +10165,7 @@ year 2015
 2023-09-30 irmaladouce@hinterhof
 
 2023-10-01 16:00 praenatal@nik
-2023-10-02 20:00 wld@karin # rapp
+2023-10-02 20:10 wld@karin # rapp
 2023-10-03 10:30 mfg@delzer
 2023-10-03 10:45 mfg@bauer
 2023-10-03 12:45-16:00 <a href="https://www.vdi.de/veranstaltungen/detail/fuehrung-durch-die-tropenwaldhalle-im-zuericher-zoo-flora-fauna-und-technik">vdi@masuala</a>
