@@ -10174,7 +10174,7 @@ year 2015
 2023-10-08 19:00-20:30 tanz@lichtraum
 2023-10-09 adsk_holiday # mental health recharge day
 2023-10-09 moni ferien begin
-2023-10-09 09:00-15:00 solar@istein
+2023-10-09 09:00-15:00 pvselbstbau@istein # peter fischerau 9
 2023-10-10 adsk_vacation begin
 2023-10-10 10:15-12:50 bsl-agp # easyjet EJU7022 Basel to Malaga
 2023-10-13 moni ferien end
