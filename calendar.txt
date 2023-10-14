@@ -10179,6 +10179,7 @@ year 2015
 2023-10-10 10:15-12:50 bsl-agp # easyjet EJU7022 Basel to Malaga
 2023-10-13 moni ferien end
 2023-10-15 11:00 stoepsel@st_pantha
+2023-10-16 14:30 nasrid
 2023-10-17 07:00-09:35 agp-bsl # easyjet EJU7021 Malaga to Basel
 2023-10-17 19:30-21:00 stammtisch # zum guten leben, klima
 2023-10-17 adsk_vacation end
@@ -10186,6 +10187,7 @@ year 2015
 2023-10-20 18:00-19:30 pvselbst@kaltenbach
 
 2023-10-22 moni@heilkreis
+2023-10-26 20:00 joerg@beks # bsb buergersolarberater
 
 2023-11-05 19:00-20:30 tanz@lichtraum
 
