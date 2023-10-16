@@ -10180,6 +10180,10 @@ year 2015
 2023-10-13 moni ferien end
 2023-10-15 11:00 stoepsel@st_pantha
 2023-10-16 14:30 nasrid
+2023-10-17 03:30 depart
+2023-10-17 04:40 malagacar return
+2023-10-17 05:10 agp
+2023-10-17 06:30 gate closes
 2023-10-17 07:00-09:35 agp-bsl # easyjet EJU7021 Malaga to Basel
 2023-10-17 19:30-21:00 stammtisch # zum guten leben, klima
 2023-10-17 adsk_vacation end
