@@ -9930,7 +9930,7 @@ year 2015
 2023-03-05 pia+rene begin
 2023-03-08 pia+rene end
 2023-03-10 14:00 ciprian#h30
-2023-03-10 17:30-18:30 solar@nellie # BuergerSolarberater
+2023-03-10 17:30-18:30 bsb@nellie # BuergerSolarberater
 2023-03-11 wildhaus end
 2023-03-11 10:00-14:00 uhr solarberater gespraech # BuergerSolarberater workshop beratungsgespraeche
 
@@ -9938,7 +9938,7 @@ year 2015
 
 2023-03-15 11:00 nik@l_erlen
 2023-03-15 19:45 peter@bafudi
-2023-03-16 18:00 solar@nellie # BuergerSolarberater
+2023-03-16 18:00 bsb@nellie # BuergerSolarberater
 
 2023-03-18 zaunpfosten@h30
 2023-03-18 10:00-14:00 uhr solarberater rechentool # BuergerSolarberater workshop rechentools
@@ -9988,7 +9988,7 @@ year 2015
 2023-04-16 11:00-16:00 community@muenchenstein
 2023-04-17 17:00 solar@zoom # BuergerSolarberater tandempartner
 2023-04-18 19:30 stammtisch@fairvelo
-2023-04-20 16:00 solar@nellie
+2023-04-20 16:00 bsb@nellie
 2023-04-22 10:00 frauen@jacqueline
 2023-04-22 15:00-18:00 praenatal@natacha
 2023-04-22 16:00-24:00 urban@waisenhaus # Theodorkirchplatz 7, geradeaus bis zum Ende, in den 1. Stock, in den Raum Rhyblick
@@ -10032,7 +10032,7 @@ year 2015
 2023-05-20 10:00 solar@salzert # astrid maintok fridolin-engel 57
 2023-05-22 17:30 co@moni
 2023-05-24 17:00 kernies@bafudi
-2023-05-25 15:30-17:00 solar@nellie
+2023-05-25 15:30-17:00 bsb@nellie
 2023-05-26 moni ferien begin
 2023-05-26 18:00 karen@feuer
 2023-05-27 fest@wiechs
@@ -10061,7 +10061,7 @@ year 2015
 2023-06-21 <a href="https://www.camping-chaumont-sur-loire.com">camping</a>@<a href="https://www.google.com/maps/dir/Zitronenfalterstrasse+38+Cologne+Germany/Camping+municipal+41150+Chaumont-sur-Loire,+France">loire</a>
 2023-06-22 chaumont-sur-loire
 2023-06-23 tammiku@<a href="https://www.google.com/maps/dir/41150+Chaumont-sur-Loire+France/Chem+de+la+Poste+16170+echallat+France">echallat</a> # Chemin de la Poste, F-16170 Échallat, France
-2023-06-29 15:30-17:00 solar@nellie
+2023-06-29 15:30-17:00 bsb@nellie
 2023-07-01 tammiku end
 2023-07-01 <a href="https://www.google.com/maps/dir/Echallat/camping+municipal+60+Rte+du+Pin+Sec+33990+Naujac-sur-Mer/@45.2192523,-1.2572274,213406m/">campingpinsec</a>
 
@@ -10086,14 +10086,14 @@ year 2015
 2023-07-18 15:00 markus@h30?
 2023-07-18 18:00 solar@rtk@kaltenbachstiftung # Vorstellung der Bürgersolarberater im Rahmen der nächsten Präsenzveranstaltung des RTK in der kaltenbachstiftung
 2023-07-19 sommercamp begin
-2023-07-20 15:30 solar@nellie
+2023-07-20 15:30 bsb@nellie
 2023-07-28 geburi@hanno
 2023-07-29 sommercamp end
 
 2023-08-01 nik begin
 2023-08-02 nik end
 2023-08-03 nik end
-2023-08-03 15:30 solar@nellie
+2023-08-03 15:30 bsb@nellie
 
 2023-08-06 11:00-14:30 medi@jurte
 #2023-08-07 18:00 stephan
@@ -10140,7 +10140,7 @@ year 2015
 2023-09-10 pia + rene
 2023-09-11 pia + rene
 
-2023-09-14 15:30 solar@nellie
+2023-09-14 15:30 bsb@nellie
 2023-09-15 14:35-18:43 <a href="/Users/jta/a/doc/expense/receipt/2023/2023-09-15_bsl_bonn.pdf">bsl-bonn</a>
 2023-09-15 rodenkirchen
 2023-09-16 rodenkirchen
@@ -10157,7 +10157,7 @@ year 2015
 2023-09-27 14:30 delzer@kuri
 2023-09-27 15:57 rudi@h30 begin
 2023-09-27 18:00 karin@tichu
-2023-09-28 15:30 solar@nellie
+2023-09-28 15:30 bsb@nellie
 2023-09-29 10:30 kim + kaspar
 2023-09-29 12:01 rudi@h30 end
 2023-09-29 schtonk@hinterhof
@@ -10193,6 +10193,7 @@ year 2015
 
 2023-10-21 12:00 cipriano
 2023-10-22 moni@heilkreis
+2023-10-26 15:30-18:00 bsb@nellie # buergersolarberater
 2023-10-26 20:00 joerg@beks # bsb buergersolarberater
 
 2023-11-03 18:00 <a href="https://www.dav-loerrach.de/unsere-sektion/sektionsveranstaltungen/">dav@buehlerhuette</a> # sektionsgrillfest brombach
