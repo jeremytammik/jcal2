@@ -10188,6 +10188,7 @@ year 2015
 2023-10-17 06:30 gate closes
 2023-10-17 07:00-09:35 agp-bsl # easyjet EJU7021 Malaga to Basel
 2023-10-17 19:30-21:00 stammtisch # zum guten leben, klima
+2023-10-20 16:30-18:00 wolfgang
 2023-10-20 18:00-19:30 pvselbst@kaltenbach
 
 2023-10-21 12:00 cipriano
