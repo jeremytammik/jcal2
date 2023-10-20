@@ -10188,7 +10188,6 @@ year 2015
 2023-10-17 06:30 gate closes
 2023-10-17 07:00-09:35 agp-bsl # easyjet EJU7021 Malaga to Basel
 2023-10-17 19:30-21:00 stammtisch # zum guten leben, klima
-2023-10-19 13:30 dentist connert@uzb
 2023-10-20 18:00-19:30 pvselbst@kaltenbach
 
 2023-10-21 12:00 cipriano
@@ -10207,6 +10206,8 @@ year 2015
 2023-11-18 paare@<a href="https://www.lindenbuehl-trogen.ch">lindenbuehl</a>
 2023-11-18 16:00 geburi@joachim # bollschweil, hexe 51
 2023-11-19 paare@<a href="https://www.lindenbuehl-trogen.ch">lindenbuehl</a>
+
+2023-11-21 11:00 dentist connert@uzb
 
 2023-11-24 11:45 rene+tobias
 2023-11-25 novemberparty
