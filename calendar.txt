@@ -10197,6 +10197,7 @@ year 2015
 2023-10-26 20:00 joerg@beks # bsb buergersolarberater
 2023-10-27 15:00 monika
 
+2023-11-03 17:00 praenatal
 2023-11-03 18:00 <a href="https://www.dav-loerrach.de/unsere-sektion/sektionsveranstaltungen/">dav@buehlerhuette</a> # sektionsgrillfest brombach
 2023-11-05 13:00-18:00 kusinen@martina
 2023-11-05 19:00-20:30 tanz@lichtraum
@@ -10210,6 +10211,7 @@ year 2015
 2023-11-18 paare@<a href="https://www.lindenbuehl-trogen.ch">lindenbuehl</a>
 2023-11-18 16:00 geburi@joachim # bollschweil, hexe 51
 2023-11-19 paare@<a href="https://www.lindenbuehl-trogen.ch">lindenbuehl</a>
+2023-11-19 15:00-19:00 praenatal
 
 2023-11-21 11:00 dentist connert@uzb
 
@@ -10219,12 +10221,18 @@ year 2015
 
 2023-12-03 19:00-20:30 tanz@lichtraum
 
+2023-12-10 15:00-19:00 praenatal
+
 2023-12-23 moni@heilkreis
 2023-12-23 wildhaus begin
 2023-12-24 martina
 2023-12-25 anne-marie
 2023-12-27 bafudi?
 2024-01-01 wildhaus end
+
+2024-01-28 15:00-19:00 praenatal
+2024-02-25 15:00-19:00 praenatal
+2024-03-02 15:00-19:00 praenatal
 
 2024-05-03 telpaare@kiental
 2024-05-04 telpaare@kiental
