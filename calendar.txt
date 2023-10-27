@@ -10195,7 +10195,9 @@ year 2015
 2023-10-22 moni@heilkreis
 2023-10-26 15:30-18:00 bsb@nellie # buergersolarberater
 2023-10-26 20:00 joerg@beks # bsb buergersolarberater
+2023-10-27 11:00 ingolf + moc
 2023-10-27 15:00 monika
+2023-10-27 17:00 moni
 
 2023-11-03 17:00 praenatal
 2023-11-03 18:00 <a href="https://www.dav-loerrach.de/unsere-sektion/sektionsveranstaltungen/">dav@buehlerhuette</a> # sektionsgrillfest brombach
