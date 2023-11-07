@@ -10203,6 +10203,7 @@ year 2015
 2023-11-05 13:00-18:00 kusinen@martina
 2023-11-06 11:00 natascha
 2023-11-06 16:00 annemarie
+2023-11-08 17:00 jochen
 
 2023-11-11 moni@heilkreis
 2023-11-11 19:00-21:00 deepplay@lola # Dachraum des Quartiertreffpunkt LoLa, Lothringerstrasse 63, 4056 BaselAnmeldung bitte bis am 9.11.2023 auf info@playful-lab.ch oder auf 078/665'16'10. https://www.playful-lab.ch/
@@ -10225,8 +10226,8 @@ year 2015
 
 2023-12-10 15:00-19:00 praenatal
 
-2023-12-14 09:00 xray@b4 # radiologie spitalstrasse 21 1 stock
-2023-12-14 09:30 chat@b4 # orthopaedie + traumatologie erdgeschoss
+2023-12-14 09:00 xray@unispital b4 # radiologie spitalstrasse 21 1 stock
+2023-12-14 09:30 chat@unispital b4 # orthopaedie + traumatologie erdgeschoss
 
 2023-12-23 moni@heilkreis
 2023-12-23 wildhaus begin
