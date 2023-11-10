@@ -10204,6 +10204,11 @@ year 2015
 2023-11-06 11:00 natascha
 2023-11-06 16:00 annemarie
 2023-11-08 17:00 jochen
+2023-11-09 11:00 unispital austritt
+2023-11-09 13:00 rehaklinik freihof baden eintritt # room 206
+2023-11-10 07:30 fruehstueck
+2023-11-10 12:00 mittag
+2023-11-10 18:00 abend
 
 2023-11-11 moni@heilkreis
 2023-11-11 19:00-21:00 deepplay@lola # Dachraum des Quartiertreffpunkt LoLa, Lothringerstrasse 63, 4056 BaselAnmeldung bitte bis am 9.11.2023 auf info@playful-lab.ch oder auf 078/665'16'10. https://www.playful-lab.ch/
