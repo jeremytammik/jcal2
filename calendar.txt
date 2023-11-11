@@ -10218,6 +10218,7 @@ year 2015
 2023-11-11 12:00 mittag
 2023-11-11 13:30 knie-hueft
 2023-11-11 18:00 abend
+2023-11-11 19:00 ruben@brunello
 
 2023-11-11 moni@heilkreis
 
@@ -10228,11 +10229,11 @@ year 2015
 2023-11-12 11:00 kim
 2023-11-12 13:00 moni
 
-2023-11-17 paare@<a href="https://www.lindenbuehl-trogen.ch">lindenbuehl</a>
-2023-11-18 paare@<a href="https://www.lindenbuehl-trogen.ch">lindenbuehl</a>
-2023-11-18 16:00 geburi@joachim # bollschweil, hexe 51
-2023-11-19 paare@<a href="https://www.lindenbuehl-trogen.ch">lindenbuehl</a>
-2023-11-19 15:00-19:00 praenatal
+#2023-11-17 paare@<a href="https://www.lindenbuehl-trogen.ch">lindenbuehl</a>
+#2023-11-18 paare@<a href="https://www.lindenbuehl-trogen.ch">lindenbuehl</a>
+#2023-11-18 16:00 geburi@joachim # bollschweil, hexe 51
+#2023-11-19 paare@<a href="https://www.lindenbuehl-trogen.ch">lindenbuehl</a>
+#2023-11-19 15:00-19:00 praenatal
 
 2023-11-21 11:00 dentist connert@uzb
 
