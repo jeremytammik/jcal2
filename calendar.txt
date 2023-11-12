@@ -10213,21 +10213,21 @@ year 2015
 2023-11-10 13:00 ruecken
 2023-11-10 14:30 geraete
 2023-11-10 18:00 abend
+2023-11-11 moni@heilkreis
+#2023-11-11 19:00-21:00 deepplay@lola # Dachraum des Quartiertreffpunkt LoLa, Lothringerstrasse 63, 4056 BaselAnmeldung bitte bis am 9.11.2023 auf info@playful-lab.ch oder auf 078/665'16'10. https://www.playful-lab.ch/
+#2023-11-11 18:00 teilete@kulturraum
+#2023-11-11 19:30 bettina maria bauer
 2023-11-11 07:30 fruehstueck
 2023-11-11 08:45 ruecken
 2023-11-11 12:00 mittag
 2023-11-11 13:30 knie-hueft
 2023-11-11 18:00 abend
 2023-11-11 19:00 ruben@brunello
-
-2023-11-11 moni@heilkreis
-
-#2023-11-11 19:00-21:00 deepplay@lola # Dachraum des Quartiertreffpunkt LoLa, Lothringerstrasse 63, 4056 BaselAnmeldung bitte bis am 9.11.2023 auf info@playful-lab.ch oder auf 078/665'16'10. https://www.playful-lab.ch/
-#2023-11-11 18:00 teilete@kulturraum
-#2023-11-11 19:30 bettina maria bauer
-
-2023-11-12 11:00 kim
-2023-11-12 13:00 moni
+2023-11-12 10:20 kim
+2023-11-12 12:30 moni
+2023-11-12 14:00 <a href="https://bagnopopolare.ch/projekte/heisse-brunnen/">heisse brunnen</a>
+2023-11-12 15:00 joerg
+2023-11-13 10:00 beat
 
 #2023-11-17 paare@<a href="https://www.lindenbuehl-trogen.ch">lindenbuehl</a>
 #2023-11-18 paare@<a href="https://www.lindenbuehl-trogen.ch">lindenbuehl</a>
@@ -10236,6 +10236,10 @@ year 2015
 #2023-11-19 15:00-19:00 praenatal
 
 2023-11-21 11:00 dentist connert@uzb
+
+#023-11-23 16:28-17:26 <a href="/Users/jta/a/doc/expense/receipt/2022/2022-11-24_sbb_bsl_bern.pdf">bsl-bern</a>
+2023-11-23 17:20-17:30 <a href="/Users/jta/a/doc/travel/trip/bern/map_zeughausgasse.png">zeughausgasse 17</a> # 3011 Bern
+2023-11-23 17:30-22:00 <a href="https://aeussererstand.ch">xmasdinner</a> # aarestadt gastro Restaurant Zum Äusseren Stand Zeughausgasse 17 3011 Bern
 
 2023-11-24 11:45 rene+tobias
 2023-11-25 novemberparty
