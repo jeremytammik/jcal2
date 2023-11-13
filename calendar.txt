@@ -10232,6 +10232,8 @@ year 2015
 2023-11-13 11:00 ausdauer@eg
 2023-11-13 14:07 visite
 2023-11-13 15:15 kreislauf@eg
+2023-11-14 13:00 kuri + fleig statik
+2023-11-14 16:00 kuri statik
 
 #2023-11-17 paare@<a href="https://www.lindenbuehl-trogen.ch">lindenbuehl</a>
 #2023-11-18 paare@<a href="https://www.lindenbuehl-trogen.ch">lindenbuehl</a>
