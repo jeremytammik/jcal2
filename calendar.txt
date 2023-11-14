@@ -10237,6 +10237,10 @@ year 2015
 2023-11-14 14:30 wasser@eg
 2023-11-14 15:45 kreislauf@eg
 2023-11-14 16:00 kuri statik
+2023-11-15 08:52 visite
+2023-11-15 09:30 wickel
+2023-11-15 11:00 ausdauer@eg
+2023-11-15 14:00 wasser@eg
 
 2023-11-17 austritt
 2023-11-17 18:00 ruhiger abend
