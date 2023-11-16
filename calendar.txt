@@ -10229,18 +10229,22 @@ year 2015
 2023-11-12 15:00 joerg
 2023-11-13 09:15 wasser@eg
 2023-11-13 10:00 beat
-2023-11-13 11:00 ausdauer@eg
+2023-11-13 11:00 ausdauer@mtt
 2023-11-13 14:07 visite
-2023-11-13 15:15 kreislauf@eg
-2023-11-14 08:15 ausdauer@eg
+2023-11-13 15:15 kreislauf@mtt
+2023-11-14 08:15 ausdauer@mtt
 2023-11-14 13:00 kuri + fleig statik
 2023-11-14 14:30 wasser@eg
-2023-11-14 15:45 kreislauf@eg
+2023-11-14 15:45 kreislauf@mtt
 2023-11-14 16:00 kuri statik
 2023-11-15 08:52 visite
 2023-11-15 09:30 wickel
-2023-11-15 11:00 ausdauer@eg
+2023-11-15 11:00 ausdauer@mtt
 2023-11-15 14:00 wasser@eg
+2023-11-16 08:15 training@mtt
+2023-11-16 10:00 austritt
+2023-11-16 13:00 ausdauer@mtt
+2023-11-16 15:45 knie-hueft
 
 2023-11-17 austritt
 2023-11-17 10:00-14:00 pia + rene
