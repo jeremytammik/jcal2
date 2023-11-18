@@ -10249,7 +10249,8 @@ year 2015
 2023-11-17 10:00 austritt freihof
 2023-11-17 10:00-14:00 pia + rene
 2023-11-17 18:00 ruhiger abend
-2023-11-18 18:00 fondue + sauna
+2023-11-18 16:00 fondue
+2023-11-18 18:00 sauna
 
 #2023-11-17 paare@<a href="https://www.lindenbuehl-trogen.ch">lindenbuehl</a>
 #2023-11-18 paare@<a href="https://www.lindenbuehl-trogen.ch">lindenbuehl</a>
