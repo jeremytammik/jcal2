@@ -10246,10 +10246,10 @@ year 2015
 2023-11-16 13:00 ausdauer@mtt
 2023-11-16 15:45 knie-hueft
 
-2023-11-17 austritt
+2023-11-17 10:00 austritt freihof
 2023-11-17 10:00-14:00 pia + rene
 2023-11-17 18:00 ruhiger abend
-2023-11-18 18:00 fondue
+2023-11-18 18:00 fondue + sauna
 
 #2023-11-17 paare@<a href="https://www.lindenbuehl-trogen.ch">lindenbuehl</a>
 #2023-11-18 paare@<a href="https://www.lindenbuehl-trogen.ch">lindenbuehl</a>
@@ -10258,6 +10258,7 @@ year 2015
 
 2023-11-19 15:00-19:00 praenatal
 
+2023-11-20 14:00 physio@bethesda
 2023-11-21 11:00 dentist connert@uzb
 
 #023-11-23 16:28-17:26 <a href="/Users/jta/a/doc/expense/receipt/2022/2022-11-24_sbb_bsl_bern.pdf">bsl-bern</a>
@@ -10266,7 +10267,7 @@ year 2015
 
 2023-11-24 11:45 rene+tobias
 2023-11-25 novemberparty
-2023-11-26 sweat lodge
+#2023-11-26 sweat lodge
 
 2023-12-03 19:00-20:30 tanz@lichtraum
 
