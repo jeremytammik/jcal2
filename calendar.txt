@@ -10259,7 +10259,7 @@ year 2015
 
 2023-11-19 15:00-19:00 praenatal
 
-2023-11-20 14:00 physio@bethesda
+2023-11-20 14:00 physio@bethesda # Frau L. Gomes Erdgeschoss Raum C 008
 2023-11-21 11:00 dentist connert@uzb
 
 #023-11-23 16:28-17:26 <a href="/Users/jta/a/doc/expense/receipt/2022/2022-11-24_sbb_bsl_bern.pdf">bsl-bern</a>
