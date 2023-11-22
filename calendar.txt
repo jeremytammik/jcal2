@@ -10282,6 +10282,7 @@ year 2015
 
 2023-12-14 09:00 xray@unispital b4 # radiologie spitalstrasse 21 1 stock
 2023-12-14 09:30 chat@unispital b4 # orthopaedie + traumatologie erdgeschoss
+2023-12-14 10:45 dentist connert@uzb # pull tooth nr. 18
 
 2023-12-23 moni@heilkreis
 2023-12-23 wildhaus begin
@@ -10289,6 +10290,8 @@ year 2015
 2023-12-25 anne-marie
 2023-12-27 bafudi?
 2024-01-01 wildhaus end
+
+2024-01-15 14:00 dentist connert@uzb # fix caries two spots
 
 2024-01-28 15:00-19:00 praenatal
 2024-02-25 15:00-19:00 praenatal
