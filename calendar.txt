@@ -10263,9 +10263,12 @@ year 2015
 2023-11-21 11:00 dentist connert@uzb
 2023-11-22 16:30 2 physio@bethesda # Frau L. Gomes Erdgeschoss Raum C 008
 
-#023-11-23 16:28-17:26 <a href="/Users/jta/a/doc/expense/receipt/2022/2022-11-24_sbb_bsl_bern.pdf">bsl-bern</a>
+2023-11-23 15:31-15:50 loe-sbb
+2023-11-23 15:56-16:56 <a href="/Users/jta/a/doc/expense/receipt/2023/2023-11-23_sbb_bsl_bern.pdf">bsl-bern</a>
+2023-11-23 16:28-17:26 <a href="/Users/jta/a/doc/expense/receipt/2023/2023-11-23_sbb_bsl_bern.pdf">bsl-bern</a>
 2023-11-23 17:20-17:30 <a href="/Users/jta/a/doc/travel/trip/bern/map_zeughausgasse.png">zeughausgasse 17</a> # 3011 Bern
 2023-11-23 17:30-22:00 <a href="https://aeussererstand.ch">xmasdinner</a> # aarestadt gastro Restaurant Zum Äusseren Stand Zeughausgasse 17 3011 Bern
+2023-11-23 21:36-23:10 bern-loe
 
 2023-11-24 11:45 rene + tobias
 2023-11-25 novemberparty
@@ -10294,6 +10297,9 @@ year 2015
 2024-01-15 14:00 dentist connert@uzb # fix caries two spots
 
 2024-01-28 15:00-19:00 praenatal
+
+2024-02-01 10:45 mikael palas osteopatie # rosenstrasse 12 liestal
+
 2024-02-25 15:00-19:00 praenatal
 2024-03-02 15:00-19:00 praenatal
 
