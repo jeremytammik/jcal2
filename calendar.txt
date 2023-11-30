@@ -10316,6 +10316,12 @@ year 2015
 
 2024-06-16 openday@beatfehr
 
+2024-07-20 moni ferien begin
+2024-08-09 moni ferien end
+
+2024-10-14 moni ferien begin
+2024-10-18 moni ferien end
+
 2024-11-08 telpaare
 2024-11-09 telpaare
 2024-11-10 telpaare
