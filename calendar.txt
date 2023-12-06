@@ -9950,7 +9950,7 @@ year 2015
 2023-03-20 18:00-20:00 <a href="https://casafair.ch/events/solarenergie-vom-eigenen-dach">solar</a>@nik
 2023-03-22 15:00 coffee@maike
 2023-03-23 messe@gruett
-2023-03-23 17:00 solar@baptisten # BuergerSolarberater, feldberg 12
+2023-03-23 17:00 bsb@baptisten # BuergerSolarberater, feldberg 12
 2023-03-23 19:00 apero@dav
 2023-03-23 20:00 <a href="https://www.dav-loerrach.de/media/2023_mitgliederversammlung.png">mv@dav</a> # aula tonart, baumgartnerstr. 28, campus rosenfels
 2023-03-25 11:00-13:00 uhr solarberater gruppen # BuergerSolarberater workshop grundlinien fuer bsb-gruppen
@@ -9958,7 +9958,7 @@ year 2015
 
 2023-03-27 11:30 marcus@h30 # freund
 
-2023-03-31 11:00 solar@zoom # BuergerSolarberater tandempartner zeitplanung
+2023-03-31 11:00 bsb@zoom # BuergerSolarberater tandempartner zeitplanung
 2023-03-31 15:00-17:00 flora@otto
 2023-03-31 18:00 thomas
 
@@ -9969,7 +9969,7 @@ year 2015
 #2023-04-01 14:00 <a href="/Users/jta/j/tmp/2023-04-01_sweatlodge.pdf">sweatlodge@muelital</a> -- cancelled
 #2023-04-02 13:00 sweatlodge end
 
-2023-04-03 17:00 solar@zoom # BuergerSolarberater tandempartner mit christian koch
+2023-04-03 17:00 bsb@zoom # BuergerSolarberater tandempartner mit christian koch
 2023-04-03 19:00 halbseil@dav
 2023-04-03 19:30 trauma@online
 
@@ -9986,7 +9986,7 @@ year 2015
 2023-04-12 20:30 swing+drum@bafudi
 #2023-04-15 11:00-16:00 klimagartenkunterbunt
 2023-04-16 11:00-16:00 community@muenchenstein
-2023-04-17 17:00 solar@zoom # BuergerSolarberater tandempartner
+2023-04-17 17:00 bsb@zoom # BuergerSolarberater tandempartner
 2023-04-18 19:30 stammtisch@fairvelo
 2023-04-20 16:00 bsb@nellie
 2023-04-22 10:00 frauen@jacqueline
@@ -10012,14 +10012,14 @@ year 2015
 2023-05-01 tichu@wiechs
 
 2023-05-02 10:00-11:00 kuri@schopfheim # belchenstrasse 80
-2023-05-02 17:00-18:30 solar@zoom # BuergerSolarberater tandempartner
-2023-05-03 16:00-17:40 solar@kaltenbach # kaltenbach-stiftung, konrad-adenauer-strasse 22
+2023-05-02 17:00-18:30 bsb@zoom # BuergerSolarberater tandempartner
+2023-05-03 16:00-17:40 bsb@kaltenbach # kaltenbach-stiftung, konrad-adenauer-strasse 22
 2023-05-03 18:00 klima@schoepflin
 2023-05-05 10:00 barbara umzug
 2023-05-06 10:00 hirschenhof
 2023-05-07 14:30 stoepsel@loe
-2023-05-09 10:00 solar@h30
-2023-05-10 17:00-18:30 solar@zoom # BuergerSolarberater tandempartner
+2023-05-09 10:00 bsb@h30
+2023-05-10 17:00-18:30 bsb@zoom # BuergerSolarberater tandempartner
 2023-05-11 15:00 dentist connert@uzb
 2023-05-12 10:00 delzer@kuri # schopfheim belchenstrasse 80
 2023-05-12 13:30 nik@h30
@@ -10029,7 +10029,7 @@ year 2015
 2023-05-15 15:00 coffee@<a href="/Users/jta/a/doc/travel/trip/loerrach/map_markgrafen_23.png">rupi</a>
 2023-05-17 18:00-19:30 pvselbst@nellie
 2023-05-18 08:28-10:05 <a href="/Users/jta/a/doc/expense/receipt/2023/2023-05-18_sbb_bsl_langnau.pdf">bsl-langnau</a>
-2023-05-20 10:00 solar@salzert # astrid maintok fridolin-engel 57
+2023-05-20 10:00 bsb@salzert # astrid maintok fridolin-engel 57
 2023-05-22 17:30 co@moni
 2023-05-24 17:00 kernies@bafudi
 2023-05-25 15:30-17:00 bsb@nellie
@@ -10084,7 +10084,7 @@ year 2015
 2023-07-16 11:00-18:00 <a href="/Users/jta/j/tmp/2023-07-16_ateliergarten.pdf">ateliergARTen@gruett</a> # petra pompe + paolo pinna, gartenanlage im gruett, garten nr. 3 beim haagensteg
 
 2023-07-18 15:00 markus@h30?
-2023-07-18 18:00 solar@rtk@kaltenbachstiftung # Vorstellung der Bürgersolarberater im Rahmen der nächsten Präsenzveranstaltung des RTK in der kaltenbachstiftung
+2023-07-18 18:00 bsb@rtk@kaltenbach # Vorstellung der Bürgersolarberater im Rahmen der nächsten Präsenzveranstaltung des RTK in der kaltenbachstiftung
 2023-07-19 sommercamp begin
 2023-07-20 15:30 bsb@nellie
 2023-07-28 geburi@hanno
@@ -10286,6 +10286,7 @@ year 2015
 2023-12-04 10:00 4 physio@bethesda # Frau L. Gomes Erdgeschoss Raum C 008
 2023-12-05 19:00 sing@h34
 2023-12-06 13:00 barbara + michael
+2023-12-07 15:30-18:00 bsb@kaltenbach
 
 #2023-12-08 dani + paolo
 #2023-12-09 dani + paolo
