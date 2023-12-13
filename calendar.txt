@@ -10296,6 +10296,8 @@ year 2015
 2023-12-10 15:00-19:00 praenatal
 2023-12-11 13:00 5 physio@bethesda # Frau L. Gomes Erdgeschoss Raum C 008
 
+2023-12-13 10:30-12:30 wld@zoom
+
 2023-12-14 09:00 xray@unispital b4 # radiologie spitalstrasse 21 1 stock
 2023-12-14 09:30 chat@unispital b4 # orthopaedie + traumatologie erdgeschoss
 2023-12-14 10:45 dentist connert@uzb # pull tooth nr. 18
