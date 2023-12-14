@@ -10333,6 +10333,9 @@ year 2015
 
 2024-03-02 15:00-19:00 praenatal
 
+2024-04-11 10:20 xray@unispital b4 # radiologie spitalstrasse 21 1 stock
+2024-04-11 10:50 chat@unispital b4 # orthopaedie + traumatologie erdgeschoss
+
 2024-05-03 telpaare@kiental
 2024-05-04 telpaare@kiental
 2024-05-05 telpaare@kiental
