@@ -10333,6 +10333,10 @@ year 2015
 
 2024-03-02 15:00-19:00 praenatal
 
+2024-03-08 19:00 <a href="https://come-together-songs.de/event/heilkraft-gesang-tanz-und-gemeinschaft-2/">singen@saig</a> begin
+2024-03-09 singen@saig
+2024-03-10 13:00 singen@saig end
+
 2024-04-11 10:20 xray@unispital b4 # radiologie spitalstrasse 21 1 stock
 2024-04-11 10:50 chat@unispital b4 # orthopaedie + traumatologie erdgeschoss
 
