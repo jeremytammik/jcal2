@@ -10312,9 +10312,10 @@ year 2015
 2023-12-21 13:00 8 physio@bethesda # Frau L. Gomes Erdgeschoss Raum C 008
 
 2023-12-23 moni@heilkreis
-2023-12-23 wildhaus begin
 2023-12-24 martina
 2023-12-25 anne-marie
+2023-12-25 lina@loe
+2023-12-26 wildhaus begin
 2023-12-27 bafudi?
 2023-12-28 13:00 9 physio@bethesda # Frau L. Gomes Erdgeschoss Raum C 008
 2024-01-01 wildhaus end
