@@ -10319,7 +10319,9 @@ year 2015
 2023-12-27 bafudi?
 2023-12-28 13:00 9 physio@bethesda # Frau L. Gomes Erdgeschoss Raum C 008
 2024-01-01 wildhaus end
-2024-01-02 augenarzt@niedeholz # rauracher 30
+2024-01-02 15:00 augenarzt@niedeholz # rauracher 30
+
+2024-01-08 15:00 karl@wld
 
 2024-01-15 14:00 dentist connert@uzb # fix caries two spots
 
