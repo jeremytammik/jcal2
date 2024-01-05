@@ -10323,8 +10323,10 @@ year 2015
 
 2024-01-08 15:00 karl@wld
 
+2024-01-12 moni@schwaibenalp begin
 2024-01-13 19:45-20:40 rosewave@nellie
 2024-01-14 19:00-20:30 rosewave@lichtraum # Haltingerstr. 10
+2024-01-14 moni@schwaibenalp end
 
 2024-01-15 14:00 dentist connert@uzb # fix caries two spots
 
