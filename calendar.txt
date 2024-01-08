@@ -10350,7 +10350,9 @@ year 2015
 2024-03-09 singen@saig
 2024-03-10 13:00 singen@saig end
 
+2024-03-20 12:25-15:05 bsl-agp # booking K6MXLL3 Basel to Malaga EZS1005 Departure 12:25 Wed 20th Mar  Arrival 15:05
 2024-03-23 lina ferien begin
+2024-04-04 14:30-17:05 agp-bsl # booking K6MXLL3 Malaga to Basel EJU7021 Departure 14:30 Thu 4th Apr Arrival 17:05
 2024-04-07 lina ferien end
 
 2024-04-11 10:20 xray@unispital b4 # radiologie spitalstrasse 21 1 stock
