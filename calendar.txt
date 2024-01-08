@@ -10322,6 +10322,7 @@ year 2015
 2024-01-02 15:00 augenarzt@niedeholz # rauracher 30
 
 2024-01-08 15:00 karl@wld
+2024-01-09 09:00 cipriano@wld
 
 2024-01-12 moni@schwaibenalp begin
 2024-01-13 19:45-20:40 rosewave@nellie
