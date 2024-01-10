@@ -10319,11 +10319,13 @@ year 2015
 2023-12-27 bafudi?
 2023-12-28 13:00 9 physio@bethesda # Frau L. Gomes Erdgeschoss Raum C 008
 2024-01-01 wildhaus end
-2024-01-02 15:00 augenarzt@niedeholz # rauracher 30
+2024-01-02 15:00 augenarzt@niederholz # rauracher 30
 
 2024-01-08 15:00 karl@wld
-2024-01-10 09:00 cipriano@wld
+#2024-01-09 09:00 cipriano@wld # postponed due to illness
+#2024-01-10 09:00 cipriano@wld # postponed due to illness
 2024-01-11 15:00 nik@wld
+2024-01-12 09:00 cipriano@wld
 
 2024-01-12 moni@schwaibenalp begin
 2024-01-13 19:45-20:40 rosewave@nellie
