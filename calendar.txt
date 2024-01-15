@@ -10341,6 +10341,7 @@ year 2015
 2024-01-30 17:00 .net core # 11:00 EST .NET Core Migration Webinar
 
 2024-02-01 10:45 mikael palas osteopatie # rosenstrasse 12 liestal
+2024-02-02 19:00 8femmes@hinterhofkino # oetlingerstrasse 183
 
 2024-02-20 stammtisch # zum guten leben Februar
 
