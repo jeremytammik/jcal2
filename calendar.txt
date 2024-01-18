@@ -10332,12 +10332,13 @@ year 2015
 2024-01-14 19:00-20:30 rosewave@lichtraum # Haltingerstr. 10
 2024-01-14 moni@schwaibenalp end
 
-2024-01-15 09:00-17:00 cipriano@wld # cipriano in short bursts, three others all day
+2024-01-15 08:00-17:00 cipriano@wld # cipriano in short bursts, three others all day
 2024-01-15 14:00 dentist connert@uzb # fix caries two spots
 
-2024-01-16 09:00-17:00 cipriano@wld # cipriano in short bursts, three others all day
+2024-01-16 09:00-17:00 cipriano@wld # cipriano in short bursts, two others all day
 2024-01-16 17:00 ulrich@zoom # arduino
 
+2024-01-21 10:00 schleith@wld
 2024-01-21 14:00-16:00 party@rose # Einweihungsfest, 3 Obergeschoss, Schopfheimer Str. 25, Brombach
 
 2024-01-28 15:00-19:00 praenatal
