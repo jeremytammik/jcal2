@@ -9925,14 +9925,14 @@ year 2015
 2023-03-03 10:00 jf + jj + jt
 2023-03-05 waedel@grindelwald end
 
-2023-03-04 10:00-14:00 uhr solarberater auftakt # BuergerSolarberater auftakt-workshop
+2023-03-04 10:00-14:00 bsb # buergersolarberater auftakt-workshop
 2023-03-04 wildhaus begin
 2023-03-05 pia+rene begin
 2023-03-08 pia+rene end
 2023-03-10 14:00 ciprian#h30
 2023-03-10 17:30-18:30 bsb@nellie # BuergerSolarberater
 2023-03-11 wildhaus end
-2023-03-11 10:00-14:00 uhr solarberater gespraech # BuergerSolarberater workshop beratungsgespraeche
+2023-03-11 10:00-14:00 bsb # BuergerSolarberater workshop beratungsgespraeche
 
 2023-03-13 09:00-10:00 kaminfeger
 
@@ -9941,7 +9941,7 @@ year 2015
 2023-03-16 18:00 bsb@nellie # BuergerSolarberater
 
 2023-03-18 zaunpfosten@h30
-2023-03-18 10:00-14:00 uhr solarberater rechentool # BuergerSolarberater workshop rechentools
+2023-03-18 10:00-14:00 bsb # BuergerSolarberater workshop rechentools
 2023-03-19 13:00 moni@frauen
 2023-03-19 15:00 praenatal
 2023-03-19 19:00 tatjana + j
@@ -9953,7 +9953,7 @@ year 2015
 2023-03-23 17:00 bsb@baptisten # BuergerSolarberater, feldberg 12
 2023-03-23 19:00 apero@dav
 2023-03-23 20:00 <a href="https://www.dav-loerrach.de/media/2023_mitgliederversammlung.png">mv@dav</a> # aula tonart, baumgartnerstr. 28, campus rosenfels
-2023-03-25 11:00-13:00 uhr solarberater gruppen # BuergerSolarberater workshop grundlinien fuer bsb-gruppen
+2023-03-25 11:00-13:00 bsb # BuergerSolarberater workshop grundlinien fuer bsb-gruppen
 2023-03-25 13:00 sweat@wiechs
 
 2023-03-27 11:30 marcus@h30 # freund
@@ -10084,7 +10084,7 @@ year 2015
 2023-07-16 11:00-18:00 <a href="/Users/jta/j/tmp/2023-07-16_ateliergarten.pdf">ateliergARTen@gruett</a> # petra pompe + paolo pinna, gartenanlage im gruett, garten nr. 3 beim haagensteg
 
 2023-07-18 15:00 markus@h30?
-2023-07-18 18:00 bsb@rtk@kaltenbach # Vorstellung der Bürgersolarberater im Rahmen der nächsten Präsenzveranstaltung des RTK in der kaltenbachstiftung
+2023-07-18 18:00 bsb@kaltenbach # Vorstellung der Bürgersolarberater im Rahmen der nächsten Präsenzveranstaltung des RTK in der kaltenbachstiftung
 2023-07-19 sommercamp begin
 2023-07-20 15:30 bsb@nellie
 2023-07-28 geburi@hanno
@@ -10342,6 +10342,8 @@ year 2015
 
 2024-01-21 10:00 schleith@wld
 2024-01-21 14:00-16:00 party@rose # Einweihungsfest, 3 Obergeschoss, Schopfheimer Str. 25, Brombach
+
+2024-01-25 15:30 bsb@nellie
 
 2024-01-28 15:00-19:00 praenatal
 
