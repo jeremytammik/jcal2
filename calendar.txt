@@ -10344,6 +10344,7 @@ year 2015
 2024-01-21 14:00-16:00 party@rose # Einweihungsfest, 3 Obergeschoss, Schopfheimer Str. 25, Brombach
 
 2024-01-25 15:30 bsb@nellie
+2024-01-25 19:15-22:00 <a href="https://bryanpeters.ch/playfight/">playfight</a> # spiel- und freizeithalle dreirosenbrücke
 
 2024-01-26 09:00-12:00 delzer
 2024-01-26 19:00 schnitzelbank@hauingen
