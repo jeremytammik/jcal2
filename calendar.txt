@@ -10344,11 +10344,13 @@ year 2015
 2024-01-21 14:00-16:00 party@rose # Einweihungsfest, 3 Obergeschoss, Schopfheimer Str. 25, Brombach
 
 2024-01-25 15:30 bsb@nellie
+2024-01-25 16:00-16:30 bosch@zoom
 2024-01-25 19:15-22:00 <a href="https://bryanpeters.ch/playfight/">playfight</a> # spiel- und freizeithalle dreirosenbrücke
 
-2024-01-26 09:00-12:00 delzer
+2024-01-26 09:00-12:00 delzer@h30
 2024-01-26 19:00 schnitzelbank@hauingen
 2024-01-27 09:00 medi@jeremy
+2024-01-27 11:45 demo@rathausplatz
 2024-01-27 18:00 food@maike
 2024-01-28 15:00-19:00 praenatal
 
@@ -10362,7 +10364,11 @@ year 2015
 
 2024-02-25 15:00-19:00 praenatal
 
+2024-02-26 wildhaus begin
+
 2024-02-27 meet rvt expert
+
+2024-03-02 wildhaus end
 
 2024-03-02 15:00-19:00 praenatal
 
