@@ -10355,6 +10355,7 @@ year 2015
 2024-01-28 15:00-19:00 praenatal
 
 2024-01-30 09:00-12:30 pv@kaltenbach
+2024-01-30 12:00 tel hering # 07626/7098, 0172/9590988
 2024-01-30 17:00 .net core # 11:00 EST .NET Core Migration Webinar
 
 2024-02-01 10:45 mikael palas osteopatie # rosenstrasse 12 liestal
