@@ -10345,7 +10345,7 @@ year 2015
 
 2024-01-25 15:30 bsb@nellie
 2024-01-25 16:00-16:30 bosch@zoom
-2024-01-25 19:15-22:00 <a href="https://bryanpeters.ch/playfight/">playfight</a> # spiel- und freizeithalle dreirosenbrücke
+#2024-01-25 19:15-22:00 <a href="https://bryanpeters.ch/playfight/">playfight</a> # spiel- und freizeithalle dreirosenbrücke
 
 2024-01-26 09:00-12:00 delzer@h30
 2024-01-26 19:00 schnitzelbank@hauingen
@@ -10356,7 +10356,7 @@ year 2015
 
 2024-01-30 09:00-12:30 pv@kaltenbach
 2024-01-30 12:00 tel hering # 07626/7098, 0172/9590988
-2024-01-30 17:00 .net core # 11:00 EST .NET Core Migration Webinar
+#2024-01-30 17:00 .net core # 11:00 EST .NET Core Migration Webinar
 
 2024-02-01 10:45 mikael palas osteopatie # rosenstrasse 12 liestal
 2024-02-02 17:00 stefan + franziska
