@@ -10343,7 +10343,6 @@ year 2015
 2024-01-21 10:00 schleith@wld
 2024-01-21 14:00-16:00 party@rose # Einweihungsfest, 3 Obergeschoss, Schopfheimer Str. 25, Brombach
 
-2024-01-24 14:00-14:30 mikako@zoom # yearly one-on-one review meeting
 2024-01-25 15:30 bsb@nellie
 2024-01-25 16:00-16:30 bosch@zoom
 #2024-01-25 19:15-22:00 <a href="https://bryanpeters.ch/playfight/">playfight</a> # spiel- und freizeithalle dreirosenbrücke
@@ -10363,6 +10362,10 @@ year 2015
 2024-02-02 17:00 stefan + franziska
 2024-02-02 19:00 8femmes@hinterhofkino # oetlingerstrasse 183
 
+2024-02-04 08:30 medi@moni
+2024-02-04 09:00 medi@karen
+
+2024-02-06 14:00-14:30 mikako@zoom # yearly one-on-one review meeting
 2024-02-08 17:00 jimq@zoom # das all hands meeting
 2024-02-09 09:00 hering@wld
 2024-02-09 18:00 pia + rene begin
