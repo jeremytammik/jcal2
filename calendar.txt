@@ -10362,8 +10362,8 @@ year 2015
 2024-02-02 17:00 stefan + franziska
 2024-02-02 19:00 8femmes@hinterhofkino # oetlingerstrasse 183
 
-2024-02-04 08:30 medi@moni
-2024-02-04 09:00 medi@karen
+2024-02-03 09:00 medi@karen
+2024-02-04 11:00 jurtenzeit
 
 2024-02-06 14:00-14:30 mikako@zoom # yearly one-on-one review meeting
 2024-02-08 17:00 jimq@zoom # das all hands meeting
