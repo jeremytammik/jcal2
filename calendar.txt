@@ -10368,7 +10368,6 @@ year 2015
 2024-02-06 14:00-14:30 mikako@zoom # yearly one-on-one review meeting
 2024-02-06 17:45 yoga@lichtraum
 2024-02-08 17:00 jimq@zoom # das all hands meeting
-2024-02-09 09:00 hering@wld
 2024-02-09 18:00 pia + rene begin
 2024-02-10 08:00 hering@wld
 2024-02-10 pia + rene
