@@ -10405,9 +10405,13 @@ year 2015
 
 2024-04-19 stammtisch # zum guten leben April
 
-2024-05-03 telpaare@kiental
+2024-05-03 18:00 <a href="/Users/jta/j/doc/tel/2024-02-10_kientalerhof.pdf">telpaare@kiental</a>
+# Kientalerhof: Das Zimmer steht Ihnen in der Regel ab 14 Uhr zur Verfügung.
+# Am Abreisetag ist es bis 9.30 Uhr freizugeben.
+# Anzahlung von 20% (CHF 114,40) der Gesamtkosten (CHF 572,00) innert 14 Tagen.
+# Die Restzahlung (CHF 457,60) ist bis 14 Tage vor Kursbeginn fällig.
 2024-05-04 telpaare@kiental
-2024-05-05 telpaare@kiental
+2024-05-05 14:00 telpaare end
 
 2024-05-26 dreilaenderlauf
 
