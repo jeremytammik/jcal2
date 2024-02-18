@@ -10389,6 +10389,9 @@ year 2015
 2024-02-21 16:00 tatjana + juergen
 2024-02-21 19:00 sauna
 2024-02-22 14:00 peter@wld
+2024-02-23 09:00 depart
+2024-02-23 10:00 dieter@kandern
+2024-02-23 12:00 return
 
 2024-02-25 wildhaus begin
 2024-02-25 15:00-19:00 praenatal
