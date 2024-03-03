@@ -771,8 +771,2058 @@ every friday in year 08:30-10:00 yoga
 #
 # beginning of normal calendar dates:
 #
-# years 2003-2009 backup in calendar_2003_2009.txt
+2003-02-22 ski
+2003-02-23 ski
+2003-02-24 ski
+2003-02-25 ski
+2003-02-26 ski
+2003-02-27 ski
+2003-02-28 ski
+2003-03-01 ski
+
+2003-03-08 maenner
+2003-03-09 maenner
+
+2003-05-29 pfingstferien bis 15.6
+2003-06-15 pfingstferien ende
+
+2003-07-24 ferien bis 7.9
+2003-09-07 ferien ende
+
+2003-10-24 bhs2
+2003-10-25 bhs2
+2003-10-26 bhs2
+2003-10-27 bhs2
+2003-10-28 bhs2
+2003-10-29 bhs2
+2003-10-30 bhs2
+2003-10-31 bhs2
+2003-11-01 bhs training
+2003-11-02 bhs training
+
+2003-11-06 15:00 bieri
+
+2003-11-27 zwoelftklassspiel
+
+2003-12-10 fa 363,-
+
+2003-12-20 nick chamonix
+2003-12-21 chamonix
+2003-12-22 chamonix
+2003-12-23 chamonix
+2003-12-24 chamonix
+2003-12-25 kids
+2003-12-26 kids
+
+2003-12-28 nick chamonix
+
+2004-01-01 stuttgarter 4k
+
+2004-01-02 georg
+2004-01-02 sandra
+2004-01-03 georg
+2004-01-03 sandra
+2004-01-04 sandra
+2004-01-04 herwig
+2004-01-08 bieri
+2004-01-16 ehmke band
+2004-01-17 georg
+2004-01-18 georg
+
+2004-01-10 fa 180,-
+
+2004-02-07 14:00 achtklassarbeit
+
+2004-02-13 zwoelftklassarbeit
+2004-02-14 zwoelftklassarbeit
+
+2004-03-14 bhs training
+2004-03-15 bhs training
+2004-03-16 bhs training
+2004-03-17 bhs training
+2004-03-18 bhs training
+2004-03-19 bhs training
+
+2004-03-26 achtklassspiel
+2004-03-27 achtklassspiel
+
+2004-04-29 maenner
+2004-04-30 maenner
+2004-05-01 maenner
+2004-05-02 maenner
+
+2004-06-25 bhs3
+2004-06-26 bhs3
+2004-06-27 bhs3
+2004-06-28 bhs3
+2004-06-29 bhs3
+2004-06-30 bhs3
+2004-07-01 bhs3
+2004-07-02 bhs3
+2004-07-03 bhs training
+2004-07-04 bhs training
+
+2004-07-14 11:00 bieri
+
+2004-07-29 summer holidays
+
+2004-08-08 J kids holidays
+2004-08-22 J kids holidays end
+
+2004-08-28 bhs holiday 12:30 zch
+2004-08-29 bhs holiday
+2004-08-30 bhs holiday
+2004-08-31 bhs holiday
+2004-09-01 bhs holiday
+2004-09-02 bhs holiday
+2004-09-03 bhs holiday
+2004-09-04 bhs holiday 17:50 zch
+
+2004-09-12 summer holidays end
+
+2004-09-18 maenner
+2004-09-19 maenner
+
+2004-10-22 bhs training
+2004-10-23 bhs training
+2004-10-24 bhs training
+2004-10-25 bhs training
+2004-10-26 bhs training
+2004-10-27 bhs training
+2004-10-28 bhs training
+2004-10-29 bhs training
+
+2005-01-07 bhs nicola sueftenenhuette
+2005-01-08 bhs
+2005-01-09 bhs
+
+2005-01-28 georg
+
+2005-02-08 14:00 plone eth zh
+
+2005-02-13 nick chamonix 1 week
+
+2005-02-15 9:00 adc
+2005-02-16 9:00 luci
+2005-02-17 14:00 bieri
+
+2005-03-03 9:00 thoma
+2005-03-05 rossbodenstock
+
+2005-03-07 15:30 roses
+2005-03-07 dz kredit
+
+2005-03-08 14:00 plone ws be
+2005-03-09 14:00 bieri
+2005-03-11 9:00 luci db migration
+
+2005-03-11 bhs4
+2005-03-12 bhs4
+2005-03-13 bhs4
+2005-03-14 bhs4
+2005-03-15 bhs4
+2005-03-16 bhs4
+2005-03-17 bhs4
+2005-03-18 bhs4
+2005-03-19 bhs training
+2005-03-20 bhs training
+
+2005-03-19 osterferien
+2005-03-21 osterferien
+2005-03-22 osterferien
+2005-03-23 osterferien
+2005-03-24 osterferien
+2005-03-25 osterferien
+2005-03-26 osterferien
+2005-03-27 osterferien
+2005-03-28 osterferien
+2005-03-29 osterferien
+2005-03-30 osterferien
+2005-03-31 osterferien
+2005-04-01 osterferien
+2005-04-02 osterferien
+2005-04-03 osterferien
+
+2005-04-02 skitour markus_mueller daubenhorn
+2005-04-03 skitour markus_mueller wildstrubel
+2005-04-04 skitour markus_mueller steghorn
+
+2005-04-05 14:00 bieri
+2005-04-06 maenner christian
+
+2005-04-08 stiller has
+2005-04-10 fr marathon
+
+2005-04-16 thomas tanzfest
+
+2005-04-19 plone event zh
+
+21.4.2005 14:00 bieri
+2005-04-21 paul carter
+2005-04-22 14:00 kids
+
+2005-04-30 michael + petra
+2005-05-01 michael + petra
+2005-05-01 markus_mueller?
+
+2005-05-10 14:00 nicole
+
+2005-05-14 moni b
+2005-05-15 moni b
+
+2005-05-27 08:00 int treuhand
+2005-05-28 16:00 be connected
+
+2005-06-10 10:00-12:00 bieri
+
+2005-06-10 bhs training
+2005-06-11 bhs training
+2005-06-12 bhs training
+2005-06-13 bhs training
+2005-06-14 bhs training
+2005-06-15 bhs training
+2005-06-16 bhs training
+2005-06-17 bhs training
+
+2005-06-19 08:00-10:25 bsl-bcn
+2005-06-20 techcamp sitges
+2005-06-21 techcamp sitges
+2005-06-22 techcamp sitges
+2005-06-22 18:15-22:30 bcn-muc
+2005-06-23 ac ce munich
+2005-06-25 moni party
+
+2005-06-27 witron
+2005-06-28 witron
+
+2005-07-06 8:30 msd conference call
+
+2005-07-09 sonja loe
+2005-07-09 19:00 maria abi feier
+
+2005-07-11 meri_travel
+2005-07-12 meri
+2005-07-13 meri
+2005-07-14 meri
+
+2005-07-16 11:00 velotour
+
+2005-07-22 19:00 nick chamonix
+2005-07-23 17:00 regina & florian bday party
+2005-07-25 chamonix?
+
+2005-07-27 nick chamonix end
+2005-07-28 schulferien
+
+2005-07-29 chris in sweden 14 days
+
+2005-08-05 skitour dias markus_mueller
+2005-08-06 corny windsurf begin
+2005-08-06 sandra sommerfest
+
+2005-08-08 ne-non-nr?
+
+2005-08-09 manoj munich
+2005-08-10 manoj munich
+2005-08-11 manoj munich
+
+2005-08-13 corny windsurf end
+2005-08-13 sandra schnuppertag theaterimpro
+2005-08-13 anbara 40 bday party
+2005-08-14 11:00-19:00 sonja
+2005-08-14 chris return from sweden
+
+2005-08-22 ne-non-nr?
+
+2005-08-24 vault and ps api munich
+2005-08-24 chris bund lager until 2.9
+2005-08-25 13:00 doris
+
+2005-08-26 ulrike hochzeit
+
+2005-08-26 rose regina workshop
+2005-08-27 rose regina workshop
+2005-08-28 rose regina workshop
+
+2005-09-02 chris return from bund lager
+2005-09-03 rose fest
+
+2005-09-05 ne-non-nr?
+
+2005-09-07 vault and ps api munich
+
+2005-09-10 aob treff
+
+2005-09-12 05:30-8:35 bsl-agp
+
+2005-09-17 fr aob sommerfest
+2005-09-19 holiday neuchatel jeune federal
+
+2005-09-24 13:00-16:05 agp-bsl
+2005-09-24 16:00 nicola 40 # Am Samstag, den 24. September, im L‰bihus in Muenchenbuchsee, an der Muehlestr. 39 ab 16 Uhr.
+
+2005-09-26 ne-non-nr?
+
+2005-09-27 ac dev team meeting
+
+2005-10-03 ne-non-nr?
+
+2005-10-09 fws herbstfest 17:00 abbau
+
+2005-10-14 20:00 andrea party
+2005-10-15 maenner cs + mw
+2005-10-16 maenner cs + mw
+
+2005-10-18 ne-non-nr?
+2005-10-18 15:00 bieri
+
+2005-10-19 witron
+2005-10-20 witron
+2005-10-21 witron
+
+2005-10-21 22:05 helene arr
+2005-10-22 helene
+2005-10-23 07:05 helene dep
+
+2005-10-25 inventor api munich
+2005-10-26 inventor api munich
+2005-10-27 inventor api munich
+
+2005-10-29 paris
+2005-10-30 paris
+2005-10-31 paris
+2005-10-31 14:00 jan development methodology
+2005-11-01 paris
+2005-11-02 paris vault ps api
+2005-11-03 paris
+2005-11-04 10:00 bieri
+
+2005-11-05 veena + anna
+
+2005-11-08 ne-non-nr?
+
+2005-11-10 witron
+
+2005-11-16 ne-non-nr?
+
+2005-11-17 ssi
+2005-11-18 ssi
+
+2005-11-20 14:00 rose finissage oetlingen dorf 85
+
+2005-11-23 20:00 auja auftritt
+
+2005-11-29 sonja party
+
+2005-12-01 9:30 wolf ubs
+
+2005-12-03 12:00 tantra zh
+2005-12-03 schwitzhuette
+2005-12-03 19:00 nacht der klaenge
+
+2005-12-05 auja brueckle
+
+2005-12-06 13:00-17:00 bosch 19:30 hohenbrunn tanz
+2005-12-07 devdays munich + jure + sandra 16:30
+
+2005-12-10 andreas wohnungseinweihung
+2005-12-11 gitika
+
+2005-12-28 20:00 auja video
+
+2006-01-12 17:30 cs
+
+2006-01-13 10:30 bieri
+
+2006-01-20 glarisegg
+2006-01-21 glarisegg
+2006-01-22 skitour buerglen
+
+2006-01-25 cornelius leaves
+
+2006-01-28 10:00 quartalsfeier
+
+2006-01-31 trueffelschweine
+2006-02-01 ruke
+
+2006-02-06 travel vault + ps api training
+2006-02-07 vault + ps api training paris
+2006-02-08 vault + ps api training paris
+
+2006-02-09 9:15-12:15 postrio porting api webcast fr
+2006-02-09 ruke
+
+2006-02-10 nc? maria?
+2006-02-10 high on life begin
+2006-02-10 16:30 otto vernissage
+
+2006-02-11 chamonix begin
+2006-02-11 9:00 cs
+2006-02-11 georg
+2006-02-12 georg
+
+2006-02-14 postrio porting api webcast de
+2006-02-14 lina pruefung
+
+2006-02-15 19:30 marlene
+
+2006-02-16 10:00 beat
+2006-02-17 nc amex + 12:00 foot
+2006-02-17 18:30 auja
+2006-02-18 chamonix end
+2006-02-18 auja
+2006-02-19 auja
+
+2006-02-20 12:30 sk tafelrunde
+2006-02-20 auja
+2006-02-21 ssi
+2006-02-22 ssi
+2006-02-23 nc badge + ruke
+2006-02-24 14:00 ruf vb3
+2006-02-24 andrea fondue
+2006-02-25 18:00 streaming
+2006-02-26 18:00 sk dance
+
+2006-03-01 neuchatel independence day
+2006-03-02 17:00-18:00 all hands
+2006-03-03 high on life end
+2006-03-03 14:00 ruf vb3
+
+2006-03-04 skitour drusenturm
+2006-03-05 skitour drusenturm
+2006-03-07 18:00 ruke
+
+2006-03-09 10:15 moni back frankfurt
+2006-03-09 14:01 moni back freiburg
+
+2006-03-12 mw
+2006-03-13 sandra
+2006-03-13 autocad.net api training munich
+2006-03-14 autocad.net api training munich
+2006-03-15 objectarx api training munich
+2006-03-16 objectarx api training munich
+2006-03-17 objectarx api training munich
+
+2006-03-20 auja normal
+2006-03-21 10:40 nick bsl
+2006-03-23 21:40 nick bsl
+2006-03-24 ne chambre?
+
+2006-03-25 13:00-18:00 ecki contact kandern
+2006-03-26 auja musik
+2006-03-27 brueckle
+2006-03-28 16:00 gary inventor r11 api update webcast
+
+2006-03-30 ulrike zermatt
+2006-03-31 ulrike zermatt
+2006-04-01 ulrike zermatt
+2006-04-02 ulrike zermatt
+
+2006-04-03 msd bootcamp salzburg
+2006-04-04 msd bootcamp salzburg
+2006-04-05 msd bootcamp salzburg
+2006-04-05 18:00 detlev?
+2006-04-06 witron stabilisation
+2006-04-07 8:30 detlev
+2006-04-07 witron stabilisation
+
+2006-04-10 auja
+
+2006-04-13 moni weg
+2006-04-14 good friday
+2006-04-15 kids swapped
+2006-04-16 kids swapped
+2006-04-17 moni back
+2006-04-17 easter monday
+
+2006-04-22 skitour markus_mueller
+2006-04-23 skitour markus_mueller
+2006-04-24 skitour markus_mueller
+
+2006-04-25 15:00 vault + ps 5 api webcast en
+2006-04-26 10:00 vault + ps 5 api webcast de
+2006-04-27 sperrmuell
+2006-04-27 10:00 patrick ne
+2006-04-27 12:00 ruke cudrefin
+2006-04-28 10:00 patrick ne
+2006-04-28 12:00 football
+2006-04-29 papier
+
+2006-05-01 one-year anniversary
+
+2006-05-02 travel to schalchen
+2006-05-03 linde schalchen
+2006-05-04 munich office day
+
+2006-05-05 moni glarisegg
+2006-05-06 moni glarisegg
+2006-05-06 20:00 andrea tanz inzlingen
+2006-05-07 moni glarisegg
+2006-05-07 andreas troendle ekirche
+2006-05-13 skitour sustenhorn
+
+2006-05-16 doris
+2006-05-17 artisan's circle
+2006-05-18 artisan's circle
+2006-05-19 artisan's circle
+2006-05-20 artisan's circle
+2006-05-21 artisan's circle
+
+2006-05-19 16:00 all hands
+2006-05-20 kids holiday with J begin
+2006-05-22 pfingstferien begin
+
+2006-05-25 ascension day
+2006-05-26 bridging day
+
+2006-06-03 kids holiday with J end
+2006-06-03 franz jubelkoenig
+
+2006-06-04 15:00 sabine
+2006-06-04 22:15 moni fr bhf
+
+2006-06-05 whit monday
+2006-06-05 13:00-20:00 lee crumbs
+
+2006-06-06 14:00 christoph
+2006-06-06 17:00 dimconv conf
+2006-06-07 16:00 dimconv conf
+2006-06-08 adn support
+2006-06-09 adn support
+2006-06-09 pfingstferien end
+
+2006-06-12 adn support
+2006-06-12 brueckle 19:15
+
+2006-06-14 19:10-20:25 bsl-nice EBJLR3T
+2006-06-16 cannes
+2006-06-17 papier
+2006-06-17 football cannes
+2006-06-18 20:55-22:10 nice-bsl
+
+2006-06-20 altmetall + gelber sack
+2006-06-21 10:30 bhs reunion
+2006-06-22 bhs reunion
+2006-06-23 bhs reunion
+2006-06-24 bhs reunion
+2006-06-25 14:00 bhs reunion
+
+2006-06-27 ne
+2006-06-28 19:00 ludwig
+
+2006-07-04 19:00 beate
+
+2006-07-05 18:00 petra
+2006-07-06 munich office day
+2006-07-07 ac ce offsite meeting
+2006-07-07 16:00 knalltueten monika
+2006-07-07 15:00 aob lauingen
+2006-07-08 aob
+2006-07-09 14:00 aob end
+
+2006-07-08 18:00 stephan klein 50
+
+2006-07-10 travel and setup
+2006-07-10 18:00 bernhard
+2006-07-11 inventor api training munich
+2006-07-11 19:30 elisabeth hohenbrunn
+2006-07-12 inventor api training munich
+2006-07-13 inventor api training munich
+
+2006-07-17 auftritt
+2006-07-18 ne?
+
+2006-07-22 pick up xopher
+2006-07-22 17:30 regina und florian rote rainhuette
+2006-07-23 18:00 sandra
+
+2006-07-25 arx munich
+2006-07-26 arx munich
+2006-07-27 arx munich
+
+2006-07-28 11:00 dentist scherble
+2006-07-28 skitour nachtreff
+
+2006-07-30 spillgerten
+
+2006-08-01 swiss national day
+
+2006-08-04 15:00 beruehren besprechen
+2006-08-04 20:00 knalltueten summer school
+
+2006-08-17 8:30 yoga
+
+2006-08-22 10:00 till
+2006-08-22 11:00 bieri
+2006-08-23 8:30 yoga
+2006-08-24 7:00 helene madlee car
+2006-08-24 15:00 andreas
+
+2006-08-31 20:00-22:00 beruehren
+
+2006-09-06 rose buri
+2006-09-08 moni zen
+2006-09-09 moni zen
+2006-09-10 moni zen
+
+2006-09-13 14:00-15:00 chambers + cliqbook livemeeting
+2006-09-14 20:00-22:00 beruehren
+
+2006-09-15 doris
+2006-09-16 9:00-15:00 bergthriathlon
+2006-09-16 luetschenbach jeanette
+2006-09-17 luetschenbach
+2006-09-17 christoph wohnungsaufloesung
+
+2006-09-18 jeune federal
+
+2006-09-23 13:00-21:30 sweat lodge
+
+2006-09-26 10:00-11:30 bieri
+
+2006-09-28 6:20 bsl-malaga last checkin 5:40 EBRXKDP
+2006-10-08 9:40 malaga-bsl last checkin 9:00
+
+2006-10-10 11:30 medecin
+2006-10-11 maenner tanz
+2006-10-13 11:00 cranio claudia
+
+2006-10-16 19:00 auja
+2006-10-17 14:00 notariat dehner
+2006-10-18 13:45 patrick appartement
+
+2006-10-20 11:00 cranio claudia
+2006-10-21 20:00 andreas umtrunk
+
+2006-10-25 maenner klaus
+
+2006-10-27 wax floor
+2006-10-27 regina tanz
+
+2006-10-31 10:00 bieri till
+
+2006-11-06 19:00 knalltueten
+2006-11-07 iris
+
+2006-11-13 madlee
+
+2006-11-17 14:30 cm
+2006-11-18 10:30 typhus
+2006-11-18 20:00 knalltueten
+2006-11-20 10:30 typhus
+
+2006-11-22 20:00 ea fws 8 kl.
+
+2006-11-28 10:00-11:00 carlo devdays east report
+2006-11-28 17:00 surprise
+
+2006-12-01 gabi + fernando
+2006-12-01 19:00 skitourtreff
+
+2006-12-02 fws putz
+2006-12-02 fly to london
+
+2006-12-04 devdays london
+2006-12-05 devdays gothenburg
+2006-12-06 devdays milano
+2006-12-07 devdays munich
+2006-12-08 devdays paris
+2006-12-09 return from paris
+
+2006-12-11 18:30 sonja
+2006-12-11 19:30 auja
+
+2006-12-12 10:00 bieri
+2006-12-12 12:12 mk?
+2006-12-12 12:30 rocher: andrea, to-vi, manu, patrick, bail, banque, cheques
+2006-12-12 19:30 regula
+
+2006-12-14 14:00 window
+
+2006-12-20 14:45 andrea
+2006-12-21 12:30 michael lunch
+
+2006-12-23 kids
+2006-12-24 15:00 fra-bkk
+2006-12-27 week of rest
+2006-12-28 week of rest
+2006-12-28 high on life begin
+2006-12-29 week of rest
+
+2007-01-16 20:00 ea 8 kl
+
+2007-01-18 high on life end
+2007-01-20 01:50 bkk-fra
+2007-01-21 14:00 arrival fra
+
+2007-01-22 8:03 bsl-ne
+2007-01-22 9:40 ne flavia
+2007-01-22 19:30 auja
+2007-01-23 6:30-7:40 bsl-bru hsb
+2007-01-24 21:25-22:35 bru-bsl hsb
+
+2007-01-29 19:00 auja
+
+2007-01-30 09:00 till
+2007-01-30 10:00 bieri lunch
+2007-01-30 13:20 bcn
+2007-01-30 13:30 ne tax
+2007-01-30 15:00 andrea ne
+2007-01-30 16:00 autodesk
+
+2007-01-31 6:20-7:25 bsl-fra
+2007-01-31 12:15-13:15 fra-blr
+
+2007-02-22 arvind pune
+
+2007-03-04 otc las vegas begin
+
+2007-03-06 bangalore end
+2007-03-06 2:20-8:40 blr-cdg
+2007-03-06 9:30-10:40 cdg-bsl
+
+2007-03-10 otc las vegas end
+
+2007-03-07 prepare .net
+2007-03-08 ne + mail to frey
+2007-03-08 prepare arx
+2007-03-08 20:00 dav vortrag
+2007-03-09 9:00 vb3 wiese
+2007-03-09 travel to munich
+2007-03-10 21:00 dance up kesselh
+2007-03-11 travel to munich
+2007-03-12 .net munich
+2007-03-13 16:00 .net munich end
+2007-03-14 arx munich
+2007-03-15 arx munich
+2007-03-16 15:00 arx munich end
+2007-03-19 travel from munich
+
+2007-03-15 canadian passport expires
+
+2007-03-16 knalltueten elzach
+2007-03-17 knalltueten elzach
+2007-03-17 sandra geburtstag
+2007-03-18 knalltueten elzach
+
+2007-03-17 20:00 achtklassspiel
+
+2007-03-20 7:00-7:50 BA 0751 bsl-lhr
+2007-03-21 devtech emea farnborough
+2007-03-22 devtech emea
+2007-03-23 devtech emea
+2007-03-24 14:15-16:55 BA 0754 lhr-bsl
+
+2007-03-26 marie holiday begin
+2007-03-27 12:00-13:30 miro revit struct
+2007-03-27 regula velo
+
+2007-03-28 maenner
+2007-03-29 dr. anderau
+2007-03-29 10:00-15:00 pc clinic
+
+2007-03-31 13:00 stefan kummer # Birmensdorferstrasse 56, gleich neben dem S-Bahnhof Wiedikon
+
+2007-04-03 09:00 canadian embassy
+2007-04-03 12:00-14:00 mk
+2007-04-05 havrix vacc refresher
+
+2007-04-05 avignon # love + shadow
+2007-04-06 avignon # love + shadow
+2007-04-07 avignon # love + shadow
+2007-04-08 avignon # love + shadow
+2007-04-09 avignon # love + shadow
+
+2007-04-12 19:00 dav
+2007-04-13 nick ski tour
+2007-04-14 nick ski tour
+2007-04-15 nick ski tour
+2007-04-16 nick ski tour
+
+2007-04-16 marie holiday end
+
+2007-04-18 maenner christian
+
+2007-04-19 16:00-18:00 rst api demo
+#2007-04-20 edu day
+
+#2007-04-24 prepare vault + ps
+#2007-04-25 vault + ps api webcast
+
+2007-04-26 revit api recording
+2007-04-26 mikako to us
+
+2007-04-27 doris party
+2007-04-27 monte rosa
+2007-04-28 monte rosa
+2007-04-29 monte rosa
+2007-04-30 monte rosa
+
+2007-04-28 dav zastler
+2007-04-29 dav zastler
+
+2007-05-02 16:00 notariat dehner
+2007-05-03 17:00-19:00 rst api webcast
+
+2007-05-11 19:00 meiers
+2007-05-12 bishorn
+2007-05-12 christian
+2007-05-13 bishorn
+2007-05-13 12:00-17:00 rose tanzimpro
+2007-05-14 bishorn
+
+2007-05-15 10:30 liz
+2007-05-15 12:30 football
+2007-05-15 16:30 rh key
+
+2007-05-16 revit api intro webcast preparation
+2007-05-16 jazzoper
+2007-05-17 jazzoper
+2007-05-18 bridging day
+2007-05-18 karl geck 65 anreise
+2007-05-19 karl geck 65 party
+
+2007-05-21 travel to salzburg 15:05
+2007-05-22 aec bootcamp salzburg
+2007-05-23 aec bootcamp salzburg
+2007-05-24 aec bootcamp salzburg
+
+2007-05-24 revit api webcast
+
+2007-05-25 10:00-14:15 travel to sweden
+2007-05-26 klasstr‰ff stockholm
+
+2007-05-29 9:25-10:20 travel to gothenburg
+2007-05-29 set up autocad.net gothenburg
+2007-05-30 autocad.net gothenburg
+2007-05-31 autocad.net gothenburg
+2007-06-01 14:25-18:40 travel from gothenburg
+
+2007-06-05 ne
+
+2007-06-14 prepare adt.net webcast
+2007-06-15 prepare adt.net webcast
+
+2007-06-16 20:00 auja auftritt
+
+2007-06-18 prepare adt.net webcast
+2007-06-19 peri
+2007-06-20 prepare adt.net webcast
+2007-06-21 17:00-19:00 adt.net webcast
+
+2007-06-22 achtklassarbeit
+2007-06-23 achtklassarbeit
+2007-06-22 xopher premiere
+
+2007-06-22 5:00 travel paris
+2007-06-23 paris monika
+2007-06-24 paris monika
+2007-06-24 trier lina
+2007-06-25 trier lina
+2007-06-26 ne
+
+2007-06-28 achklassfahrt begin
+
+2007-06-29 travel to uk
+2007-06-30 lhr football
+2007-07-01 lhr football
+2007-07-02 farnborough priorities class
+2007-07-03 travel from uk
+2007-07-04 prepare mozart
+2007-07-04 maenner
+2007-07-05 prepare mozart
+2007-07-06 prepare mozart
+2007-07-07 half birthday 7*7 - 1 years + 7 months + (7+4) days
+
+2007-07-08 achklassfahrt end
+
+2007-07-09 wien mozart
+2007-07-10 wien mozart
+2007-07-11 travel to uk
+2007-07-12 revit api uk
+2007-07-13 revit api uk
+2007-07-16 travel from uk
+
+2007-07-17 ne
+2007-07-17 20:00 hannelore heisser auflauf
+
+2007-07-18 prepare arx + acadnet
+2007-07-18 20:15 maenner christian
+
+2007-07-19 prepare arx + acadnet
+2007-07-20 prepare arx + acadnet
+2007-07-20 bst
+2007-07-21 10:50-20:05 travel to cairo
+2007-07-22 acadnet cairo
+2007-07-23 acadnet cairo
+2007-07-24 arx cairo
+2007-07-25 arx cairo
+2007-07-26 arx cairo
+2007-07-27 arx cairo
+2007-07-28 16:05-22:45 travel from cairo
+
+2007-07-26 kids holiday begin
+2007-07-28 kids wandern begin
+2007-07-29 wandern mit sylvia ziegler?
+2007-07-30 glarisegg sommerleben
+2007-08-04 kids wandern end
+2007-08-05 glarisegg sommerleben end
+
+2007-08-05 j kids holiday begin
+2007-08-06 compensation day off # for weekend travel time to autocad.net and arx training in munich in march
+2007-08-19 j kids holiday end
+
+2007-08-27 11:00 dentist scherble
+2007-08-31 12:00 dentist scherble
+2007-08-31 adsk ne summer party
+
+2007-09-01 J kids
+2007-09-01 xopher math
+2007-09-01 urs zuerich
+
+2007-09-02 J kids
+2007-09-02 13:10 zrh-bos
+2007-09-02 otto karawanserei
+2007-09-03 labour day
+2007-09-04 co returns
+
+2007-09-04 manchester
+2007-09-04 11:30-13:00 emile
+2007-09-05 aec developer conf waltham
+2007-09-05 16:30-18:30 beer bust waltham
+2007-09-06 aec developer conf waltham
+2007-09-06 18:00-21:00 bbq wakefield
+2007-09-07 aec developer conf waltham
+2007-09-07 18:55 bos-zrh
+2007-09-08 8:10 zrh arrival
+
+2007-09-08 dav bergtriathlon
+2007-09-09 kids holiday end
+
+2007-09-09 hugo begin
+2007-09-16 hugo end
+
+2007-09-21 rabia
+
+2007-09-22 maennerfeuer ralph struve
+
+2007-09-26 11:45 dentist scherble
+
+2007-10-03 sweat lodge
+2007-10-03 bewegungs-art
+2007-10-03 maenner thomas
+
+#2007-10-07 14:00 adge revival offenburg canceled
+
+2007-10-10 au ppt rst link
+2007-10-11 au ppt rst detailing
+2007-10-12 au ppt ten tips
+
+2007-10-15 au dataset posting
+2007-10-16 au rac api doc
+2007-10-17 au rac samples doc
+2007-10-18 au rst link doc
+2007-10-19 au rst detailing doc
+
+2007-10-22 au ten tips doc
+
+2007-10-13 11:00 breakfast marlene
+
+2007-10-17 maenner karlheinz
+
+2007-10-18 14:00 bieri
+
+2007-10-19 rabia
+2007-10-19 mennerwe
+2007-10-20 mennerwe
+2007-10-20 20:00 wise guys basel
+2007-10-21 mennerwe
+
+2007-10-23 travel to budapest
+2007-10-24 vico budapest
+2007-10-25 vico budapest
+2007-10-26 travel from budapest
+2007-10-27 budapest
+2007-10-28 budapest
+
+2007-10-31 20:00 huebl
+2007-11-01 18:30 knalltueten
+
+2007-11-06 16:00 klaus
+2007-11-07 9:00 bieri seminar + lunch
+2007-11-07 16:00 vanguard meeting
+
+2007-11-14 8:00 mk
+2007-11-14 9:00 russian visa
+2007-11-15 16:30-18:30 devdays presentation
+
+2007-11-16 rabia
+2007-11-16 19:30 vipassana film # Fwd: Filmvorfuehrung : Doing time- doing Vipassana
+
+2007-11-17 sweat lodge
+2007-11-17 13:00 juergen
+
+#2007-11-19 10:10 zrh 11:15 fra 13:30
+#2007-11-20 08:35 nrt arrival
+# direct flight zrh-nrt?
+
+2007-11-19 13:00 zrh
+2007-11-20 08:50 nrt arrival
+
+2007-11-20 12:30 katsuaki takamizawa
+
+2007-11-21 17:25 nrt 9:17 sfo 10:46 12:17 las arrival
+
+2007-11-25 au las vegas
+2007-11-26 devdays las vegas
+2007-11-27 au las vegas rac
+2007-11-28 au las vegas rst
+2007-11-29 au las vegas
+2007-11-30 au las vegas
+
+2007-12-07 adsk ne xmas party
+
+#2007-12-01 travel to moscow 8:58 las 14:29 ord 15:30
+#2007-12-02 travel to moscow 6:55 fra arrival 8:30 13:30 svo
+2007-12-01 travel to moscow 6:20 las 11:51 ord 14:35
+2007-12-02 travel to moscow 6:10 muc arrival 7:25 12:25 svo
+2007-12-03 devdays moscow
+#2007-12-04 travel to tel aviv dme 6:45 8:30 zrh 9:45 14:30 tlv
+#2007-12-04 travel to tel aviv dme 5:30 6:35 vie 10:35 15:00 tlv
+2007-12-04 travel to tel aviv dme 12:25 15:25 tlv
+2007-12-05 devdays tel aviv
+2007-12-06 16:00 travel to prague 16:00 tlv 18:55 vie 19:35 20:35 prg
+2007-12-07 devdays prague
+
+2007-12-09 travel to birmingham 9:55 11:10 fra 12:20 12:55 bhx
+2007-12-10 devdays birmingham 19:00 21:50
+2007-12-11 devdays gothenburg 19:05 20:55
+2007-12-12 devdays ffm 21:05 22:50
+2007-12-13 devdays roma 17:15 18:30
+#2007-12-14 devdays nice 18:40 19:50 zrh
+2007-12-14 devdays nice 21:10 22:20 bsl
+
+2007-12-14 rabia
+2007-12-15 drugs & touch
+
+2007-12-18 ne
+2007-12-18 19:00 maenner hugo
+2007-12-19 9:00 bieri seminar
+
+2007-12-19 20:15 maenner deepesh
+
+2007-12-21 clayton vevey
+
+2007-12-23 chamonix begin
+2007-12-28 chamonix end
+
+2008-01-05 19:00 siggi
+
+2008-01-08 19:00 wave
+2008-01-09 20:15 maenner karlheinz
+
+2008-01-11 rabia
+
+2008-01-13 17:00 karola therwil
+
+2008-01-15 19:00 maenner
+
+2008-01-18 moni surprise
+2008-01-19 moni surprise
+2008-01-20 moni surprise
+
+2008-01-23 20:15 maenner jt
+
+2008-01-26 lex van someren
+2008-01-27 6:45 schwalmere # skitour isenfluh sulwald schwalmere
+
+2008-01-29 19:00 wave siggi
+
+2008-01-31 19:00 dav lvs
+
+2008-02-02 xopher todtnauberg begin
+2008-02-02 18:00 robert
+2008-02-03 6:30 rossstock # skitour vierwaldstaetter see sisikon hagelstock
+
+2008-02-04 13:00 wash
+
+2008-02-07 19:00 lvs
+
+2008-02-09 xopher todtnauberg end
+2008-02-09 20:00 nellie sylvia
+
+2008-02-13 ne
+
+2008-02-15 rabia
+2008-02-15 georg + antonia beatenberg begin
+2008-02-15 16:30 revit 2009 new apis webcast
+2008-02-16 8:35 bsl-schoenefeld thomas theatre
+
+2008-02-19 yellow sack
+2008-02-20 14:35 schoenefeld-bsl
+2008-02-21 19:00 sylvia
+
+2008-02-21 moni hilde begin
+2008-02-22 zwoelftklassabeit cornelius
+2008-02-23 zwoelftklassarbeiten
+2008-02-23 19:00 jeannette
+2008-02-24 moni hilde end
+2008-02-24 10:00-13:00 sybille zuegeln
+2008-02-24 14:00-18:00 epona bei sabine
+2008-02-24 16:00 maenner sauna rhf
+
+2008-02-25 10:40 zrh-cph travel to malmˆ # SK602 Zuerich Terminal 1 - Kˆpenhamn Kastrup Terminal 3
+2008-02-26 rst strusoft
+2008-02-27 rst strusoft
+2008-02-28 arx strusoft
+2008-02-29 8:15 cph-zrh travel from malmˆ # SK601 Kˆpenhamn Kastrup Terminal 3 - Zuerich Terminal 1, Ankomst: 10:00
+
+2008-03-01 niana zuegeln
+2008-03-01 georg + antonia
+2008-03-01 20:00 dance-up kesselhaus
+
+2008-03-05 ne
+2008-03-05 17:00 rac for authors # LiveMeeting intro
+
+2008-03-06 kt ayurveda begin
+
+2008-03-07 19:30 surprise # - 22:15 theatre
+2008-03-07 22:30 surprise # casa espanola
+
+2008-03-09 skitour faulhorn # grindelwald markus_mueller, thomas, iris nicht so schoen, dauernd auf der piste und schlittelbahn
+
+#2008-03-10 acadnet munich, done by adam
+
+2008-03-11 14:00 bieri
+2008-03-11 20:00 niana
+
+2008-03-12 8:30 bernhard
+
+#2008-03-12 arx munich, done by adam
+
+2008-03-14 rabia
+2008-03-15 easter holidays begin
+2008-03-15 sweat lodge
+#2008-03-15 ski wildhorn
+2008-03-16 christian gartenfete
+#2008-03-16 ski wildhorn
+2008-03-29 19:20 moni bsl-malaga arr
+2008-03-29 19:55 ch+co malaga-bsl dep
+2008-03-30 easter holidays end
+2008-03-30 kt ayurveda end
+
+2008-04-14 18:30 stefan # 18:06 s-bahn s10 gleis 2 uetliberg aussteigen station binz 2 stationen ab zrh ticket gleich bis binz loesen
+2008-04-15 20:00 niana dance
+
+2008-04-18 rabia
+2008-04-18 lina in loe
+
+#2008-04-21 11:02-14:34 travel to paris
+#2008-04-22 aec tech camp disneyland paris
+#2008-04-23 aec tech camp
+#2008-04-24 aec sales camp
+#2008-04-25 aec sales camp
+
+2008-04-21 9:00 dentist # scherble
+
+2008-04-22 12:30 of
+2008-04-22 19:30 heisser auflauf
+
+2008-04-23 8:00 apac call
+
+2008-04-24 8:00 wasserzaehler
+2008-04-24 9:30 wolfgang
+
+2008-04-25 13:00 vorvorverkauf jazz auf der burg
+
+2008-04-25 paris
+2008-04-26 paris
+2008-04-27 paris
+
+#2008-04-29 emea team meeting
+#2008-04-30 emea team meeting
+
+2008-04-30 9:15 denstist
+2008-04-30 15:00 gary
+2008-04-30 17:00 bill
+2008-04-30 20:00 christian
+
+#2008-05-01 rst api webcast
+#2008-05-28 acadnet gothenburg
+#2008-06-17 inventor api paris
+#2008-07-08 inventor api munich
+
+2008-05-06 17:00 rac api webcast
+
+2008-05-08 20:30 niana # warteck stiller raum rampe hinter haus
+
+2008-05-09 rabia
+2008-05-09 bhs waldhaus
+2008-05-10 pfingstferien begin
+2008-05-10 bhs waldhaus
+2008-05-11 bhs waldhaus
+2008-05-12 bhs waldhaus
+
+2008-05-13 17:00 rst api webcast
+
+2008-05-14 avignon saluces begin
+
+2008-05-19 13:30 renato
+2008-05-20 9:30 tile cutter
+
+2008-05-21 17:00 bieri # abschiedsvorlesung "Originale und Kopien", Institut fuer exakte Wissenschaften, Sidlerstrasse 5, Bern, Hˆrsaal A6, Mittwoch, 21.5.2008, 17:15 - ca. 18:00, Mit anschliessendem Apero
+2008-05-22 18:00 meeting gary stephen
+
+2008-05-23 17:00 WaldhuettenWundertuetenWe
+2008-05-23 chill-up dance
+2008-05-24 www
+2008-05-24 13:00 epona
+2008-05-25 15:00 www end
+2008-05-25 pfingstferien end
+
+2008-05-26 bieri return books
+2008-05-26 14:00 hugo
+
+2008-05-27 15:30-16:55 bsl-prg # Flight 1460 Departs: Basel Mulhouse Arpt (BSL) Tue 05/27/2008 at 3:30 PM, Arrives: Ruzyne Arpt (PRG) Tue 05/27/2008 at 4:55 PM
+2008-05-28 custom entities prague
+2008-05-28 zwoelftklassarbeiten
+2008-05-29 custom entities prague
+2008-05-29 zwoelftklassarbeiten
+2008-05-29 17:25-18:50 prg-bsl # Flight 1461 Economy (V) Avro RJ100, Departs: Ruzyne Arpt (PRG) Thu 05/29/2008 at 5:25 PM, Arrives: Basel Mulhouse Arpt (BSL) Thu 05/29/2008 at 6:50 PM
+2008-05-30 19:00 co zwoelftklassarbeit
+
+2008-05-31 18:00 jazz auf der burg
+
+2008-06-03 12:00 football
+2008-06-03 18:15 energiesparcheck # yvonne meyer-herrmann
+
+2008-06-04 zwoelftklassspiel
+2008-06-05 18:00 stadtlauf
+2008-06-05 zwoelftklassspiel
+2008-06-06 zwoelftklassspiel
+
+2008-06-06 20:30 decade
+2008-06-06 sigi wave
+
+2008-06-07 steine klopfen
+2008-06-08 steine klopfen
+2008-06-08 sandra klein-gissler # helferfest bollschweil
+
+2008-06-10 18:30 stefan
+2008-06-11 14:00 georg
+2008-06-12 8:00 georg
+2008-06-12 12:25 fra-bos # Departs: Frankfurt Intl (FRA), Terminal: 1 Thu 12/06/2008 at 12:25 PM, Arrives: Logan Intl Arpt (BOS) Terminal: E Thu 12/06/2008 at 2:30 PM
+2008-06-13 rabia
+2008-06-16 aec devcamp waltham
+2008-06-17 aec devcamp waltham
+2008-06-18 aec devcamp waltham
+2008-06-19 moni franz wandern
+2008-06-20 22:05 bos-fra # Flight # 0421. Departs: Logan Intl Arpt (BOS), Terminal: E Fri 20/06/2008 at 10:05 PM, Arrives: Frankfurt Intl (FRA) Terminal: 1 Sat 21/06/2008 at 11:10 AM
+2008-06-21 11:10 bos-fra arrival
+2008-06-21 16:00 christian roter stern
+2008-06-21 18:30 christa & martin
+
+2008-06-22 wandern end
+
+2008-06-27 19:30 kieswerk konzert
+2008-06-28 19:30 tanzen tok riehen
+
+2008-07-03 15:30 bsl-prg # latest check-in 14:50, arrival 16:55
+2008-07-04 theatre festival avignon
+2008-07-04 football prague
+2008-07-05 football prague
+2008-07-06 13:55 prg-bsl # latest check-in 12:55, arrival 15:00
+2008-07-06 zwoelftklassspiel
+
+2008-07-09 18:00 dragica birthday
+2008-07-09 20:00 karlheinz maenner
+
+2008-07-12 12:00 thomas # Todtmoos-Au, Wehrer Landstr. 12, "C:\tmp\Willkommen zum Sommerfest.doc"
+2008-07-13 20:00 wilde mathilde
+2008-07-14 20:00-21:30 contact
+
+2008-07-16 tempus fugit htg # jugend ohne gott
+2008-07-17 tempus fugit
+
+2008-07-18 aob fest glarisegg
+2008-07-19 aob fest glarisegg
+2008-07-20 aob fest glarisegg
+2008-07-21 20:00-21:30 contact
+
+2008-07-22 16:00 niana # Bitte Blumen und eine leere Flasche mitbringen; wer macht Musik?
+#2008-07-24 17:00-20:00 acad mep .net api webcast
+
+2008-07-24 19:00 dav
+2008-07-25 19:00 leonard cohen auf stimmen
+2008-07-26 16:00 rose volleyball
+2008-07-27 7:00 klettersteig with xopher + lina
+
+2008-07-28 20:00-21:30 contact
+
+2008-07-28 kt wandern begin
+
+2008-07-31 19:00 dav return klettersteig stuff
+2008-07-31 basle fireworks
+
+2008-08-02 party markus hannweber
+
+2008-08-03 knalltueten
+
+2008-08-06 12:00 leonid interview # C:\a\j\adn\case\special\garywassell
+2008-08-06 14:00 marat interview
+2008-08-07 7:00 anatoly interview
+
+2008-08-08 kt wandern end
+2008-08-08 sweat lodge
+2008-08-08 19:00 vernissage + performance # Karola Stettler, Hotel Radisson SAS Steinentorstr. 25 in Basel Tramhaltestelle Heuwaage, bitte anmelden karola arte
+2008-08-09 8:30 epona flueh klettern
+
+2008-08-14 17:00 basel
+2008-08-15 16:00 karl geck # draussen-nacht im oberen hotzenwald
+2008-08-16 karl geck
+
+2008-08-19 xopher poland begin
+2008-08-19 11:30 call mn
+2008-08-19 18:00 stephen phone
+2008-08-19 19:00 beate
+
+2008-08-20 18:00 blog training
+
+2008-08-22 11:00 gary midyear review meeting
+
+2008-08-23 15:49 fr-ffm
+2008-08-24 11:00 gesa 51
+2008-08-25 gesa
+
+2008-08-28 17:00 aca webcast # Thursday 11am US east cost time
+2008-08-28 19:00 karate-yoga-tanz # \tmp\Karate,Yoga,Tanz.ppt
+
+2008-08-29 bloessling with moni
+2008-08-30 herzogenhorn with moni
+2008-08-31 eulengrat with cornelius
+
+2008-09-01 doris
+2008-09-02 schueco
+2008-09-03 schueco
+2008-09-04 schueco
+2008-09-05 doris
+
+2008-09-05 xopher poland end
+
+2008-09-06 18:00 vernissage # der RAUM1097 Grenzacherstr. 90 Hinterhaus
+
+2008-09-07 casa trueb begin
+#2008-09-09 farnborough training 'Achieving Your Highest Priorities'
+2008-09-10 ame webcast # 17:00-20:00 acad mep .net api webcast, Kevin, Wednesday 11am US East coast time
+
+2008-09-14 casa trueb end
+2008-09-14 15:00-18:00 winterthur
+2008-09-15 michael und andreas
+
+2008-09-18 9:00-17:00 mpg ne # Managing Professional Growth (MPG) http://training/etr/training/catalog.aspx?CourseID=971&TimeFrame=future&
+2008-09-19 9:00-13:00 mpg ne
+
+2008-09-22 neuch‚tel je˚ne federal
+
+2008-09-24 men christian garden
+2008-09-25 20:00 venezuela vortrag # Burghof - Venezuela The Lost World http://www.kurt-albert.de/frame2.htm
+
+2008-09-27 martina # kriens, \tmp\martina_geburtstagseinladung.pdf
+
+2008-09-29 10:30 gary mpg + midyear review
+
+2008-10-02 19:30 monika sofa
+
+2008-10-03 13:15-14:30 call katja # 0172/6332967
+
+2008-10-03 gran paradiso
+2008-10-04 gran paradiso
+2008-10-04 15:00 sweat lodge
+2008-10-04 franz + hilde begin
+
+2008-10-05 gran paradiso
+
+2008-10-07 15:00 boehringer
+
+2008-10-11 franz + hilde end
+2008-10-12 6:35-9:10 bsl-agp # Sunday 12 October; Check in opens Sun 12 Oct 04:35 Closes Sun 12 Oct 05:55 Basel-Mulhouse-Freiburg (check-in Swiss sector) To Malaga; flight 1065; dep. Sun 12 Oct 06:35; arr. Sun 12 Oct 09:10
+2008-10-28 19:45-22:25 agp-bsl # Tuesday 28 October; Check in opens Tue 28 Oct 17:45 Closes Tue 28 Oct 19:05 Malaga To Basel-Mulhouse-Freiburg (check-in Swiss sector); flight 1070; dep. Tue 28 Oct 19:45; arr. Tue 28 Oct 22:25
+
+2008-10-30 tonfeld
+2008-11-02 tonfeld end
+2008-11-02 fr wave
+
+2008-11-03 sh
+2008-11-04 14:00 dentist # scherble
+2008-11-04 20:00 wave
+
+2008-11-06 freenet
+2008-11-06 16:00 tech leads
+
+2008-11-07 vb3 kredit faellig
+
+2008-11-07 18:00 einsundsein # quartiertreffpunkt burg, werkraum warteck, burgweg 7, basel
+2008-11-08 einsundsein
+2008-11-09 einsundsein
+
+2008-11-11 18:00 men jt # massage, austausch sexualitaet
+2008-11-11 19:30 heisser auflauf fr
+
+2008-11-12 full moon meeting?
+2008-11-13 8:30 christian
+
+2008-11-14 18:00 lua food
+2008-11-14 19:30 just jazz bei consolar # in lˆrrach
+
+2008-11-15 epona treff
+2008-11-15 party andrea hadid # C:\tmp\andrea_einladung_2008_11.pdf
+2008-11-15 party madlee
+
+2008-11-16 11:00 hannelore birthday brunch
+2008-11-17 Tag der offenen Tuer der BA, FH, PH fuer Abiturienten
+2008-11-18 08:00-12:00 freenet
+2008-11-18 18:30 beate
+
+2008-11-20 14:00 test # Palmstrasse 3, Fachbereich Gesundheit, Landratsamtes Lˆrrach, Haus 2
+2008-11-20 16:00 tech leads
+
+2008-11-21 8:00 axel
+2008-11-21 14:00 xopher french
+2008-11-21 17:30 rene
+2008-11-21 20:00 anette eckstein blumenstrasse
+
+2008-11-22 party + kids
+2008-11-23 sweat lodge + kids
+
+2008-11-26 birthday50
+2008-11-27 depart las vegas
+
+# Basel SBB, Bahnhof ab 05:40 Bus 50 Niederflurbus, Richtung: Basel, EuroAirport
+# Basel, EuroAirport an 05:53 Dauer: 0:19; f‰hrt 24. Nov bis 13. Dez 2008 Mo - Sa
 #
+# Basel SBB, Bahnhof ab 05:45 Bus 50 Niederflurbus, Richtung: Basel, EuroAirport
+# Basel, EuroAirport an 05:58 Dauer: 0:19; f‰hrt 24. Nov bis 12. Dez 2008 Mo - Fr, So
+
+# EasyJet Booking reference: EDVC8V2
+# Thursday 27 November
+# Check in opens Thu 27 Nov 05:10
+# Closes Thu 27 Nov 06:30 Basel-Mulhouse-Freiburg (check-in Swiss sector) To London Gatwick (North)
+# flight 8532; dep. Thu 27 Nov 07:10
+# arr. Thu 27 Nov 07:50
+
+# VIRGIN ATLANTIC, VS 0043
+# LONDON GATWICK (LGW) SOUTH TERMINAL 10:45
+# LAS VEGAS, NV (LAS) TERMINAL 2 13:30
+# Airline Confirmation: F98N9N
+
+2008-11-30 au begin
+2008-12-01 au devday
+2008-12-02 au 8:15-9:45 samples
+2008-12-02 16:00 blogger social # Autodesk University 2008 Blogger Social Tuesday, December 2, 4-5:30PM
+2008-12-03 au 10:15-11:45 tips
+2008-12-03 17:30 blogger social # Wednesday, December 3rd at 5:30 pm - 7:00 pm at the Venetian.
+2008-12-04 au 8:15-9:45 rme
+2008-12-04 au 15:15-16:45 aec api panel
+2008-12-05 au 8:15-9:45 CP401-3 Expanding BIM with the Revit API
+
+
+# Fri, Dec 5-Sat, Dec 6
+# VIRGIN ATLANTIC, VS 0044
+# LAS VEGAS, NV (LAS) TERMINAL 2 16:00 - Fri, Dec 5
+# LONDON GATWICK (LGW) SOUTH TERMINAL 09:50 - Sat, Dec 6
+# Airline Confirmation: F98N9N
+
+2008-12-08 devdays london
+
+# SCANDINAVIAN AIRLINES, SK 0522
+# LONDON HEATHROW (LHR) TERMINAL 3 18:40
+# GOTHENBURG (GOT) 21:40
+# Airline Confirmation: RH15B
+
+2008-12-09 devdays gothenburg
+
+# SCANDINAVIAN AIRLINES, SK 1631
+# GOTHENBURG (GOT) 19:05
+# FRANKFURT (FRA) TERMINAL 1 20:55
+# Airline Confirmation: RH15B
+
+2008-12-10 devdays frankfurt # LUFTHANSA, LH 3958 From: FRA TERMINAL 1 Departs: 21:05 To: MILAN LINATE (LIN) Arrives: 22:15 Airline Confirmation: 27H339
+2008-12-11 devdays milan
+
+# AIR FRANCE, AF 2215
+# MILAN MALPENSA (MXP) TERMINAL 1 21:00
+# PARIS DE GAULLE (CDG) AEROGARE 2 TERMINAL F 22:30
+# Airline Confirmation: 263JBT
+
+2008-12-12 devdays paris
+
+2008-12-13 18:34 gare de líest
+2008-12-15 12:24 depart
+
+2008-12-17 ne
+2008-12-17 19:00 rose dinner
+
+2008-12-20 winter solstice sweat lodge sonja
+
+2008-12-22 20:00 lex van someren e-kirche
+2008-12-23 19:30 weihnachstwave lanthemann # breitezentrum, zuercherstrasse 149, basel
+
+2008-12-24 hannelore party
+
+2008-12-25 kids
+2008-12-26 kids
+2008-12-27 kids
+2008-12-28 kids
+
+2008-12-28 14:00 andreas
+
+2009-01-03 sonja umzug
+
+2009-01-05 19:00 sigi
+2009-01-05 22:05 bsl-zrh
+2009-01-06 snow shoes
+2009-01-07 ne
+2009-01-07 17:00 niana bsl # blumen vom migros
+2009-01-07 19:30 skitourenstammtisch # Restaurant Gruett (also Rot-Weiﬂ)
+
+2009-01-08 Tag der offenen Tuer Uni Basel
+
+2009-01-09 17:00 sigi pc
+
+2009-01-12 12:05-13:45 bsl-bcn EF3QFD4 # Booking reference EF3QFD4
+
+# Basel/Mulhouse EuroAirport, Switzerland (BSL) to Aeropuerto Transoceanico de Barcelona, Spain (BCN)
+# Flight: easyjet (U2) Flight # 1075
+# Departs: Basel/Mulhouse EuroAirport, Switzerland (BSL) 01/12/2009 at 12:05 PM
+# Arrives: Aeropuerto Transoceanico de Barcelona, Spain (BCN) 01/12/2009 at 1:45 PM
+
+2009-01-13 revit api barcelona
+2009-01-14 revit api barcelona
+2009-01-14 cena juan marcos
+2009-01-15 revit api barcelona
+2009-01-15 abel smit
+
+2009-01-20 gheller # via Carmelitani Scalzi n.1, 37122 Verona, tel. 045 8003688
+
+2009-01-24 14:57 verona porto nuova gd
+2009-01-25 gd
+2009-01-26 12:59 gd
+
+2009-01-27 revit api verona
+2009-01-28 revit api verona
+2009-01-29 revit api verona
+
+2009-02-01 10:00 hugo
+
+2009-02-02 ne
+
+2009-02-03 9:00 karl osti
+2009-02-03 16:00 sofistik demo
+2009-02-03 20:00 wave # still & herzlich mit Margarita Lanthemann, Quartiertreffpunkt Breite, Zuercherstrasse 149
+
+2009-02-04 17:00 rac 2010 meet the expert
+2009-02-05 16:00 AMEP martin schmid
+
+2009-02-09 13:00 aec devdays online dry run
+
+2009-02-10 19:00 marlene und vollmond
+
+2009-02-12 17:00 devday online revit + aca + ame
+
+2009-02-13 17:20 zrh # bhf meeting point + snow shoes
+2009-02-13 20:00 dance free
+
+2009-02-15 schneeschuhtour selun 2205 m churfirsten
+
+2009-02-19 mr
+2009-02-20 beate
+
+2009-02-21 fasnachtsferien bis 28.2
+2009-02-21 kt + xt ski until 28.2
+
+2009-02-22 skitour motto crostel # 2302 m, faido, tessin, harald erbacher + rupert
+
+2009-02-24 16:00 strucsoft # revit 2010 presentation
+
+2009-02-25 11:00 employeee survey action plan
+
+2009-02-25 11:00 employeee survey action plan
+
+2009-02-25 men @ klaus
+
+2009-02-26 16:00 AU Revit API class planning discussion
+
+2009-02-26 19:00 gabi
+2009-02-26 20:30 wave
+
+2009-02-27 8:00 rose breakfast
+2009-02-27 8:30 yoga
+
+2009-02-28 kt + xt ski end
+2009-02-28 skitour bedrettotal # helgenhorn 2837 m, basodino 3272 m
+2009-02-28 19:30 ruth buffet # K‰ppelestr. 12 in Stetten
+2009-03-01 skitour
+
+2009-03-02 20:00 mr
+
+2009-03-04 6:55 bsl-muc-nap # 06:55 Basel 08:00 Muenchen LH38311 09:30 Muenchen 11:10 Neapel LH40501 4h15
+
+
+
+2009-03-06 21:30 medi # http://www.oshomiasto.it +39-577-960124
+2009-03-07 medi
+2009-03-08 medi
+
+2009-03-08 otc las vegas
+2009-03-14 otc las vegas end
+
+2009-03-14 bhs begin
+2009-03-21 bhs end
+
+2009-03-25 12:10 nap-muc-zrh # 12:10 Neapel 13:55 Muenchen LH40511 15:35 Muenchen 16:30 Zuerich LH37441 4h20
+
+2009-03-26 schriftl. abi bis 3.4
+
+#2009-03-27 karl geck # mit den verhaeltnissen tanzen - die naechste krise kommt bestimmt
+#2009-03-28 karl geck
+#2009-03-29 karl geck
+
+2009-03-28 J kids
+
+2009-03-30 ne
+
+2009-03-31 14:30-15:00 kristine devnote # Process Feedback One on One Session
+
+2009-04-01 15:30 astrid
+2009-04-01 20:00 singvoegelchen alte tuellinger schule
+
+2009-04-02 15:00 katja
+2009-04-02 16:00 martin mep
+
+#2009-04-03 bhs into the mystic
+#2009-04-04 bhs
+#2009-04-05 bhs
+
+2009-04-06 11:00 peter klapprott
+
+2009-04-08 09:00 gary
+2009-04-08 20:00 niana 40
+
+2009-04-09 10:00 maenner
+2009-04-09 19:00 full moon
+
+2009-04-10 *ne holiday good friday
+
+2009-04-10 10:30 alan lowen # Anmeldung als Assistent zum Kurs Freiheit zu fuehlen, Freiheit zu lieben mit Alan Lowen hier im Waldhaus Zentrum Luetzelflueh.
+2009-04-11 alan
+2009-04-12 alan
+2009-04-13 alan
+
+2009-04-14 gd?
+2009-04-15 17:00 Trelligence Revit Vanguard demo
+2009-04-16 gd?
+2009-04-17 v+z aesch # 7:12 muc 11:44 zrh 11:52 S-15 12:08 birmensdorf
+2009-04-17 andreas zrh
+
+2009-04-16 kt + xt + ct berlin until 19.4
+2009-04-19 kt + xt + ct berlin end
+
+#2009-04-16 skitour rund um zinai until 19.4
+#2009-04-17 skitour
+#2009-04-18 skitour
+#2009-04-19 skitour rund um zinai end
+
+2009-04-20 ne
+
+2009-04-21 acapella ohne birte
+
+2009-04-22 maenner deepesh
+
+2009-04-27 15:45 LX041
+
+2009-04-29 revit api webcast
+
+2009-04-30 8:00 christian breakfast
+
+#2009-05-01 christa hamm
+#2009-05-02 christa hamm
+#2009-05-03 christa hamm
+
+2009-05-05 19:00 beate
+
+2009-05-06 12:40-14:30 bsl-pmi # palma de mallorca, old: 11:25-14:15 Flug 1057; Abflug 12:25; Ankunft 14:15; Die Abfertigungsschalter ˆffnen 10:25 und schlieﬂen 11:45
+2009-05-06 23:15 nick arrival # easyjet from london gatwick
+
+2009-05-08 christian birthday
+
+2009-05-11 15:20-17:10 pmi-bsl # old: 13:50-16:40 Flug 1058; Abflug 14:50; Ankunft 16:40; Die Abfertigungsschalter ˆffnen 12:50 und schlieﬂen 14:10
+#2009-05-12 23:50 nick departure
+
+# EMIA Autodesk Industry Academy 2009
+# http://adskindustryacademy.autodeskevents.com/home.html
+#2009-05-11 techcamp munich msd + plant
+#2009-05-12 techcamp munich aec + msd + plant + m&e
+#2009-05-13 techcamp munich aec + geospatial + msd + m&e
+#2009-05-14 techcamp munich aec + geospatial
+#2009-05-15 techcamp munich aec + geospatial
+
+2009-05-13 acapella mit birte
+
+2009-05-14 lua
+2009-05-14 kt gone
+2009-05-15 kt gone
+2009-05-16 kt gone
+
+2009-05-15 10:05-12:30 zrh-arn # Flight Swiss/SAS #4666 Airline Record Locator: KE7I54
+
+2009-05-19 cadq stockholm
+2009-05-20 cadq stockholm
+2009-05-20 19:35-22:00 arn-zrh # Flight Swiss #1255
+
+2009-05-21 *ne holiday pfingstferien bis 7.6
+
+2009-05-23 19:30 warteck werkraum tanzen und so # "C:\tmp\TUS einladungsflyer.pdf"
+
+2009-05-25 avignon with boys
+
+2009-06-01 avignon with boys
+
+2009-06-09 19:00-21:00 alan zrh # Glockenhaus, Sihlstrasse 33, Zuerich (neben Glockenhof), Vortrag "Ohne deine Pr‰senz kann das Fest nicht beginnen!"
+
+#2009-06-10 20:00 acapella mit birte # faellt aus
+2009-06-10 20:00 maenner
+
+2009-06-13 19:00 beate
+2009-06-14 10:00-16:00 maenner stefan
+2009-06-15 lua
+
+2009-06-20 19:30 sommersonnenwende barbara + michael
+
+2009-06-21 19:00 earth run fr # 10. Earth Run an Mittsommernacht am 21.06.09 ab 19:00 Uhr, Kanonenplatz Freiburg. Das eigentliche Ritual wird nach einem kurzen Spaziergang und einer Einstimmung auf dem Platz der alten Festung 250 Meter hinter dem neuen Turm stattfinden.
+
+2009-06-22 muendliches abi
+
+2009-06-22 17:00 wam training
+2009-06-23 7:30 wam training
+
+2009-06-23 muendliches abi
+2009-06-23 18:00 bettina
+
+2009-06-24 acapella ohne birte
+
+2009-06-25 ne christoph demenager
+
+2009-06-26 aob sommerfest glarisegg
+2009-06-27 aob sommerfest glarisegg
+2009-06-28 aob sommerfest glarisegg
+
+2009-06-28 otto kletterkurs
+
+# 18:00-19:30 Uhr Meet and Greet - Lehrerteam vom IISB und praktizierende CSBs
+# 19:30-21:30 Uhr Vortrag Joseph Kramer (in englischer Sprache)
+# Hotel Viktoria, Centralbahnplatz 4, 4051 Basel
+2009-06-29 18:00 Joseph Kramer Sexological Bodywork
+
+2009-07-01 18:00 christopher abschiedsessen
+2009-07-01 20:00 maenner peter
+
+2009-07-02 7:00 christopher depart india
+
+2009-07-04 14:00 kreativwochenende rose
+2009-07-05 kreativwochenende rose
+
+2009-07-08 14:00 co
+#2009-07-08 19:30 theater im moment # an der gueterstr. 145, hinterhof, in basel
+#2009-07-08 acapella mit birte
+
+2009-07-09 11:00 lead emea devtech call
+2009-07-09 18:30 dragica
+
+2009-07-11 schmalstoeckli # climbed the route 'Kurze Kombination 4c' with robert hett
+
+2009-07-13 14:00 kean
+2009-07-13 18:00 tatjana + juergen jurte
+
+2009-07-14 11:00 garni
+2009-07-14 14:00 dentist # scherble
+
+2009-07-15 8:30 christian
+
+2009-07-16 11:00 lead emea devtech call
+2009-07-16 council workshop begin
+2009-07-17 18:00 sweat lodge preparation
+2009-07-18 04:00 sweat lodge j+t
+2009-07-18 sweat lodge christian
+2009-07-19 council workshop end
+
+2009-07-21 12:00 marion
+2009-07-21 18:00 beate
+
+2009-07-23 marie + david
+2009-07-23 16:00 family api webcast
+
+2009-07-24 marie + david
+2009-07-24 18:58 lua
+2009-07-24 19:00 tracy chapman
+2009-07-24 19:30 wave # Tanzpalast Gueterstr. 82
+
+2009-07-25 marie + david
+2009-07-25 astrid
+
+2009-07-26 11:00 men bern bhf
+2009-07-27 ne
+
+2009-07-28 hochtour tschingelhorn
+2009-07-29 hochtour tschingelhorn
+# reichenbach, griesalp, gamchi scharte, mutthorn, mutthornhuette, tschingelhorn, gasterental, stalten, kandersteg, reichenbach
+# rupert, jogi, joerg
+
+2009-07-31 19:30 wave # Tanzpalast Gueterstr. 82
+
+2009-08-01 *swiss national holiday
+2009-08-01 beckenried
+2009-08-02 beckenried
+2009-08-03 lua
+
+2009-08-04 juergen birthday
+2009-08-05 sonja
+2009-08-05 20:00 vorbesprechung weissmies
+2009-08-05 full moon fire
+
+2009-08-06 21:00 patent ochsner # http://www.imfluss.ch
+2009-08-07 christine fischer
+
+2009-08-08 11:00 juergen + tatjana # dank und segensfest
+
+2009-08-07 hochtour almageller huette # aufstieg von saas almagell zur almageller huette
+2009-08-08 hochtour mittelrueck # aufstieg zum sunnigpass und ueberquerung vom mittelrueck
+2009-08-09 hochtour weissmies # aufstieg zum zwischenbergen pass und ueberquerung vom weissmies, gletscherabstieg ins hohsaas tal und bergbahn runter nach saas grund
+# rupert, jogi, heike, hubert, robert, thomas, sonja, berit, margit, karin, jeremy
+
+2009-08-10 lina + ben
+
+2009-08-12 19:00 beate
+
+2009-08-14 club zrh
+2009-08-14 19:30 wave # Tanzpalast Gueterstr. 82
+2009-08-15 luA
+2009-08-15 21:00 stiller has # http://www.imfluss.ch
+2009-08-16 luA paddling
+
+2009-08-18 19:00 beate
+
+2009-08-19 16:30 moni
+
+2009-08-20 17:00 doebelin + maurer van gogh + apero
+
+2009-08-23 bergtour saentis # bergbahn, cable car up, then across the exciting Lysengrat ridge and along another ridge with beautiful views in beautiful weather across to the Schafbergsattel, ending up with a very long trek through a beatiful valley down to Wildhaus to catch the last bus when it was already completely dark at half past ten at night
+
+2009-08-27 rme api webcast
+
+2009-08-29 15:00 rainer summer party # C:\tmp\rainer_Summerparty_2009.jpg
+2009-08-29 17:00 katja gartenfest
+2009-08-29 17:30 rose volleyball
+2009-08-29 19:30 gurdjieff concert # gemeindesaal christuskirche freiburg-wiehre maienstr. 2
+2009-08-29 19:45 tanzen und so # Warteck, Burgweg 7, Basel, C:\tmp\TUS_einladungsflyer_29_august.pdf
+
+2009-08-30 11:00 rose malen im garten
+2009-08-30 14:00 spielen Schorenmatte beim Eglisee # Sonntag Nachmittag wird gespielt auf der Schorenmatte (beim Eglisee). Dazu kannst du in- und outdoortaugliche Spiele mitbringen oder dich Spielbegeisterten anschliessen. Wir beginnen um 14 Uhr beim Sportplatz Schorenmatte und verteilen uns dann auf die verschiedenen Spielst‰tten rund um die Schorenmatte. Bitte teile mir mit wenn du kommen mˆchtest und welche Spiele du magst.
+
+2009-08-30 muttenhorn
+#2009-09-30 maenner zueri ausweichtermin
+
+2009-09-01 20:00 special wave # Breitezentrum, Zuercherstr. 149
+
+2009-09-03 17:00 aca.net webcast
+2009-09-03 18:00 otto geburi
+2009-09-04 18:00 rose geburi, volleyball + film
+
+2009-09-05 18:00 heiner # Schorenweg 113, N‰he Eglisee, beim Sportplatz Schoren, direkt vor der Langen Erle.
+2009-09-06 maenner bern
+
+2009-09-08 elp farnborough # Employee Leadership Program http://training/Etr/training/catalog.aspx?CourseID=117&TimeFrame=future&Keywords=Employee%20Leadership%20Program&
+
+2009-09-09 16:00 adn all hands
+
+2009-09-10 toscana begin
+2009-09-20 toscana end
+
+2009-09-23 19:00 bernd lafrenz macbeth # Dieter Kaltenbach Stiftung
+
+2009-09-26 19:00 rose vernissage # tuellingerstr. 36 a, protzek, biomedizin, C:\tmp\rose\retiro.jpg
+2009-09-27 10:30-14:00 tri-flow yoga
+
+2009-09-30 18:00 lua massage
+2009-09-30 19:00 sektionswochenendvorbesprechung # alten wasserwerk
+
+2009-10-01 afternoon lua free time
+2009-10-01 16:00-18:00 revit vanguard meeting
+
+2009-10-03 rupi hochtour
+2009-10-04 rupi hochtour -> lua
+2009-10-05 lua
+
+2009-10-07 maenner christian
+
+2009-10-09 sektionswochenende
+2009-10-10 10:00 contact workshop ralf jaroschinski # regina kenk
+2009-10-10 sektionswochenende
+2009-10-11 sektionswochenende
+
+2009-10-12 14:30-15:30 rme api meeting stacey scanlon
+
+2009-10-14 christian klangschalen massage
+
+2009-10-15 men in ticino begin
+2009-10-18 ticino end
+
+2009-10-20 lua bern + bsl
+
+2009-10-23 14:00 moni meet baellchen
+2009-10-24 17:00 hummus for karlheinz # Hasler Bahnhof schopfheim --> wehr -> hasel -> 1 rechts
+
+2009-10-25 lua
+2009-10-26 lua
+
+2009-10-27 10:00 robert
+2009-10-27 12:00 monika
+# Advokaturbuero Michael Steiner Effingerstrasse 4A, 3011 Bern, Schweiz, contact@anwalt-steiner.ch Tel. 031-382-2532
+2009-10-27 19:00 nicola
+2009-10-27 22:45 monika
+
+2009-10-28 ne + andreas + lua
+
+2009-10-30 sabine vipassana film
+2009-10-30 tatj + juergen # knoblauchgratin
+
+2009-11-01 16:00 anna + herbert
+2009-11-01 19:00 full moon fire
+
+2009-11-03 18:00 dirk frigne
+
+2009-11-04 19:00 rose
+
+2009-11-05 12:30 navisworks
+2009-11-05 16:30 AutoCAD DevDays practice
+
+2009-11-06 18:00 burkhard # "C:\tmp\burkhardt\Burkhardt in Basel Anmeldung 2009neu.pdf"
+2009-11-07 burkhard
+2009-11-08 burkhard
+
+2009-11-11 12:30 revit devdays dry run
+2009-11-11 14:00 rfa api virtual dry run
+2009-11-11 20:15 men tm # bring a funny story
+
+2009-11-13 13:30 zrh cubus joerg pipo
+2009-11-13 17:00 lua wellness
+2009-11-13 madlee
+2009-11-14 lua andeer wellness
+2009-11-14 09:00-11:30 black diamond lagervekauf # Hafen 45, 79576 Weil am Rhein, C:\tmp\dav\Wegbeschreibung_Plan-d-Acces.pdf
+2009-11-15 lua andeer wellness
+
+2009-11-18 ne
+2009-11-18 19:30 beate
+
+2009-11-19 7:00 light fire
+2009-11-19 8:00 get car from axel and go shopping
+2009-11-19 11:00 wash
+2009-11-19 14:00 karlheinz
+2009-11-19 19:00 rose
+
+2009-11-20 11:00 paul + migros
+2009-11-20 11:30 rene im ganges
+2009-11-20 14:00 sabine
+2009-11-20 19:58 rajini
+
+2009-11-21 non-birthday
+2009-11-22 sweat lodge
+
+2009-11-23 bsl-muc
+2009-11-24 17:00 api aec meeting
+
+2009-11-25 8:30 api aec meeting apac
+
+2009-11-26 11:30 muc-iad-las
+# LH9280 26NOV MUCIAD 11:30 14:59
+# LH9358S 26NOV IADLAS 17:07 19:30
+
+2009-11-30 07:30-08:30 rfa api prep
+2009-11-30 08:30-09:30 rfa api # virtual session recording Studio Lagoon E
+2009-11-30 09:30-18:00 devdays las vegas
+2009-12-01 11:00-12:00 fernando malard
+2009-12-01 15:00-16:00 rfa api # broadcast 1 of The New AutodeskÆ RevitÆ Family API: Everything is Relative, Customization & Programming, Virtual Session, 12/1/2009 - 3:00 pm - 4:00 pm, Virtual 1
+2009-12-02 09:00-10:00 rfa api # broadcast 2
+2009-12-02 11:30-14:00 adn stand
+2009-12-02 13:00-14:30 harry's session # Creating and Analyzing New Conceptual Massing Geometry With the Revit API, Customization & Programming
+2009-12-02 17:00-18:30 scott's session # CP222-3 Analyze Geometry of Buildings Using the Revit API
+2009-12-02 19:00-22:00 adn stand
+2009-12-03 10:00-11:30 rme api # All Systems Go in the New AutodeskÆ RevitÆ MEP API, Customization & Programming, 90-Minute Class, 12/3/2009 - 10:00 am - 11:30 am, Palm C
+2009-12-03 12:00-13:30 chuck dodson # Trattoria Del Lupoís
+
+2009-12-04 las-sfo-muc
+2009-12-05 las-sfo-muc
+
+# LH9229 04DEC LASSFO 16:19 18:07
+# LH 459 04DEC SFOMUC 21:00 17:15
+
+2009-12-06 11:10-14:00 muc-malaga
+
+# LH4526 06DEC MUCAGP 11:10 14:00
+
+2009-12-07 devdays tel aviv
+2009-12-09 devdays moscow
+
+2009-12-10 11:00 maria rico garcia # balcon de europa, nerja, puerta de la iglesia
+2009-12-10 16:15-18:10 BA 495 malaga-london # AGP-LHR
+
+2009-12-11 devdays prague
+
+2009-12-14 devdays london SK 0522 LHR 18:40 - GOT 21:40
+2009-12-15 devdays gothenburg LH 3045 GOT 19:15 - FRA 21:00
+2009-12-16 devdays frankfurt LH 3958 FRA 21:05 - LIN 22:15
+2009-12-17 devdays milano LH 1778 MXP 21:50 - CDG 23:15
+2009-12-18 devdays paris
+2009-12-18 helene faria
+2009-12-19 11:00-12:15 LX 635 cdg-zrh
+2009-12-19 lua
+2009-12-19 christian sweat lodge
+2009-12-20 lua
+
+2009-12-18 q4 shutdown
+2009-12-21 q4 shutdown
+2009-12-22 q4 shutdown
+2009-12-22 20:00 weihnachtswave # Quartiertreffpunkt Breite, Zuercherstr. 149
+2009-12-23 q4 shutdown
+
+2009-12-24 8:00 sigi
+2009-12-24 19:00 rupert
+
+2009-12-26 11:00 basel sbb
+2009-12-26 16:00 vipassana begin # Monte Verita in Ascona, Gruppo Vipassana Ticino, Via Monte Tabor 2, CH-6512 Giubiasco, +41-76/2372232
+
+year 2006 # reset year explicitly
+odd fridays in year education day
+odd thursdays in year beruehren # 20:00-22:00
+
+year 2007 # reset year explicitly
+even fridays in year education day
+
+year 2008 # reset year explicitly
+odd fridays in year education day
+
+year 2009 # reset year explicitly
+odd fridays in year education day
+
+2009-07-09 20:30 tanz
+
+2009-01-01 New Year's Day
+2009-04-10 Good Friday
+2009-04-13 Easter Monday
+2009-05-21 Ascension Day
+2009-05-22 Ascension Day Bridging Day
+2009-06-01 White Monday
+2009-09-21 Je˚ne Federal
+2009-12-24 Annual Week of Rest until 2010-01-03
 2010-01-01 New Year's Day
 
 2010-01-04 q4 shutdown
@@ -8350,7 +10400,7 @@ year 2015
 
 2024-02-27 meet rvt expert
 
-2024-03-01 wildhaus end
+2024-03-01 wildhaus endxxx
 
 #2024-03-02 14:00-16:30 balkonpv@kaltenbach # sven alberding kaltenbachstiftung pavillon, konrad-adenauer 22
 #2024-03-02 15:00-19:00 praenatal
