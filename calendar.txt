@@ -8365,7 +8365,7 @@ year 2015
 2024-03-10 13:00 singen@saig end
 2024-03-11 11:30 heubes@turm # kimmig + heubes, turmstrasse 37, 79539 loe
 
-2024-03-13 19:30 nik@volkshaus # tiere des nordens, skandinaviens faszinierende wildnis
+2024-03-13 19:30 <a href="https://www.explora.ch/programm/tiere_des_nordens">nik@volkshaus</a> # tiere des nordens, skandinaviens faszinierende wildnis
 2024-03-14 19:00 apero@dav # festsaal der albert-schweizer-gemeinschaftsschule
 2024-03-14 20:00 vv@dav # festsaal der albert-schweizer-gemeinschaftsschule
 2024-03-16 13:00 oelwanne begin
