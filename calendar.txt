@@ -8358,14 +8358,16 @@ year 2015
 2024-03-02 10:00 tim@teams
 #2024-03-03 11:00-14:00 jurte@wiechs
 
-2024-03-07 17:00 yoga@stetten
+2024-03-07 15:30 bsb@nellie
+2024-03-07 17:00 yoga@stetten # haupt 36
 2024-03-08 16:00 eder@stetten # im sand 37
 2024-03-08 19:00 <a href="https://come-together-songs.de/event/heilkraft-gesang-tanz-und-gemeinschaft-2/">singen@saig</a> begin
 2024-03-09 singen@saig
 2024-03-10 13:00 singen@saig end
 2024-03-11 11:30 heubes@turm # kimmig + heubes, turmstrasse 37, 79539 loe
 
-2024-03-13 19:30 <a href="https://www.explora.ch/programm/tiere_des_nordens">nik@volkshaus</a> # tiere des nordens, skandinaviens faszinierende wildnis
+2024-03-13 19:15 nik@volkshaus
+2024-03-13 19:30 <a href="https://www.explora.ch/programm/tiere_des_nordens">tiere des nordens</a>
 2024-03-14 19:00 apero@dav # festsaal der albert-schweizer-gemeinschaftsschule
 2024-03-14 20:00 vv@dav # festsaal der albert-schweizer-gemeinschaftsschule
 2024-03-16 13:00 oelwanne begin
