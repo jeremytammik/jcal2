@@ -8380,6 +8380,7 @@ year 2015
 2024-03-20 11:55 ezs1005 20c gate closes
 2024-03-20 12:25-15:05 <a href="/Users/jta/a/doc/travel/trip/malaga/2024-03-20_easyjet_bsl_agp_bsl.pdf">bsl-agp</a> # booking K6MXLL3 Basel to Malaga EZS1005 Departure 12:25 Wed 20th Mar  Arrival 15:05
 2024-03-22 19:00 lina@garnatilla begin
+2024-03-26 13:30 mikako@zoom
 2024-04-01 19:15-22:15 ben agp-cgn
 2024-04-04 06:30 eju7021 15c gate closes
 2024-04-04 07:00-09:35 <a href="/Users/jta/a/doc/travel/trip/malaga/2024-03-20_easyjet_bsl_agp_bsl.pdf">agp-bsl</a> # booking K6MXLL3 Malaga to Basel EJU7021 Departure 14:30 Thu 4th Apr Arrival 17:05
