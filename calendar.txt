@@ -8389,7 +8389,9 @@ year 2015
 2024-04-04 08:05-11:00 lina agp-ein
 #2024-04-04 14:00 eju7021 15c gate closes
 #2024-04-04 14:30-17:05 <a href="/Users/jta/a/doc/travel/trip/malaga/2024-03-20_easyjet_bsl_agp_bsl.pdf">agp-bsl</a> # booking K6MXLL3 Malaga to Basel EJU7021 Departure 14:30 Thu 4th Apr Arrival 17:05
-2024-04-07 lina ferien end
+2024-04-07 09:30 dejeune@madlee
+2024-04-07 12:00 moni depart
+2024-04-07 15:30 moni return
 
 2024-04-10 19:00-22:00 <a href="https://www.kama8.ch/">3minutenspiel</a>
 2024-04-11 10:20 xray@unispital b4 # radiologie spitalstrasse 21 1 stock
