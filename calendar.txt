@@ -8413,6 +8413,8 @@ year 2015
 2024-05-04 telpaare@kiental
 2024-05-05 14:00 telpaare end
 
+2024-05-25 maibaum@zug
+2024-05-26 maibaum@zug
 2024-05-26 dreilaenderlauf
 
 2024-05-28 devcon@munich
