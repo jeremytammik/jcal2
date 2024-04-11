@@ -8393,11 +8393,13 @@ year 2015
 2024-04-07 12:00 moni depart
 2024-04-07 15:30 moni return
 
-2024-04-10 19:00-22:00 <a href="https://www.kama8.ch/">3minutenspiel</a>
+#2024-04-10 19:00-22:00 <a href="https://www.kama8.ch/">3minutenspiel</a>
 2024-04-11 10:20 xray@unispital b4 # radiologie spitalstrasse 21 1 stock
 2024-04-11 10:50 chat@unispital b4 # orthopaedie + traumatologie erdgeschoss
 
 2024-04-16 18:00 pvselbst@kaltenbach
+
+2024-04-17 18:00-20:00 klimaziele@sak # mit welchen massnahmen will die stadtverwaltung ihre klimaziele erreichen? sak, tumringer str. 269, beim parkschwimmbad
 
 2024-04-26 17:00 stammtisch@lena # zum guten leben April
 2024-04-27 silke@h30 begin
