@@ -8431,13 +8431,18 @@ year 2015
 2024-05-04 telpaare@kiental
 2024-05-05 14:00 telpaare end
 
+2024-05-15 enkel begin
 2024-05-16 15:30 bsb@nellie
+2024-05-17 enkel end
 
 2024-05-17 balkonanlage # workshop 1-2 panele + wechselrichter fuer eur 60
 2024-05-18 balkonanlage # workshop 1-2 panele + wechselrichter fuer eur 60
 
 2024-05-18 leandra@natur
 2024-05-19 leandra@natur
+
+2024-05-22 enkel begin
+2024-05-24 enkel end
 
 2024-05-25 maibaum@zug
 2024-05-26 maibaum@zug
