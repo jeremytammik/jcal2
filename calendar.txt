@@ -8415,6 +8415,7 @@ year 2015
 2024-04-27 silke@h30 begin
 2024-04-28 silke end
 
+2024-04-29 09:00-11:00 delzer@kuri
 2024-04-29 piazzogna begin
 2024-04-30 tblf@nellie # The Biggest Little Farm
 2024-04-30 walpurgis@niderholz # am 30. 4. ist wieder das walpurgisfest zwischen rodersdorf und metzerlen, auf der waldwiese am niderholz ab ca 15.00 werde ich dort sein und vorbereiten- und um hilfe, beim feueraufbau froh sein- grillen wird wohl ab ca.17.30 möglich sein -feuer anzünden etwa 21.20- staubexplosionen etwa 22.00- chienbesen- tanz etwa 22.30- bei regnerischem wetter wird die grosse plane aufgehängt, wo auch das kleine grillfeuer darunter sein wird- instrumente sehr willkommen, wasser etwa 10min. entfernt- bei rebberg, nähe der strasse metzerlen- rodersdorf- auf bald wädel
@@ -8432,7 +8433,7 @@ year 2015
 2024-05-05 14:00 telpaare end
 
 2024-05-15 enkel begin
-2024-05-15 12:28-16:43 <a href="file:///Users/jta/a/doc/expense/receipt/2024/2024-05-15_bsl_bonn.pdf">bsl-bonn</a>
+2024-05-15 12:28-16:43 <a href="/Users/jta/a/doc/expense/receipt/2024/2024-05-15_bsl_bonn.pdf">bsl-bonn</a>
 2024-05-15 17:02-17:33 bonn-michaelshoven
 2024-05-16 15:30 bsb@nellie
 2024-05-17 enkel end
