@@ -8432,7 +8432,7 @@ year 2015
 2024-05-05 14:00 telpaare end
 
 2024-05-15 enkel begin
-2024-05-15 12:28-16:43 <a href="/Users/jta/a/doc/expense/receipt/2024/2024-05-15_bsl_bonn.pdf">bsl-bonn</a>
+2024-05-15 12:28-16:43 <a href="file:///Users/jta/a/doc/expense/receipt/2024/2024-05-15_bsl_bonn.pdf">bsl-bonn</a>
 2024-05-15 17:02-17:33 bonn-michaelshoven
 2024-05-16 15:30 bsb@nellie
 2024-05-17 enkel end
