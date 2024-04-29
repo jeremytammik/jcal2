@@ -8411,7 +8411,7 @@ year 2015
 2024-04-24 09:30 dentist connert@uzb # fix broken tooth 46
 2024-04-25 17:00-18:00 ai@devtech
 #2024-04-25 18:45-22:00 playfight@3rosen # spiel- und freizeithalle dreirosenbrücke, 3. seiteneingang, klingel benutzen
-2024-04-26 17:00 stammtisch@lena # zum guten leben April
+#2024-04-26 17:00 stammtisch@lena # zum guten leben April
 2024-04-27 silke@h30 begin
 2024-04-28 silke end
 
