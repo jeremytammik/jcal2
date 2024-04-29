@@ -8416,6 +8416,7 @@ year 2015
 2024-04-28 silke end
 
 2024-04-29 09:00-11:00 delzer@kuri
+2024-04-30 09:00-09:30 dentist connert@uzb # fix broken tooth 47
 2024-04-30 piazzogna begin
 2024-04-30 cena@dani
 #2024-04-30 tblf@nellie # The Biggest Little Farm
