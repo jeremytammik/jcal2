@@ -8279,7 +8279,7 @@ year 2015
 
 2024-01-12 moni@schwaibenalp begin
 2024-01-13 19:45-20:40 rosewave@nellie
-2024-01-14 19:00-20:30 rosewave@lichtraum # Haltingerstr. 10
+2024-01-14 19:00-20:30 rosewave@lichtraum # haltingerstr 10
 2024-01-14 moni@schwaibenalp end
 
 2024-01-15 08:00-17:00 cipriano@wld # cipriano in short bursts, three others all day
@@ -8410,7 +8410,7 @@ year 2015
 
 2024-04-24 09:30 dentist connert@uzb # fix broken tooth 46
 2024-04-25 17:00-18:00 ai@devtech
-#2024-04-25 18:45-22:00 playfight@3rosen # spiel- und freizeithalle dreirosenbrücke, 3. seiteneingang, klingel benutzen
+#2024-04-25 18:45-22:00 playfight@3rosen # spiel- und freizeithalle dreirosenbruecke, 3. seiteneingang, klingel benutzen
 #2024-04-26 17:00 stammtisch@lena # zum guten leben April
 2024-04-27 silke@h30 begin
 2024-04-28 silke end
@@ -8453,6 +8453,7 @@ year 2015
 
 2024-05-25 maibaum@zug
 2024-05-26 maibaum@zug
+2024-05-26 19:00-20:30 rosewave@lichtraum # haltingerstr 10
 2024-05-26 dreilaenderlauf
 
 2024-05-28 devcon@munich
@@ -8473,6 +8474,7 @@ year 2015
 
 2024-06-22 leandra@natur
 2024-06-23 leandra@natur
+2024-06-23 19:00-20:30 rosewave@lichtraum # haltingerstr 10
 
 2024-06-27 15:30 bsb@nellie
 2024-06-29 tga begin
@@ -8487,11 +8489,14 @@ year 2015
 2024-07-17 18:00 rtk vernetzungsfest
 
 2024-07-20 moni ferien begin
+2024-07-28 19:00-20:30 rosewave@lichtraum # haltingerstr 10
 2024-08-09 moni ferien end
 
 2024-08-12 11:00 dentist connert@uzb # kontrolle
 
 2024-08-16 stammtisch # zum guten leben August
+
+2024-08-25 19:00-20:30 rosewave@lichtraum # haltingerstr 10
 
 2024-10-05 lina begin
 2024-10-06 lina end
