@@ -8426,7 +8426,7 @@ year 2015
 2024-05-02 15:30 bsb@nellie
 2024-05-02 16:00-19:00 ai@devtech
 
-2024-05-03 14:30 moni@gellert
+2024-05-03 14:45 moni@sutterbegg # gellert
 2024-05-03 18:00 <a href="/Users/jta/j/doc/tel/2024-02-10_kientalerhof.pdf">telpaare@kiental</a>
 # Kientalerhof: Das Zimmer steht Ihnen in der Regel ab 14 Uhr zur Verfügung.
 # Am Abreisetag ist es bis 9.30 Uhr freizugeben.
