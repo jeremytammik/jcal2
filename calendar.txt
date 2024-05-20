@@ -8497,9 +8497,12 @@ year 2015
 2024-07-05 piemont
 2024-07-06 tga end
 
+2024-07-15 nik + markus begin
 2024-07-17 18:00 rtk vernetzungsfest
 
 2024-07-20 moni ferien begin
+2024-07-27 nik + markus end
+2024-07-28 geburi@markush # oberasbach
 2024-07-28 19:00-20:30 rosewave@lichtraum # haltingerstr 10
 2024-08-09 moni ferien end
 
