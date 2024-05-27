@@ -8466,12 +8466,12 @@ year 2015
 2024-05-26 19:00-20:30 rosewave@lichtraum # haltingerstr 10
 2024-05-26 dreilaenderlauf
 
-2024-05-27 15:00 frieder@wld
+2024-05-27 14:00 frieder@wld
 2024-05-28 devcon@munich
 2024-05-29 devcon
 
-2024-05-31 gisela begin
-2024-06-02 gisela end
+2024-05-31 16:00 <a href="https://sac-kirchberg.ch/clubhuette.html">gisela@staldenmaad</a> # 3757 Schwenden im Diemtigtal
+2024-06-02 15:00 gisela end
 
 2024-06-03 08:00-12:00 pv@heidi # pv-installation heidi schmieding am sonnenrain 41
 2024-06-03 19:30 fairnetzt festival # alte feuerwache bei der stadtkirche
