@@ -8475,6 +8475,7 @@ year 2015
 
 2024-06-03 08:00-12:00 pv@heidi # pv-installation heidi schmieding am sonnenrain 41
 2024-06-03 19:30 fairnetzt festival # alte feuerwache bei der stadtkirche
+2024-06-03 14:30 triage@nik
 2024-06-04 08:00-12:00 pv@heidi
 2024-06-04 15:00 kuri@schopfheim
 2024-06-05 18:00 pvselbst@kaltenbach
