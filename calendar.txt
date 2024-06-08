@@ -8480,7 +8480,9 @@ year 2015
 2024-06-08 18:30 bauen@leo # vortrag regeneratives bauen mit juli wittkop + edward davies, hofgut leo, gresgen
 2024-06-09 16:00 lomi@jura end
 2024-06-11 11:00 hofgut leo
+2024-06-13 09:30 dentist connert@uzb # fix broken tooth 3
 2024-06-13 15:30 bsb@nellie
+2024-06-14 sunahla + govinda
 2024-06-15 13:00 schwitzhuette@wiechs
 2024-06-16 10:00-22:00 openday@beatfehr # alten ziegelei, hohestrasse 138, ch-4104 oberwil-bl
 
@@ -8493,9 +8495,9 @@ year 2015
 2024-06-24 leandra@natur
 
 2024-06-27 15:30 bsb@nellie
-2024-06-28 marie?
-2024-06-29 marie?
-2024-06-30 marie?
+2024-06-28 marie
+2024-06-29 nackt
+2024-06-30 marie
 
 #2024-06-29 tga begin
 #2024-06-30 piemont
@@ -8512,7 +8514,6 @@ year 2015
 2024-07-17 18:00 rtk vernetzungsfest
 
 2024-07-20 moni ferien begin
-2024-07-27 14:00 martin@kandern
 2024-07-27 nik + markus end
 2024-07-28 geburi@markush # oberasbach
 2024-07-28 19:00-20:30 rosewave@lichtraum # haltingerstr 10
@@ -8524,6 +8525,8 @@ year 2015
 
 2024-08-25 19:00-20:30 rosewave@lichtraum # haltingerstr 10
 2024-08-30 17:30 gabi@wald # untere gehrenstrasse 61 bockhausen
+
+2024-09-21 14:00 martin@kandern
 
 2024-10-05 lina begin
 2024-10-06 lina end
