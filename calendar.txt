@@ -8490,9 +8490,10 @@ year 2015
 
 2024-06-20 grill@guemligen
 
-2024-06-23 leandra@natur
+2024-06-22 leandra@natur?
+2024-06-23 leandra
 2024-06-23 19:00-20:30 rosewave@lichtraum # haltingerstr 10
-2024-06-24 leandra@natur
+2024-06-24 leandra?
 
 2024-06-27 15:30 bsb@nellie
 2024-06-28 marie
@@ -8510,6 +8511,8 @@ year 2015
 
 2024-07-06 loerrach singt
 
+2024-07-15 04:05-10:25 <a href="/Users/jta/a/doc/expense/receipt/2024/2024-07-15_flixbus_bls_brivelg.pdf">bsl-lyon</a>
+2024-07-15 13:30-18:40 <a href="/Users/jta/a/doc/expense/receipt/2024/2024-07-15_flixbus_bls_brivelg.pdf">lyon-brivelg</a>
 2024-07-15 nik + markus begin
 2024-07-17 18:00 rtk vernetzungsfest
 
