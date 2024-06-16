@@ -8486,6 +8486,7 @@ year 2015
 2024-06-14 11:00 singer@h30
 2024-06-14 18:00 sunahla + govinda
 2024-06-15 13:00 schwitzhuette@wiechs
+2024-06-16 13:00 nik@h30
 2024-06-16 13:00 moni@frauen
 2024-06-16 10:00-22:00 openday@beatfehr # alten ziegelei, hohestrasse 138, ch-4104 oberwil bl
 
@@ -8520,7 +8521,7 @@ year 2015
 2024-07-15 04:05-10:25 <a href="/Users/jta/a/doc/expense/receipt/2024/2024-07-15_flixbus_bls_brivelg.pdf">bsl-lyon</a>
 2024-07-15 13:30-18:40 <a href="/Users/jta/a/doc/expense/receipt/2024/2024-07-15_flixbus_bls_brivelg.pdf">lyon-brivelg</a>
 2024-07-15 nik + markus begin
-2024-07-17 18:00 rtkfest@Schoepflin vernetzungsfest Werkraum Schoepflin
+2024-07-17 18:00 rtkfest@schoepflin vernetzungsfest werkraum schoepflin
 
 2024-07-20 moni ferien begin
 2024-07-27 nik + markus end
