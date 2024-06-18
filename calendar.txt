@@ -8495,6 +8495,7 @@ year 2015
 
 2024-06-20 grill@guemligen
 
+2024-06-21 10:00 delzer@h30
 2024-06-22 leandra@natur?
 2024-06-23 leandra
 2024-06-23 19:00-20:30 rosewave@lichtraum # haltingerstr 10
