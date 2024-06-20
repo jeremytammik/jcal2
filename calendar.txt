@@ -8490,8 +8490,10 @@ year 2015
 2024-06-16 13:00 moni@frauen
 2024-06-16 10:00-22:00 openday@beatfehr # alten ziegelei, hohestrasse 138, ch-4104 oberwil bl
 
-2024-06-18 19:30 stammtisch@fairvelo # zum guten leben, 19:30 Uhr im Klimagarten Lörrach, Teichstraße, Einfahrt zum fairvelo Fahrradladen
+#2024-06-18 19:30 stammtisch@fairvelo # zum guten leben, 19:30 Uhr im Klimagarten Lörrach, Teichstraße, Einfahrt zum fairvelo Fahrradladen
+
 2024-06-20 16:30 markus@nik
+
 #2024-06-20 17:00 grill@guemligen
 
 2024-06-21 10:00 delzer@h30
