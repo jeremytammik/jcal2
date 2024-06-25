@@ -8519,6 +8519,7 @@ year 2015
 #2024-07-05 piemont
 #2024-07-06 tga end
 
+2024-07-01 11:00 luers@weil
 2024-07-01 19:00 dinner@markus
 
 2024-07-04 moni@schuol begin
