@@ -8522,7 +8522,8 @@ year 2015
 2024-07-01 11:00 luers@weil
 2024-07-01 19:00 dinner@markus
 
-2024-07-02 moni@schuol begin
+2024-07-02 moni@scuol begin
+2024-07-02 09:30 reinhard@stetten
 
 2024-07-06 loerrach singt
 2024-07-06 <a href="https://www.youthhostel.ch/en/hostels/scuol/">jugi@schuol</a>
@@ -8565,6 +8566,8 @@ year 2015
 2024-11-08 telpaare
 2024-11-09 telpaare
 2024-11-10 telpaare
+
+2024-11-28 14:20-14:40 pass@bern # bokningskod JRMT-0466 embassy of sweden in bern https://www.migrationsverket.se/ansokanbokning/wicket/page?4
 
 2024-12-13 stammtisch # zum guten leben Dezember
 
