@@ -8528,8 +8528,8 @@ year 2015
 2024-07-03 17:00 tim@teams # gpt
 
 2024-07-06 loerrach singt
-2024-07-06 <a href="https://www.youthhostel.ch/en/hostels/scuol/">jugi@schuol</a>
-2024-07-07 jugi@schuol
+2024-07-06 <a href="https://www.youthhostel.ch/en/hostels/scuol/">jugi@schuol</a>?
+#2024-07-07 jugi@schuol
 
 2024-07-15 04:05-10:25 <a href="/Users/jta/a/doc/expense/receipt/2024/2024-07-15_flixbus_bls_brivelg.pdf">bsl-lyon</a>
 2024-07-15 13:30-18:40 <a href="/Users/jta/a/doc/expense/receipt/2024/2024-07-15_flixbus_bls_brivelg.pdf">lyon-brivelg</a>
