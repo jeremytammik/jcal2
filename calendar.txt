@@ -435,6 +435,23 @@ year 2020 # https://www.myworkday.com/autodesk/d/inst/1422$739/rel-task/3001$14.
 2020-12-30 adsk_holiday # annual week of rest
 2020-12-31 adsk_holiday # annual week of rest
 
+year 2024 # https://www.myworkday.com/autodesk/d/gateway.htmld?reloadToken=bb89dba23f47fb013a46571ae3af6a91740dcdd328142c3b4094acb8945dc293
+
+2024-01-01 adsk_holiday # New Year's Day
+2024-01-03 adsk_holiday # Recharge Day
+2024-03-29 adsk_holiday # Good Friday
+2024-04-01 adsk_holiday # Easter Monday
+2024-05-09 adsk_holiday # Ascension Day & Bridge Day
+2024-05-20 adsk_holiday # Whit Monday
+2024-08-01 adsk_holiday # National Day
+2024-10-07 adsk_holiday # Autoday
+2024-12-23 adsk_holiday # Autodays
+2024-12-25 adsk_holiday # Christmas Day
+2024-12-26 adsk_holiday # Saint Stephen's Day
+2024-12-27 adsk_holiday # Autoday
+2024-12-30 adsk_holiday # Autodays
+2025-01-01 adsk_holiday # New Year's Day
+
 # adsk_holiday end.
 
 #
