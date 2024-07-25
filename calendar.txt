@@ -8552,15 +8552,14 @@ year 2015
 
 2024-07-13 18:00 geburi@michaela # brunnenweg 14, tuellingen
 
-
 2024-07-15 04:05-10:25 <a href="/Users/jta/a/doc/expense/receipt/2024/2024-07-15_flixbus_bls_brivelg.pdf">bsl-lyon</a>
 2024-07-15 13:30-18:40 <a href="/Users/jta/a/doc/expense/receipt/2024/2024-07-15_flixbus_bls_brivelg.pdf">lyon-brivelg</a>
 2024-07-15 nik + markus begin
-2024-07-17 18:00 rtkfest@schoepflin vernetzungsfest werkraum schoepflin
+2024-07-23 nik + markus end
+2024-07-23 16:50-20:50 ussel-lyon
+2024-07-23 22:30-04:45 +1 lyon-bsl
 
-#2024-07-20 moni ferien begin
 2024-07-26 19:00 dorffest@holzen
-2024-07-27 nik + markus end
 2024-07-28 geburi@markush # oberasbach
 2024-07-28 19:00-20:30 rosewave@lichtraum # haltingerstr 10
 2024-07-29 moni@schuol end
