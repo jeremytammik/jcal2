@@ -8559,6 +8559,7 @@ year 2015
 2024-07-17 18:00 rtkfest@schoepflin vernetzungsfest werkraum schoepflin
 
 #2024-07-20 moni ferien begin
+2024-07-26 19:00 dorffest@holzen
 2024-07-27 nik + markus end
 2024-07-28 geburi@markush # oberasbach
 2024-07-28 19:00-20:30 rosewave@lichtraum # haltingerstr 10
@@ -8568,6 +8569,8 @@ year 2015
 2024-08-10 piazzogna end
 
 2024-08-12 11:00 dentist connert@uzb # kontrolle
+
+2024-08-16 18:00 loewinnen@h30
 
 2024-08-20 stammtisch # zum guten leben August
 
