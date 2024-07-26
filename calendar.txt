@@ -8561,6 +8561,7 @@ year 2015
 
 2024-07-26 19:00 dorffest@holzen
 2024-07-28 geburi@markush # oberasbach
+2024-07-28 11:00 nik@tuellinger # vollmondfeuerplatz
 2024-07-28 19:00-20:30 rosewave@lichtraum # haltingerstr 10
 2024-07-29 moni@schuol end
 2024-07-29 13:33 moni@rheinfelden
