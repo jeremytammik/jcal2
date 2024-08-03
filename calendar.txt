@@ -8569,6 +8569,7 @@ year 2015
 2024-08-04 piazzogna begin
 2024-08-09 moni ferien end
 2024-08-10 piazzogna end
+2024-08-10 geburi@amira
 
 2024-08-12 11:00 dentist connert@uzb # kontrolle
 
