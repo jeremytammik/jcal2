@@ -8567,6 +8567,8 @@ year 2015
 2024-07-29 13:33 moni@rheinfelden
 2024-08-01 10:00 brunch@martina
 2024-08-04 piazzogna begin
+2024-08-08 09:35-10:15 <a href="https://www.navigazionelaghi.it/risultati-di-ricerca/?lake=lago-maggiore&andata_ritorno=solo_andata&from=143&to=141&data_partenza=08-08-2024&orario_partenza=08%3A30&no_change=on&Cerca+e+acquista=">maccagno-cannero</a> # /Users/jta/j/tmp/2024-08-08_locarno_arona.pdf
+2024-08-08 <a href="/Users/jta/j/tmp/2024-08-08_arona_locarno.pdf">cannero-maccagno</a>
 2024-08-09 moni ferien end
 2024-08-10 piazzogna end
 2024-08-10 geburi@amira
@@ -8579,7 +8581,8 @@ year 2015
 
 2024-08-24 16:00 geburi@anja
 2024-08-25 19:00-20:30 rosewave@lichtraum # haltingerstr 10
-2024-08-30 17:30 gabi@wald # untere gehrenstrasse 61 bockhausen
+
+2024-08-30 17:30 gabi@wald # mackinga untere geerenstrasse 61 8044 gockhausen
 2024-08-31 09:00 umzug@anja # arlesheim
 
 2024-09-20 nachbarschaftstreff
