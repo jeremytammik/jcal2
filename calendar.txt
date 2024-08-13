@@ -8610,6 +8610,8 @@ year 2015
 
 2025-01-27 passport expiry
 
+2025-03-11 11:00 dentist connert@uzb # kontrolle
+
 2025-03-14 19:00 <a href="/Users/jta/j/tmp/2025-03-15_hagara_saig_singen.pdf">singen@saig</a>
 2025-03-15 singen@saig
 2025-03-16 13:00 singen end
