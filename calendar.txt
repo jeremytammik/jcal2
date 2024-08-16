@@ -8606,6 +8606,8 @@ year 2015
 
 2024-11-28 14:20-14:40 pass@bern # bokningskod JRMT-0466 embassy of sweden in bern https://www.migrationsverket.se/ansokanbokning/wicket/page?4
 
+2024-11-30 novemberparty
+
 2024-12-13 stammtisch # zum guten leben Dezember
 
 2025-01-27 passport expiry
