@@ -8597,6 +8597,7 @@ year 2015
 2024-10-04 09:14-13:49 <a href="/Users/jta/a/doc/expense/receipt/2024/2024-10-04_db_bsl_koeln.pdf">bsl-koeln</a>
 2024-10-05 lina begin
 2024-10-06 lina end
+2024-10-07 07:43-12:36 <a href="/Users/jta/a/doc/expense/receipt/2024/2024-10-07_db_rodenkirchen_bsl.pdf">rodenkirchen-bsl</a>
 
 2024-10-14 moni ferien begin
 2024-10-15 stammtisch # zum guten leben Oktober
