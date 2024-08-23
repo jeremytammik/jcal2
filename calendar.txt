@@ -8582,8 +8582,10 @@ year 2015
 2024-08-21 18:00 pvselbst@kaltenbach
 2024-08-22 kreativ@rose end
 2024-08-22 13:00 mtb@leon # klybeckstrasse 126 (weidenmueller)
+2024-08-22 14:00 nik
 2024-08-22 15:30 bsb@kaltenbach
-2024-08-22 18:00 jordi@h30
+2024-08-22 18:00 panzanella@h30
+2024-08-22 18:30 jordi@h30
 
 2024-08-24 16:00 geburi@anja
 2024-08-25 19:00-20:30 rosewave@lichtraum # haltingerstr 10
@@ -8596,13 +8598,17 @@ year 2015
 2024-09-20 nachbarschaftstreff
 2024-09-21 14:00 martin@kandern
 
-2024-10-11 nachbarschaftstreff?
+2024-09-25 18:00 pvselbst@kaltenbach
+
+2024-09-27 wildhaus begin
+2024-09-29 wildhaus end
 
 2024-10-04 09:14-13:49 <a href="/Users/jta/a/doc/expense/receipt/2024/2024-10-04_db_bsl_koeln.pdf">bsl-koeln</a>
 2024-10-05 lina begin
 2024-10-06 lina end
 2024-10-07 07:43-12:36 <a href="/Users/jta/a/doc/expense/receipt/2024/2024-10-07_db_rodenkirchen_bsl.pdf">rodenkirchen-bsl</a>
 
+2024-10-10 ticino begin
 2024-10-14 moni ferien begin
 2024-10-15 stammtisch # zum guten leben Oktober
 2024-10-18 moni ferien end
