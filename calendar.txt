@@ -8599,6 +8599,8 @@ year 2015
 2024-08-30 17:30 gabi@wald # mackinga untere geerenstrasse 61 8044 gockhausen
 2024-08-31 09:00-12:00 umzug@anja # arlesheim
 
+2024-09-04 10:00 <a href="https://www.google.com/maps/place/Amerikanerstrasse+22+4102+Binningen">vonkaenel</a> # Amerikanerstrasse 22, 4102 Binningen
+
 2024-09-20 nachbarschaftstreff
 2024-09-21 14:00 martin@kandern
 
