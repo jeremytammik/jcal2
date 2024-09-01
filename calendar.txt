@@ -8592,9 +8592,17 @@ year 2015
 
 2024-08-28 16:45 <a href="https://www.google.com/maps/place/amerikanerstrasse+22+4102+binningen">vonkaenel</a> # amerikanerstrasse 22, 4102 binningen, 0775238164
 
-2024-08-30 17:30 gabi@wald # mackinga untere geerenstrasse 61 8044 gockhausen
-2024-08-31 09:00-12:00 umzug@anja # arlesheim
+#2024-08-30 17:30 gabi@wald # mackinga untere geerenstrasse 61 8044 gockhausen
+
+#2024-08-31 09:00-12:00 umzug@anja # arlesheim
+
+2024-08-31 10:00-17:00 zwei_dachhaken@pvb
+
 2024-08-31 11:00-15:00 moni@frauen
+
+2024-09-01 11:00 nik@pvb
+
+2024-09-02 17:00 reinhard@pvb
 
 2024-09-04 10:00 <a href="https://www.google.com/maps/place/amerikanerstrasse+22+4102+binningen">vonkaenel</a> # amerikanerstrasse 22, 4102 binningen, 0775238164
 
