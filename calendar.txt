@@ -8622,6 +8622,7 @@ year 2015
 2024-09-20 nachbarschaftstreff
 2024-09-21 14:00 martin@kandern
 
+2024-09-24 09:00-18:00 rente@drv # beratung deutsche rentenversicherung feldbergstrasse 16
 2024-09-24 09:00-18:00 st@kaltenbach
 2024-09-25 18:00 pvselbst@kaltenbach
 
@@ -8646,6 +8647,11 @@ year 2015
 2024-11-10 telpaare
 
 2024-11-28 14:20-14:40 pass@bern # bokningskod JRMT-0466 embassy of sweden in bern https://www.migrationsverket.se/ansokanbokning/wicket/page?4
+2024-11-28 17:00-23:00 xmas@bern # Christmas Dinner 2024 Switzerland
+2024-11-28 17:30 apero
+2024-11-28 19:00 dinner
+2024-11-28 21:00 dessert
+2024-11-28 23:00 end
 
 2024-11-30 novemberparty
 
