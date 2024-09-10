@@ -8638,10 +8638,13 @@ year 2015
 2024-10-07 07:43-12:36 <a href="/Users/jta/a/doc/expense/receipt/2024/2024-10-07_db_rodenkirchen_bsl.pdf">rodenkirchen-bsl</a>
 
 2024-10-10 ticino begin
+2024-10-13 19:00-20:30 rosetanz@lichtraum # haltinger 10
 2024-10-14 moni ferien begin
 2024-10-15 stammtisch # zum guten leben Oktober
 2024-10-18 moni ferien end
 2024-10-19 moni geburi
+
+2024-11-03 19:00-20:30 rosetanz@lichtraum # haltinger 10
 
 2024-11-08 telpaare
 2024-11-09 telpaare
@@ -8655,6 +8658,8 @@ year 2015
 2024-11-28 23:00 end
 
 2024-11-30 novemberparty
+
+2024-12-01 19:00-20:30 rosetanz@lichtraum # haltinger 10
 
 2024-12-13 stammtisch # zum guten leben Dezember
 
