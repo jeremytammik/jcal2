@@ -8622,13 +8622,14 @@ year 2015
 2024-09-20 nachbarschaftstreff
 2024-09-21 14:00 martin@kandern
 
-2024-09-24 09:00-18:00 rente@drv # beratung deutsche rentenversicherung feldbergstrasse 16
+2024-09-24 11:00 ahv-beratung@drv # deutsche rentenversicherung feldbergstrasse 16
 2024-09-24 09:00-18:00 st@kaltenbach
 2024-09-25 18:00 pvselbst@kaltenbach
 
 2024-09-27 wildhaus begin
 2024-09-29 wildhaus end
 
+2024-10-02 10:00 drv-beratung@drv # deutsche rentenversicherung feldbergstrasse 16
 2024-10-02 17:00 <a href="https://www.loerrach.de/Lange-Nacht-der-Demokratie">demokratie@burghof</a>
 
 2024-10-04 09:14-13:49 <a href="/Users/jta/a/doc/expense/receipt/2024/2024-10-04_db_bsl_koeln.pdf">bsl-koeln</a>
