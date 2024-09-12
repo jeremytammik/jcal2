@@ -8620,7 +8620,8 @@ year 2015
 
 2024-09-16 11:00 dentist connert@uzb # fix broken tooth 37 for the third time
 
-2024-09-20 nachbarschaftstreff
+2024-09-20 15:00-16:00 velodemo@rathausplatz
+2024-09-20 17:00-21:00 nachbarschaftstreff
 2024-09-21 14:00 martin@kandern
 
 2024-09-24 11:00 ahv-beratung@drv # deutsche rentenversicherung feldbergstrasse 16
