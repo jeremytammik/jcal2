@@ -8633,7 +8633,7 @@ year 2015
 2024-09-20 17:00-21:00 nachbarschaftstreff
 2024-09-21 09:00 imke@klettern
 #2024-09-21 14:00 martin@kandern
-2024-09-21 16:00 <a href="/Users/jta/j/tmp/2024-09-21_baumi_fest.jpg">baumi-fest</a>
+#2024-09-21 16:00 <a href="/Users/jta/j/tmp/2024-09-21_baumi_fest.jpg">baumi-fest</a>
 
 2024-09-24 09:15 <a href="https://meet.google.com/zow-twrt-sww?pli=1">yonistoller</a>
 2024-09-24 11:00 ahv-beratung@drv # deutsche rentenversicherung feldbergstrasse 16
