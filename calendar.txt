@@ -8628,6 +8628,7 @@ year 2015
 
 2024-09-16 11:00 dentist connert@uzb # fix broken tooth 37 for the third time
 
+2024-09-19 15:30 bsb@kaltenbach
 2024-09-20 15:00-16:00 velodemo@rathausplatz
 2024-09-20 17:00-21:00 nachbarschaftstreff
 2024-09-21 09:00 imke@klettern
@@ -8650,6 +8651,7 @@ year 2015
 2024-10-06 lina end
 2024-10-07 07:43-12:36 <a href="/Users/jta/a/doc/expense/receipt/2024/2024-10-07_db_rodenkirchen_bsl.pdf">rodenkirchen-bsl</a>
 
+2024-10-10 18:00-20.30 energy@brombach # energetisches sanieren, werkraum schöpflin, franz-ehret-strasse 7, lörrach-brombach
 2024-10-10 ticino begin
 2024-10-10 18:00 marion + alex
 2024-10-13 19:00-20:30 rosetanz@lichtraum # haltinger 10
@@ -8663,6 +8665,8 @@ year 2015
 2024-11-08 telpaare
 2024-11-09 telpaare
 2024-11-10 telpaare
+
+2024-11-24 11:00 beni@cantilena # westfeld 9, 4055 basel
 
 2024-11-28 14:20-14:40 pass@bern # bokningskod JRMT-0466 embassy of sweden in bern https://www.migrationsverket.se/ansokanbokning/wicket/page?4
 2024-11-28 17:00-23:00 xmas@bern # Christmas Dinner 2024 Switzerland
