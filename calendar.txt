@@ -8628,8 +8628,8 @@ year 2015
 
 2024-09-16 11:00 dentist connert@uzb # fix broken tooth 37 for the third time
 
-2024-09-19 15:30 bsb@kaltenbach
-2024-09-20 15:00-16:00 velodemo@rathausplatz
+#2024-09-19 15:30 bsb@kaltenbach
+#2024-09-20 15:00-16:00 velodemo@rathausplatz
 2024-09-20 17:00-21:00 nachbarschaftstreff
 2024-09-21 09:00 imke@klettern
 #2024-09-21 14:00 martin@kandern
