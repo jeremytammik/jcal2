@@ -8641,8 +8641,10 @@ year 2015
 2024-09-24 19:00 judith + samuel
 2024-09-25 18:00 pvselbst@kaltenbach
 
-2024-09-27 wildhaus begin
-2024-09-29 wildhaus end
+#2024-09-27 wildhaus begin
+#2024-09-29 wildhaus end
+
+2024-09-30 14:00 nik@bsl
 
 2024-10-02 10:00 drv-beratung@drv # deutsche rentenversicherung feldbergstrasse 16
 2024-10-02 17:00 <a href="https://www.loerrach.de/Lange-Nacht-der-Demokratie">demokratie@burghof</a>
