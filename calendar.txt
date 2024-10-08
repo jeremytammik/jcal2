@@ -8655,6 +8655,8 @@ year 2015
 2024-10-06 lina end
 2024-10-07 07:43-12:36 <a href="/Users/jta/a/doc/expense/receipt/2024/2024-10-07_db_rodenkirchen_bsl.pdf">rodenkirchen-bsl</a>
 
+2024-10-10 12:00 matthias@h30
+2024-10-10 12:30 matthias@nik
 2024-10-10 18:00-20.30 energy@brombach # energetisches sanieren, werkraum schöpflin, franz-ehret-strasse 7, lörrach-brombach
 2024-10-10 ticino begin
 2024-10-10 18:00 marion + alex
