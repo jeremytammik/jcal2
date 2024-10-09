@@ -8659,6 +8659,7 @@ year 2015
 
 2024-10-10 12:00 matthias@h30
 2024-10-10 12:30 matthias@nik
+2024-10-10 15:30 holz@karen
 2024-10-10 18:00-20.30 energy@brombach # energetisches sanieren, werkraum schöpflin, franz-ehret-strasse 7, lörrach-brombach
 2024-10-10 ticino begin
 2024-10-10 18:00 marion + alex
@@ -8675,6 +8676,8 @@ year 2015
 2024-11-10 telpaare
 
 2024-11-15 18:00 pvselbst@kaltenbach
+
+2024-11-20 11:30-16:00 rene + tobias
 
 2024-11-24 11:00 beni@cantilena # westfeld 9, 4055 basel
 
