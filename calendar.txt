@@ -8659,7 +8659,6 @@ year 2015
 
 2024-10-10 12:00 matthias@h30
 2024-10-10 12:30 matthias@nik
-2024-10-10 15:30 holz@karen
 2024-10-10 18:00-20.30 energy@brombach # energetisches sanieren, werkraum schöpflin, franz-ehret-strasse 7, lörrach-brombach
 2024-10-10 18:00 marion + alex
 2024-10-11 ticino begin
@@ -8671,6 +8670,7 @@ year 2015
 2024-10-18 moni ferien end
 2024-10-19 moni geburi
 
+2024-11-02 holz@karen
 2024-11-03 19:00-20:30 rosetanz@lichtraum # haltinger 10
 
 2024-11-08 telpaare
