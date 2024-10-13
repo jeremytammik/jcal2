@@ -8682,6 +8682,7 @@ year 2015
 
 2024-11-20 11:30-16:00 rene + tobias
 
+2024-11-23 12:00-23:00 sweatlodge
 2024-11-24 11:00 beni@cantilena # westfeld 9, 4055 basel
 
 2024-11-28 14:20-14:40 pass@bern # bokningskod JRMT-0466 embassy of sweden in bern https://www.migrationsverket.se/ansokanbokning/wicket/page?4
