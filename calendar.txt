@@ -8665,11 +8665,12 @@ year 2015
 2024-10-13 ticino end
 2024-10-13 19:00-20:30 rosetanz@lichtraum # haltinger 10
 2024-10-14 moni ferien begin
-2024-10-15 19:30 stammtisch@fairvelo # zum guten leben Oktober
+2024-10-15 19:30 stammtisch@blum # zum guten leben Oktober, elisabeth, haagener 36
 2024-10-16 19:30 moni@bafudi
 2024-10-17 11:00 bauplanung@kuri
 2024-10-19 moni geburi
 2024-10-25 moni ferien end
+2024-10-29 17:00-17:30 terrascape@zoom
 
 2024-11-02 holz@karen
 2024-11-03 19:00-20:30 rosetanz@lichtraum # haltinger 10
