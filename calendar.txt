@@ -8671,7 +8671,7 @@ year 2015
 2024-10-17 15:30 bsb@kaltenbach
 2024-10-19 moni geburi
 2024-10-25 moni ferien end
-2024-10-25 18:45-22:00 <a href="https://rheinbow.ch/sportangebot/playfight">playfight</a>@<a href="https://www.google.com/maps/place/zirkus+raegeboge">raegeboge</a> # findet immer am letzten Freitag im Monat von 18.45 bis 22 Uhr in der Zirkusschule Basel im Gundeldinger Feld statt.
+2024-10-25 18:45-22:00 <a href="https://rheinbow.ch/sportangebot/playfight">playfight</a>@<a href="https://www.google.com/maps/dir/huenerbergweg+30+loerrach+germany/zirkus+raegeboge+dornacherstrasse+192+4053+basel+switzerland">raegeboge</a> # findet immer am letzten Freitag im Monat von 18.45 bis 22 Uhr in der Zirkusschule Basel im Gundeldinger Feld statt.
 2024-10-26 moni@heilkreis
 #2024-10-28 13:00-16:00 pvselbst@sebastian # humboldt 16, 79539 lörrach, tel. 01706177514
 2024-10-29 17:00-17:30 terrascape@zoom
