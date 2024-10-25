@@ -8676,6 +8676,8 @@ year 2015
 #2024-10-28 13:00-16:00 pvselbst@sebastian # humboldt 16, 79539 lörrach, tel. 01706177514
 2024-10-29 17:00-17:30 terrascape@zoom
 2024-10-30 09:00-12:00 pvselbst@sebastian # humboldt 16, 79539 lörrach, tel. 01706177514
+2024-10-31 09:00-10:00 test@verso
+2024-10-31 18:30 bafudi@<a href="https://lauch-basel.ch">lauch</a> # klingental 1
 
 2024-11-02 holz@karen
 2024-11-03 19:00-20:30 rosetanz@lichtraum # haltinger 10
