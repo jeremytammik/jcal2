@@ -8713,6 +8713,8 @@ year 2015
 
 2024-12-12 moni ferien begin
 2024-12-13 stammtisch # zum guten leben Dezember
+2024-12-14 15:00 franz@elba begin
+2024-12-19 10:00 franz@elba end
 
 2025-01-27 passport expiry
 
