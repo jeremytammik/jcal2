@@ -8713,7 +8713,13 @@ year 2015
 
 2024-12-12 moni ferien begin
 2024-12-13 stammtisch # zum guten leben Dezember
-2024-12-14 15:00 franz@elba begin
+2024-12-13 dani + paolo
+
+# https://www.moby.it/rotte/traghetti-elba/piombino-cavo-piombino/
+# https://www.toremar.it/mds/web/toremar/wdisponibilita.xpd
+# https://www.elba-traghetto.it/
+
+2024-12-14 15:00 franz@elba begin # https://www.airbnb.com/rooms/24538525
 2024-12-19 10:00 franz@elba end
 
 2025-01-27 passport expiry
