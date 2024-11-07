@@ -8703,6 +8703,7 @@ year 2015
 2024-11-24 11:00 beni@cantilena # westfeld 9, 4055 basel
 2024-11-24 11:00-23:00 sweatlodge
 
+2024-11-27 maris begin
 2024-11-28 14:20-14:40 pass@bern # bokningskod JRMT-0466 embassy of sweden in bern https://www.migrationsverket.se/ansokanbokning/wicket/page?4
 2024-11-28 17:00-23:00 xmas@bern # Christmas Dinner 2024 Switzerland
 2024-11-28 17:30 apero
@@ -8713,6 +8714,8 @@ year 2015
 2024-11-30 <a href="https://novemberparty.github.io/">novemberparty</a>
 
 2024-12-01 19:00-20:30 rosetanz@lichtraum # haltinger 10
+
+2024-12-03 maris end
 
 2024-12-04 19:30 stammtisch@fabric # zum guten leben dezember, fabric-pavillon brombach, dank claudi
 
