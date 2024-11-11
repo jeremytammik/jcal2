@@ -8692,11 +8692,12 @@ year 2015
 2024-11-09 telpaare
 2024-11-10 telpaare
 
-2024-11-12 16:00-16:45 tim@zoom
-2024-11-12 17:00 medo@zoom
+2024-11-12 16:00 medo@zoom
+2024-11-12 17:00-17:45 tim@zoom
 
 2024-11-13 18:00 pvselbst@kaltenbach
 
+2024-11-15 12:00-16:00 j+m@dnd # do not disturb
 2024-11-15 19:00 abendessen@maike
 
 2024-11-20 11:30-16:00 rene + tobias
