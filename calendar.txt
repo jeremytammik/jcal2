@@ -8754,6 +8754,14 @@ year 2015
 2025-03-29 telpaare
 2025-03-30 telpaare
 
+# Experiment Gemeinschaft
+# Ein ZEGG Kennlern-Wochenende
+# Erhalte Einblicke in die vielfältigen Aspekte des Gemeinschaftslebens
+# 21. - 23.02.2025 / 16. - 18.05.2025 / 15. - 17.08.2025 / 17. - 19.10.2025
+2025-05-16 <a href="https://www.zegg.de/de/veranstaltungen/programm/68a1c91621c94fb7b243154470f277b6/experiment-gemeinschaft">zegg</a>
+2025-05-17 zegg
+2025-05-18 zegg
+
 2025-06-07 piarene@guido
 2025-06-08 piarene@guido
 2025-06-09 piarene@guido
