@@ -8742,6 +8742,8 @@ year 2015
 2024-12-14 15:00 franz@elba begin # https://www.airbnb.com/rooms/24538525
 2024-12-19 10:00 franz@elba end
 
+2025-01-15 18:00 pvselbst@kaltenbach
+
 2025-01-17 <a href="/Users/jta/j/tmp/2025-01-17a.jpg">zeremonie</a>@<a href="/Users/jta/j/tmp/2025-01-17b.jpg">jurte</a>
 2025-01-18 zeremonie@jurte
 2025-01-19 zeremonie@jurte
