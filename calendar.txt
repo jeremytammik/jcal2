@@ -8705,8 +8705,6 @@ year 2015
 
 2024-11-19 17:30 <a href="https://meet.google.com/rxb-eisi-cig?hs=224">terrascape@meet</a>
 
-2024-11-20 11:30-16:00 rene + tobias
-
 2024-11-20 19:00 <a href="https://bbb.m4h.network/b/sobawi">sobawi@zoom</a> # offener SoBaWi Stammtisch
 
 2024-11-23 19:00 madlee@koesler
@@ -8731,6 +8729,7 @@ year 2015
 2024-12-03 maris end
 
 2024-12-04 19:30 stammtisch@fabric # zum guten leben dezember, fabric-pavillon brombach, dank claudi
+2024-12-05 11:30-16:00 rene + tobias
 
 2024-12-08 15:00 grit + jochen?
 
