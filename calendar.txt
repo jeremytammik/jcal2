@@ -8726,9 +8726,8 @@ year 2015
 2024-11-29 10:00 preparation
 2024-11-30 16:00 <a href="https://novemberparty.github.io/">novemberparty</a>
 
-2024-12-01 19:00-20:30 rosetanz@lichtraum # haltinger 10
-
 2024-12-01 10:00 maris end
+2024-12-01 19:00-20:30 rosetanz@lichtraum # haltinger 10
 
 2024-12-04 19:30 stammtisch@fabric # zum guten leben dezember, fabric-pavillon brombach, dank claudi
 2024-12-05 11:30-16:00 rene + tobias
