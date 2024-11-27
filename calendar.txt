@@ -8715,12 +8715,15 @@ year 2015
 2024-11-27 11:00 araceli
 2024-11-27 19:30 maris begin
 
+2024-11-28 11:56-12:56 <a href="/Users/jta/a/doc/expense/receipt/2024/2024-11-28_sbb_bsl_bern.pdf">bsl-bern</a>
+2024-11-28 13:30-14:00 mk@praxis # neuengasse 43
 2024-11-28 14:20-14:40 pass@bern # bundesgasse 26 bokningskod JRMT-0466 embassy of sweden in bern https://www.migrationsverket.se/ansokanbokning/wicket/page?4
 2024-11-28 14:40-15:30 mk@praxis # neuengasse 43
 2024-11-28 17:00-23:00 xmas@bern # christmas dinner 2024 switzerland
 2024-11-28 17:30 apero
 2024-11-28 19:00 dinner
 2024-11-28 21:00 dessert
+2024-11-28 21:04-22:01 <a href="/Users/jta/a/doc/expense/receipt/2024/2024-11-28_sbb_bern_bsl.pdf">bern-bsl</a>
 2024-11-28 23:00 end
 
 2024-11-29 10:00 preparation
