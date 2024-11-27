@@ -8713,7 +8713,8 @@ year 2015
 2024-11-24 16:00 tatjana + juergen
 
 2024-11-27 11:00 araceli
-2024-11-27 maris begin
+2024-11-27 19:30 maris begin
+
 2024-11-28 14:20-14:40 pass@bern # bundesgasse 26 bokningskod JRMT-0466 embassy of sweden in bern https://www.migrationsverket.se/ansokanbokning/wicket/page?4
 2024-11-28 14:40-15:30 mk@praxis # neuengasse 43
 2024-11-28 17:00-23:00 xmas@bern # christmas dinner 2024 switzerland
@@ -8722,12 +8723,12 @@ year 2015
 2024-11-28 21:00 dessert
 2024-11-28 23:00 end
 
-2024-11-29 preparation
-2024-11-30 <a href="https://novemberparty.github.io/">novemberparty</a>
+2024-11-29 10:00 preparation
+2024-11-30 16:00 <a href="https://novemberparty.github.io/">novemberparty</a>
 
 2024-12-01 19:00-20:30 rosetanz@lichtraum # haltinger 10
 
-2024-12-03 maris end
+2024-12-01 10:00 maris end
 
 2024-12-04 19:30 stammtisch@fabric # zum guten leben dezember, fabric-pavillon brombach, dank claudi
 2024-12-05 11:30-16:00 rene + tobias
