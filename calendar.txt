@@ -8732,6 +8732,7 @@ year 2015
 2024-12-01 10:00 maris end
 2024-12-01 19:00-20:30 rosetanz@lichtraum # haltinger 10
 
+2024-12-04 11:00 bsb@consolar # gewerbestr 7
 2024-12-04 19:30 stammtisch@fabric # zum guten leben dezember, fabric-pavillon brombach, dank claudi
 2024-12-05 11:30-16:00 rene + tobias
 
