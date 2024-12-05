@@ -8745,8 +8745,6 @@ year 2015
 
 2024-12-07 09:30 bunterkunt@imke
 
-#2024-12-08 15:00 grit + jochen
-
 2024-12-09 10:00-11:00 schornsteinfeger
 
 2024-12-12 moni ferien begin
@@ -8770,6 +8768,8 @@ year 2015
 2025-01-20 zeremonie@jurte
 
 2025-01-27 passport expiry
+
+2025-02-02 15:00 grit + jochen
 
 2025-02-21 15:30 tina + cedric # bottmingen
 
