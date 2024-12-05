@@ -8743,7 +8743,9 @@ year 2015
 2024-12-05 11:30-16:00 rene + tobias
 2024-12-06 15:00 anne + dieter@markt # kandern
 
-2024-12-08 15:00 grit + jochen
+2024-12-07 09:30 bunterkunt@imke
+
+#2024-12-08 15:00 grit + jochen
 
 2024-12-09 10:00-11:00 schornsteinfeger
 
