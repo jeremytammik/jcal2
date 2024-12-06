@@ -8759,7 +8759,17 @@ year 2015
 
 2024-12-14 15:00 franz@elba begin # https://www.airbnb.com/rooms/24538525
 2024-12-19 10:00 franz@elba end
+2024-12-20 maris begin
 2024-12-21 17:30 maerli@jurte
+2024-12-21 cornelius work begin
+2024-12-24 helene + felix begin
+2024-12-24 maria + david begin
+2024-12-25 lina begin
+2024-12-25 cornelius work end
+2024-12-26 maris end
+2024-12-28 lina end
+2024-12-28 maria + david end
+2024-12-28 helene + felix end
 
 2025-01-12 moni@frauen
 2025-01-13 09:00 breitzke + kuri
