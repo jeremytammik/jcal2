@@ -8756,8 +8756,16 @@ year 2015
 # https://www.moby.it/rotte/traghetti-elba/piombino-cavo-piombino/
 # https://www.toremar.it/mds/web/toremar/wdisponibilita.xpd
 # https://www.elba-traghetto.it/
+# ANDATA   Piombino - Rio MarinaPartenza:Sab  14-12-2024  h 15:30 Arrivo:Sab  14-12-2024  h 16:15
+# € 30.82  € 40.12    € 70.94
+# RITORNO   Rio Marina - PiombinoPartenza:Gio  19-12-2024  h 09:55 Arrivo:Gio  19-12-2024  h 10:40
+# € 27.82  € 40.12    € 67.94
+# Costo totale della prenotazione € 138.88
+# Spiaggia del Porticciolo, Via Calabaroccia Porticciolo, 23, 57038 Rio LI, Italy
 
 2024-12-14 15:00 franz@elba begin # https://www.airbnb.com/rooms/24538525
+2024-12-14 08:20 + 15:30 + 17:50 ferry
+
 2024-12-19 10:00 franz@elba end
 2024-12-20 maris begin
 2024-12-21 17:30 maerli@jurte
