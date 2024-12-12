@@ -8751,6 +8751,9 @@ year 2015
 2024-12-09 15:00-18:00 nik
 
 2024-12-12 moni ferien begin
+2024-12-12 13:00 digimac@bsl # elsaesserstrasse 12, ch-4056 basel
+2024-12-12 15:30 bsb@kaltenbach
+
 2024-12-13 07:00 depart
 2024-12-13 dani + paolo
 
