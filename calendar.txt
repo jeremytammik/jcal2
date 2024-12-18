@@ -8761,10 +8761,10 @@ year 2015
 2024-12-14 15:00 franz@elba begin # https://www.airbnb.com/rooms/24538525
 2024-12-14 08:20 + 15:30 + 17:50 ferry
 
+2024-12-18 maris begin
 2024-12-18 16:00 bannasch@zoom
 
 2024-12-19 10:00 franz@elba end
-2024-12-20 maris begin
 2024-12-20 18:00 <a href="/Users/jta/j/tmp/2024-12-20_nathalie_geburi.png">geburi@nathalie</a>
 2024-12-21 17:30 maerli@jurte
 2024-12-21 cornelius work begin
