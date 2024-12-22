@@ -8781,6 +8781,10 @@ year 2015
 2024-12-28 helene + felix end
 2024-12-28 araceli return
 
+2024-12-30 14:00 beate + klaus
+2024-12-30 17:00 nik
+2024-12-30 19:00 sauna
+
 2025-01-12 moni@frauen
 2025-01-13 09:00 breitzke + kuri
 2025-01-15 18:00 pvselbst@kaltenbach
