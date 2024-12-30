@@ -8783,6 +8783,7 @@ year 2015
 
 2024-12-30 14:00 beate + klaus
 2024-12-30 17:00 nik
+2024-12-30 18:00 food@joerg # jeremy salat + nik dessert
 2024-12-30 19:00 sauna
 2024-12-31 18:00 silvester@nik
 
