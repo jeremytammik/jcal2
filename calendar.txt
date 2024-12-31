@@ -8787,8 +8787,9 @@ year 2015
 2024-12-30 19:00 sauna
 2024-12-31 18:00 silvester@nik
 
-2025-01-02 anna + stephan
-2025-01-03 kim
+2025-01-02 nele + dan
+2025-01-03 10:00 kim
+2025-01-03 anna + stephan
 
 2025-01-04 11:00 moni@martina
 2025-01-04 18:00 nik + dwayne
