@@ -8787,6 +8787,7 @@ year 2015
 2024-12-30 19:00 sauna
 2024-12-31 18:00 silvester@nik
 
+2025-01-01 18:00-19:00 medo
 2025-01-02 nele + dan
 2025-01-03 10:00 kim
 2025-01-03 anna + stephan
@@ -8840,7 +8841,10 @@ year 2015
 2025-06-08 piarene@guido
 2025-06-09 piarene@guido
 
-2025-08-16 tammiku begin # @<a href="https://www.google.com/maps/place/47292+stillingsoen+sweden">stillingsoen</a>
+2025-07-19 moni vacation begin
+2025-08-03 moni vacation end
+
+2025-08-16 tammiku begin # <a href="https://www.google.com/maps/place/47292+stillingsoen+sweden">stillingsoen</a>
 2025-08-24 tammiku end
 
 2025-10-03 telpaare@<a href="">sonnennest</a> begin
