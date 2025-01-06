@@ -785,6 +785,9 @@ every tuesday in year 16:00-20:00 climb
 every wednesday in year 06:30 preis@rosenfels # Der fruehe Vogel turnt im Park (Rosenfels) Mittwochs, ab 08.05.2019, 6:30h am Rondell
 every friday in year 08:30-10:00 yoga
 
+year 2025
+all wednesdays in year 19:00 winterfit
+
 #
 # beginning of normal calendar dates:
 #
