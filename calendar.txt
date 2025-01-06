@@ -8794,6 +8794,7 @@ year 2015
 
 2025-01-04 11:00 moni@martina
 2025-01-04 18:00 nik + dwayne
+2025-01-04 18:30-19:00 medo
 
 2025-01-07 09:00 pst <a href="https://meet.google.com/ewu-evkm-rtc">brick+mortar@terrascape</a>
 
