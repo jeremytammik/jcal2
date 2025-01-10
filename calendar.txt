@@ -8821,8 +8821,9 @@ year 2015
 
 2025-01-25 <a href="/Users/jta/j/doc/health/2025-91-28_darmspiegelung_vorbereitung.pdf">soft food</a> begin
 
-2025-01-26 moni@gisela begin
-2025-01-27 moni@gisela end
+2025-01-25 moni@gisela begin
+2025-01-25 19:00 doko@nellie
+2025-01-26 moni@gisela end
 
 2025-01-27 passport expiry
 2025-01-27 12:00 <a href="/Users/jta/j/doc/health/2025-91-28_darmspiegelung_vorbereitung.pdf">fasting</a> begin
