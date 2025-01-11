@@ -8857,6 +8857,9 @@ year 2015
 2025-06-08 piarene@guido
 2025-06-09 piarene@guido
 
+2025-07-05 piazzogna begin
+2025-07-14 piazzogna end
+
 2025-07-19 moni vacation begin
 2025-08-03 moni vacation end
 
