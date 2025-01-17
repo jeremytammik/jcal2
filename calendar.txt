@@ -8820,6 +8820,7 @@ year 2015
 2025-01-18 zeremonie@jurte
 2025-01-19 zeremonie@jurte
 2025-01-20 zeremonie@jurte
+2025-01-21 medo@meet
 
 2025-01-25 <a href="/Users/jta/j/doc/health/2025-91-28_darmspiegelung_vorbereitung.pdf">soft food</a> begin
 
@@ -8834,12 +8835,14 @@ year 2015
 2025-01-28 18:00 vz@victoria
 2025-01-29 09:30 bannasch@wld
 2025-01-29 10:30 bannasch@sessler
+2025-01-31 14:30 jt@hermann
 
 2025-02-02 15:00 grit + jochen
 
 2025-02-19 19:30-21:00 stammtisch # anmeldung erforderlich an team@kraftimwandel.de
 
 2025-02-21 15:30 tina + cedric # bottmingen
+2025-02-28 18:00 schnitzelbank@stetten # madlee
 
 2025-03-11 11:00 dentist connert@uzb # kontrolle
 
