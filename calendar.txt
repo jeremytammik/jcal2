@@ -8863,6 +8863,9 @@ year 2015
 2025-03-29 telpaare
 2025-03-30 telpaare
 
+2025-04-18 piazzogna begin
+2025-04-21 piazzogna begin
+
 # Experiment Gemeinschaft
 # Ein ZEGG Kennlern-Wochenende
 # Erhalte Einblicke in die vielfältigen Aspekte des Gemeinschaftslebens
