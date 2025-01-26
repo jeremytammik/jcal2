@@ -8832,6 +8832,9 @@ year 2015
 2025-01-27 passport expiry
 2025-01-27 12:00 <a href="/Users/jta/j/doc/health/2025-91-28_darmspiegelung_vorbereitung.pdf">fasting</a> begin
 2025-01-27 14:00-15:30 das@zoom
+2025-01-27 17:00-18:00 easybim@zoom
+2025-01-27 20:00-21:00 moviprep1 + 1 L
+2025-01-28 08:00-09:00 moviprep2 + 0.5 L
 2025-01-28 12:45 endoscopie@claraplatz
 2025-01-28 18:00 vz@victoria
 2025-01-29 09:30 bannasch@wld
