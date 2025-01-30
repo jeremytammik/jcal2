@@ -8850,6 +8850,8 @@ year 2015
 2025-02-19 19:30-21:00 stammtisch # anmeldung erforderlich an team@kraftimwandel.de
 
 2025-02-21 15:30 tina + cedric # bottmingen
+2025-02-22 wildhaus begin
+2025-02-28 wildhaus end
 2025-02-28 18:00 schnitzelbank@stetten # madlee
 
 2025-03-02 baby@marie end
