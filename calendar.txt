@@ -8841,6 +8841,7 @@ year 2015
 2025-01-29 10:30 bannasch@sessler
 2025-01-31 15:00 coffee@hermann
 
+2025-02-01 moni@heilkreis
 2025-02-02 15:00 grit + jochen
 
 2025-02-06 juerg ris
