@@ -8842,6 +8842,11 @@ year 2015
 2025-01-31 15:00 coffee@hermann
 
 2025-02-01 moni@heilkreis
+
+2025-02-02 09:30 klaus
+2025-02-02 11:15 depart contact
+2025-02-02 12:00-13:30 contact warmup # andrea willener
+2025-02-02 14:00 contact jam
 2025-02-02 15:00 grit + jochen
 2025-02-02 17:00 essen
 2025-02-02 18:30 sauna
