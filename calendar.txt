@@ -8899,6 +8899,8 @@ year 2015
 2025-07-14 piazzogna end
 
 2025-07-19 moni vacation begin
+2025-07-19 tammiku begin
+2025-07-26 tammiku end
 2025-08-03 moni vacation end
 
 2025-08-16 tammiku begin # <a href="https://www.google.com/maps/place/47292+stillingsoen+sweden">stillingsoen</a>
