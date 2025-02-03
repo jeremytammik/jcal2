@@ -8852,6 +8852,10 @@ year 2015
 2025-02-02 18:00 haustreffen
 2025-02-02 19:00 sauna
 
+2025-02-04 08:10 depart
+2025-02-04 08:56-09:56 <a href="/Users/jta/a/doc/expense/receipt/2024/2025-02-03_sbb_bsl_bern.pdf">bsl-bern</a>
+
+2025-02-05 15:00 reporter@hermann
 2025-02-06 juerg ris
 2025-02-07 juerg ris
 
