@@ -8860,10 +8860,10 @@ year 2015
 
 2025-02-11 15:30 ella@sauna
 
-2025-02-12 18:20 <a href="https://www.ryanair.com">ryanair checkin</a>
-2025-02-12 16:00 depart bsl
-2025-02-12 17:00 <a href="https://support.euroairport.com/hc/de/articles/360021530340-Gibt-es-ein-Zweirad-Parking-am-EuroAirport">s1@bsl</a> # Fahrrad kostenlos parken in den überdachten Parkhäusern S1 auf der Schweizer Seite oder F1 auf der französischen Seite
-2025-02-12 18:20-19:00 bsl-stn # 1:40 FR4181 London Stansted Airport Reservierungsnummer GQ94GJ
+#2025-02-12 18:20 <a href="https://www.ryanair.com">ryanair checkin</a>
+#2025-02-12 16:00 depart for bsl
+#2025-02-12 17:00 <a href="https://support.euroairport.com/hc/de/articles/360021530340-Gibt-es-ein-Zweirad-Parking-am-EuroAirport">s1@bsl</a> # Fahrrad kostenlos parken in den überdachten Parkhäusern S1 auf der Schweizer Seite oder F1 auf der französischen Seite
+#2025-02-12 18:20-19:00 bsl-stn # 1:40 FR4181 London Stansted Airport Reservierungsnummer GQ94GJ
 
 2025-02-13 juerg ris
 2025-02-14 juerg ris
@@ -8871,9 +8871,9 @@ year 2015
 2025-02-15 09:30 bunterkunt@maike
 2025-02-16 baby@marie begin
 
-2025-02-18 15:20 <a href="https://www.ryanair.com">ryanair checkin</a>
-2025-02-19 15:20-17:55 stn-bsl # 1:35 FR4182 London Stansted Airport Reservierungsnummer GQ94GJ
-
+#2025-02-18 15:20 <a href="https://www.ryanair.com">ryanair checkin</a>
+#2025-02-19 15:20-17:55 stn-bsl # 1:35 FR4182 London Stansted Airport Reservierungsnummer GQ94GJ
+#
 2025-02-19 19:30-21:00 stammtisch # anmeldung erforderlich an team@kraftimwandel.de
 
 2025-02-21 15:30 tina + cedric # bottmingen
