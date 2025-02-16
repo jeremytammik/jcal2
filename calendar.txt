@@ -8879,6 +8879,7 @@ year 2015
 #2025-02-18 15:20 <a href="https://www.ryanair.com">ryanair checkin</a>
 #2025-02-19 15:20-17:55 stn-bsl # 1:35 FR4182 London Stansted Airport Reservierungsnummer GQ94GJ
 
+2025-02-19 18:00 pvselbst@kaltenbach
 2025-02-19 19:30-21:00 stammtisch # anmeldung erforderlich an team@kraftimwandel.de
 
 2025-02-21 15:30 tina + cedric # bottmingen
