@@ -8887,7 +8887,8 @@ year 2015
 2025-02-20 16:00 bsb@kaltenbach
 2025-02-20 16:30 maja@bueffet
 
-2025-02-21 15:30 tina + cedric # bottmingen
+2025-02-21 15:15 moni@binningen
+2025-02-21 15:30 tina + cedric # binningen schlossgasse 2
 2025-02-22 wildhaus begin
 2025-02-25 10:00 kuri@tel
 2025-02-28 wildhaus end
