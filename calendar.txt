@@ -8890,6 +8890,7 @@ year 2015
 2025-02-21 15:15 moni@binningen
 2025-02-21 15:30 tina + cedric # binningen schlossgasse 2
 2025-02-22 wildhaus begin
+2025-02-24 09:00 yoni@meet
 2025-02-25 10:00 kuri@tel
 2025-02-28 wildhaus end
 2025-02-28 18:00 schnitzelbank@stetten # madlee
@@ -8918,6 +8919,8 @@ year 2015
 2025-04-18 piazzogna begin
 2025-04-21 piazzogna begin
 
+2025-05-15 grundsteuerabbuchung 1800
+
 # Experiment Gemeinschaft
 # Ein ZEGG Kennlern-Wochenende
 # Erhalte Einblicke in die vielfältigen Aspekte des Gemeinschaftslebens
@@ -8942,12 +8945,20 @@ year 2015
 2025-07-26 tammiku end
 2025-08-03 moni vacation end
 
+2025-08-15 grundsteuerabbuchung 1800
+
 #2025-08-16 tammiku begin # <a href="https://www.google.com/maps/place/47292+stillingsoen+sweden">stillingsoen</a>
 #2025-08-24 tammiku end
+
+2025-09-13 lina begin
+2025-09-14 lina
+2025-09-15 lina end
 
 2025-10-03 telpaare@<a href="">sonnennest</a> begin
 2025-10-04 telpaare
 2025-10-05 telpaare
+
+2025-11-15 grundsteuerabbuchung 1800
 
 2025-02-16 moni@frauen
 2025-03-30 moni@frauen
