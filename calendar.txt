@@ -8950,9 +8950,9 @@ year 2015
 #2025-08-16 tammiku begin # <a href="https://www.google.com/maps/place/47292+stillingsoen+sweden">stillingsoen</a>
 #2025-08-24 tammiku end
 
-2025-09-13 lina begin
-2025-09-14 lina
-2025-09-15 lina end
+2025-09-12 lina begin
+2025-09-13 lina
+2025-09-14 lina end
 
 2025-10-03 telpaare@<a href="">sonnennest</a> begin
 2025-10-04 telpaare
