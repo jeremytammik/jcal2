@@ -8866,7 +8866,7 @@ year 2015
 #2025-02-12 18:20-19:00 bsl-stn # 1:40 FR4181 London Stansted Airport Reservierungsnummer GQ94GJ
 
 2025-02-15 09:30 bunterkunt@maike
-2025-02-16 baby@marie begin
+#2025-02-16 baby@marie begin
 2025-02-17 07:00 pack
 2025-02-17 07:30 dress
 2025-02-17 07:45 depart
@@ -8890,12 +8890,13 @@ year 2015
 2025-02-21 15:15 moni@binningen
 2025-02-21 15:30 tina + cedric # binningen schlossgasse 2
 2025-02-22 wildhaus begin
+2025-02-22 baby@marie
 2025-02-24 09:00 yoni@meet
 2025-02-25 10:00 kuri@tel
 2025-02-28 wildhaus end
 2025-02-28 18:00 schnitzelbank@stetten # madlee
 
-2025-03-02 baby@marie end
+2025-03-04 15:30 burcu@h30
 
 2025-03-07 maris begin
 2025-03-08 19:00 terrascape@meet
