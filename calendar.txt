@@ -8922,6 +8922,8 @@ year 2015
 2025-04-18 piazzogna begin
 2025-04-21 piazzogna begin
 
+2025-05-10 anne-marie geburi
+
 2025-05-15 grundsteuerabbuchung 1800
 
 # Experiment Gemeinschaft
