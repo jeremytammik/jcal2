@@ -8896,6 +8896,9 @@ year 2015
 2025-02-28 wildhaus end
 2025-02-28 18:00 schnitzelbank@stetten # madlee
 
+2025-03-04 nik begin
+2025-03-05 nik
+2025-03-06 18:00 dinner@nik
 2025-03-07 maris begin
 2025-03-08 19:00 terrascape@meet
 
