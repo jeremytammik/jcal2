@@ -8870,7 +8870,7 @@ year 2015
 2025-02-17 07:00 pack
 2025-02-17 07:30 dress
 2025-02-17 07:45 depart
-2025-02-17 08:15 snowshoe@nik
+2025-02-17 08:15 snowshoe@nik # schluesselkasten 3047
 2025-02-17 08:30 depart
 2025-02-17 08:50 ticket@sbb
 2025-02-17 09:00 bsl-luzern
@@ -8919,6 +8919,8 @@ year 2015
 
 2025-04-04 wld@beate
 2025-04-05 wld@beate
+2025-04-06 12:00-13:30 contact warmup
+2025-04-06 14:00 contact jam
 
 2025-04-12 doko@nellie
 
