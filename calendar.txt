@@ -8897,6 +8897,8 @@ year 2015
 2025-02-28 18:00 schnitzelbank@stetten # madlee
 
 2025-03-04 nik begin
+2025-03-04 08:03-10:50 bsl-goeschenen
+2025-03-04 voralphuette
 2025-03-05 nik
 2025-03-06 18:00 dinner@nik
 2025-03-07 maris begin
