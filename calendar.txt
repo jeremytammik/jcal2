@@ -8902,11 +8902,12 @@ year 2015
 2025-03-05 nik
 2025-03-06 18:00 dinner@nik
 2025-03-07 maris begin
+2025-03-08 18:00 suppe@h30
 2025-03-08 19:00 terrascape@meet
 
+2025-03-10 04:00 morgenstreich
 2025-03-10 10:00 maris@standesamt
 
-2025-03-11 08:00 dentist connert@uzb # kontrolle
 2025-03-11 11:00 dentist connert@uzb # kontrolle
 2025-03-11 13:30 mikako@zoom
 2025-03-11 15:30 burcu@h30
