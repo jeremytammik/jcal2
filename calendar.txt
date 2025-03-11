@@ -8923,6 +8923,7 @@ year 2015
 2025-03-11 16:00 laternen@bsl
 
 2025-03-12 09:30 fischer@zoom
+2025-03-13 16:30-17:00 <a href="https://join.skype.com/sPkQV3VpD0eZ">bsb@skype</a> # Besprechung Messestand Regio Messe
 2025-03-13 19:00 dav-mv@asg # Mitgliederversammlung, Festsaal der Albert-Schweizer-Gemeinschaftsschule
 
 2025-03-16 maris end
