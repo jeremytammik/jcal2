@@ -8972,6 +8972,8 @@ year 2015
 
 2025-06-09 16:00 lomi@jura end
 
+2025-06-20 18:00 isabell + hartmut
+
 2025-07-05 piazzogna begin
 2025-07-14 piazzogna end
 
