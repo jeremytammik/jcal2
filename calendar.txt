@@ -8944,6 +8944,8 @@ year 2015
 2025-03-22 singen@saig
 2025-03-23 13:00 singen end
 
+2025-03-25 09:30 ella@h30
+
 2025-03-28 telpaare@<a href="https://stelserhof.ch/">stelserhof</a> begin
 2025-03-29 telpaare
 2025-03-30 telpaare
@@ -8960,8 +8962,10 @@ year 2015
 2025-04-21 piazzogna end
 
 2025-04-26 21:55 maris@lhr arrive
+2025-04-26 22:00-22:40 bsl-lhr T5 # BA755 Basel to London booking confirmation WMYHP8
 2025-04-28 13:00 celebrate life # thames ditton
 2025-04-29 17:15 maris@lhr depart
+2025-04-29 20:15-22:50 lhr-bsl T5 # BA756 London to Basel booking confirmation WMYHP8
 
 2025-05-10 anne-marie geburi
 
