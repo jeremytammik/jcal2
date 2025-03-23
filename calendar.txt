@@ -8956,6 +8956,8 @@ year 2015
 2025-03-29 telpaare
 2025-03-30 telpaare
 
+2025-04-02 18:00 pvselbst@kaltenbach
+
 2025-04-04 wld@beate
 2025-04-05 wld@beate
 2025-04-06 12:00-13:30 contact warmup
@@ -9012,6 +9014,9 @@ year 2015
 
 #2025-08-16 tammiku begin # <a href="https://www.google.com/maps/place/47292+stillingsoen+sweden">stillingsoen</a>
 #2025-08-24 tammiku end
+
+2025-08-29 medizin@jurte begin
+2025-09-02 medizin@jurte end
 
 2025-09-12 lina begin
 2025-09-13 lina
