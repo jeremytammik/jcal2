@@ -9006,9 +9006,12 @@ year 2015
 2025-07-05 piazzogna begin
 2025-07-14 piazzogna end
 
+2025-07-16 jusoca begin
 2025-07-19 moni vacation begin
+2025-07-19 09:00 helene@nantes
 2025-07-19 tammiku begin # Argentré-Du-Plessis, France, east of Rennes, or train Basel SBB to Laval, 53000, France in less than 6 hours
 2025-07-26 tammiku end
+2025-07-26 jusoca end
 2025-08-03 moni vacation end
 
 2025-08-15 grundsteuerabbuchung 1800
