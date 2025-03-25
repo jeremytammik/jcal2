@@ -8951,7 +8951,8 @@ year 2015
 2025-03-25 09:00 ella@h30
 2025-03-25 16:00 burcu@h30
 2025-03-26 08:00 waschbeton@inzlingen # gartenweg 12a 79594 inzlingen
-2025-03-26 13:00-13:30 <a href="https://zoom.us/j/2671685937">fischer@zoom</a> # Leonard Fejza
+2025-03-26 13:00-13:30 <a href="https://zoom.us/j/2671685937">fischer@zoom</a> # leonard fejza meeting id 267 168 5937
+2025-03-26 20:00-21:30 <a href="https://meet.google.com/noh-czpb-zfz?hs=224">medo@meet</a> # review ui debug plan w/ mohamed
 
 2025-03-28 telpaare@<a href="https://stelserhof.ch/">stelserhof</a> begin
 2025-03-29 telpaare
