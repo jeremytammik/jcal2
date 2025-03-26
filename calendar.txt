@@ -8958,6 +8958,7 @@ year 2015
 2025-03-29 telpaare
 2025-03-30 telpaare
 
+2025-04-02 14:00-13:00 <a href="https://zoom.us/j/2671685937">fischer@zoom</a> # leonard fejza meeting id 267 168 5937
 2025-04-02 18:00 pvselbst@kaltenbach
 
 2025-04-04 wld@beate
