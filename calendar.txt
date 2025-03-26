@@ -8960,12 +8960,14 @@ year 2015
 
 2025-04-02 14:00-13:00 <a href="https://zoom.us/j/2671685937">fischer@zoom</a> # leonard fejza meeting id 267 168 5937
 2025-04-02 18:00 pvselbst@kaltenbach
+2025-04-03 16:00 bsb@kaltenbach
 
 2025-04-04 wld@beate
 2025-04-05 wld@beate
 2025-04-06 12:00-13:30 contact warmup
 2025-04-06 14:00 contact jam
 
+2025-04-10 16:00 bsb@kaltenbach # regio messe nachbearbeitung
 2025-04-12 doko@nellie
 2025-04-13 11:00 mensweatlodge
 
