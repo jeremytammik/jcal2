@@ -8954,6 +8954,7 @@ year 2015
 2025-03-26 20:00-21:30 <a href="https://meet.google.com/noh-czpb-zfz?hs=224">medo@meet</a> # review ui debug plan w/ mohamed
 2025-03-27 16:30 burcu@h30
 
+2025-03-28 15:33-16:26 bsl-zrh tgv gl 7
 2025-03-28 telpaare@<a href="https://stelserhof.ch/">stelserhof</a> begin
 2025-03-29 telpaare
 2025-03-30 telpaare
