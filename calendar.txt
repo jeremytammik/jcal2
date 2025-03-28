@@ -9044,7 +9044,6 @@ year 2015
 2025-11-15 grundsteuerabbuchung 1800
 
 2025-02-16 moni@frauen
-2025-03-30 moni@frauen
 2025-04-13 moni@frauen
 2025-05-25 moni@frauen
 2025-06-15 moni@frauen
