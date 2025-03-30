@@ -786,7 +786,7 @@ every wednesday in year 06:30 preis@rosenfels # Der fruehe Vogel turnt im Park (
 every friday in year 08:30-10:00 yoga
 
 year 2025
-all wednesdays in year 19:00 winterfit
+#all wednesdays in year 19:00 winterfit
 all wednesdays in year 20:30 footy
 
 #
