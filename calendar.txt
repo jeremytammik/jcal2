@@ -8962,6 +8962,7 @@ year 2015
 2025-03-31 14:00 falk? nik?
 
 2025-04-01 13:10-13:50 matthias
+2025-04-01 14:30 marek@telegram
 2025-04-01 18:00 rene
 2025-04-01 20:00-21:30 jam@hammerstr25ugI # wettstein thomas blatter nik orga
 
