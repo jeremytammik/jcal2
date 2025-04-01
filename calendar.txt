@@ -8961,7 +8961,10 @@ year 2015
 
 2025-03-31 14:00 falk? nik?
 
+2025-04-01 13:10-13:50 matthias
+2025-04-01 18:00 rene
 2025-04-01 20:00-21:30 jam@hammerstr25ugI # wettstein thomas blatter nik orga
+
 2025-04-02 08:30-09:00 <a href="meet.google.com/oti-mxua-ytd">yoni@meet</a>
 2025-04-02 13:00-14:00 <a href="https://zoom.us/j/2671685937">fischer@zoom</a> # leonard fejza meeting id 267 168 5937
 2025-04-02 18:00 pvselbst@kaltenbach
