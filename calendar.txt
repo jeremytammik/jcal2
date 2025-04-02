@@ -8966,13 +8966,15 @@ year 2015
 2025-04-01 18:00 rene
 2025-04-01 20:00-21:30 jam@hammerstr25ugI # wettstein thomas blatter nik orga
 
-2025-04-02 08:30-09:00 <a href="meet.google.com/oti-mxua-ytd">yoni@meet</a>
-2025-04-02 14:00-15:00 <a href="https://zoom.us/j/2671685937">fischer@zoom</a> # leonard fejza meeting id 267 168 5937
+2025-04-02 15:00-16:30 <a href="https://zoom.us/j/2671685937">fischer@zoom</a> # leonard fejza meeting id 267 168 5937
 2025-04-02 18:00 pvselbst@kaltenbach
+
+2025-04-03 08:30-09:00 <a href="meet.google.com/oti-mxua-ytd">yoni@meet</a>
 2025-04-03 16:00 bsb@kaltenbach
 
 2025-04-04 15:00 wld@beate
 2025-04-05 wld@beate
+
 2025-04-06 12:00-13:30 contact warmup
 2025-04-06 14:00 contact jam
 
