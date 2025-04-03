@@ -8971,6 +8971,7 @@ year 2015
 
 2025-04-03 08:30-09:00 <a href="meet.google.com/oti-mxua-ytd">yoni@meet</a>
 2025-04-03 16:00 bsb@kaltenbach
+2025-04-03 17:00 medo@slack
 
 2025-04-04 15:00 wld@beate
 2025-04-05 wld@beate
@@ -8978,6 +8979,7 @@ year 2015
 2025-04-06 12:00-13:30 contact warmup
 2025-04-06 14:00 contact jam
 
+2025-04-09 08:30-09:00 <a href="https://meet.google.com/rpm-uetd-ueu">yoni+team@meet</a>
 2025-04-10 16:00 bsb@kaltenbach # regio messe nachbearbeitung
 2025-04-12 19:00 doko@nellie
 2025-04-13 11:00 mensweatlodge
