@@ -9052,7 +9052,7 @@ year 2015
 2025-10-04 telpaare
 2025-10-05 telpaare
 
-2025-10-14 dentist connert@uzb # kontrolle
+2025-10-14 10:00 dentist connert@uzb # kontrolle
 
 2025-11-15 grundsteuerabbuchung 1800
 
