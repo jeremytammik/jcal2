@@ -8982,7 +8982,7 @@ year 2015
 2025-04-09 08:30-09:00 <a href="https://meet.google.com/rpm-uetd-ueu">yoni+team@meet</a>
 2025-04-10 16:00 bsb@kaltenbach # regio messe nachbearbeitung
 2025-04-12 19:00 doko@nellie
-2025-04-14 10:00 bachthaler@vb3
+2025-04-14 10:00 bachthaler@vb3 # tumringer str. 237
 
 2025-04-18 piazzogna begin
 #2025-04-19 11:00 mensweatlodge
