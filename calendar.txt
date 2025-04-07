@@ -8981,6 +8981,8 @@ year 2015
 2025-04-06 15:00 moni@cedric
 
 2025-04-09 08:30-09:00 <a href="https://meet.google.com/rpm-uetd-ueu">yoni+team@meet</a>
+2025-04-09 12:00-13:00 hermann@glashaus
+2025-04-09 18:00 sanieren@nellie
 2025-04-10 16:00 bsb@kaltenbach # regio messe nachbearbeitung
 2025-04-11 19:00 knofigratin
 2025-04-12 moni heilkreis
@@ -9014,6 +9016,8 @@ year 2015
 
 2025-05-20 devcon@amsterdam
 2025-05-21 devcon@amsterdam
+
+2025-05-28 18:00 pvselbst@kaltenbach
 
 2025-06-05 18:00 <a href="https://lomibodywork.ch/kurse/hawaiianische-lomi-lomi-massage/lomi-lomi-massage-maenner-kraft-tage/">lomi@jura</a> begin
 
