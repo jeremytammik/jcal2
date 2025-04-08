@@ -2,7 +2,8 @@
 # to define preprocessor symbols, call with 'jcal -Dall'
 # Jeremy Tammik, Autodesk Inc. 2003-2016
 
-DIR="$HOME/j/doc/db/jcal2"
+DB="$HOME/j/doc/db"
+DIR="$DB/jcal2"
 
 #MONTH=1214
 #MONTH=0916
@@ -14,7 +15,7 @@ MONTH=`date "+%m%y"`
 
 if [ "$1" = "-b" ]
 then
-  open $DIR/../birthday.txt
+  open $DB/birthday.txt
   exit 0
 fi
 
@@ -44,6 +45,12 @@ then
   #k $0 # --> /j/doc/db/jcal/jcal: line 42: k: command not found
   #"$EDITOR" $0
   open -a Komodo\ Edit\ 8 $0
+  exit 0
+fi
+
+if [ "$1" = "-t" ]
+then
+  open $DB/tammik_geneology/birthday_tammik.txt
   exit 0
 fi
 
