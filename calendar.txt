@@ -8985,6 +8985,7 @@ year 2015
 2025-04-09 12:00-13:00 hermann@glashaus
 2025-04-09 18:00 sanieren@nellie
 2025-04-10 16:00 bsb@kaltenbach # regio messe nachbearbeitung
+2025-04-10 18:30-19:30 <a href="https://meet.google.com/toe-bbgn-fmb">medo@meet</a> # Meeting w/AG2 re Session Persistence
 2025-04-11 19:00 knofigratin
 2025-04-12 moni heilkreis
 2025-04-12 19:00 doko@nellie
