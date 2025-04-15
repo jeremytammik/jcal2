@@ -8993,6 +8993,7 @@ year 2015
 2025-04-12 19:00 doko@nellie
 2025-04-13 13:00 moni frauen
 2025-04-14 10:00 bachthaler@vb3 # tumringer str. 237
+2025-04-15 09:30 matthias@wld
 2025-04-15 18:30-19:00 pilzreiseintro
 2025-04-15 19:30 stammtisch@fairvelo
 2025-04-16 12:30 martin bad + gas
