@@ -9031,8 +9031,10 @@ year 2015
 2025-05-17 zegg
 2025-05-18 zegg
 
+2025-05-20 06:00-07:25 <a href="/Users/jta/a/doc/expense/receipt/2025/2025-03-13_opodo_klm_berlin_amsterdam.pdf">berlin-amsterdam</a> # klm royal dutch airlines kl 1770 BER flughafen brandenburg 1h 25m
 2025-05-20 devcon@amsterdam
 2025-05-21 devcon@amsterdam
+2025-05-23 08:00-14:55 <a href="/Users/jta/a/doc/expense/receipt/2025/2025-05-23_sbb_amsterdam_bsl.pdf">amsterdam-bsl</a>
 
 2025-05-24 13:00 sweatlodge@wiechs
 2025-05-28 18:00 pvselbst@kaltenbach
