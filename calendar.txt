@@ -9008,6 +9008,7 @@ year 2015
 2025-04-25 09:00 pilzreise@h30
 2025-04-26 21:55 maris@lhr arrive
 2025-04-26 22:00-22:40 bsl-lhr T5 # BA755 Basel to London booking confirmation WMYHP8
+2025-04-27 17:00 mike@twickenham # MacLeod, holle max, helene
 2025-04-28 13:00 celebrate life # thames ditton skiff and punting club
 2025-04-29 17:15 maris@lhr depart
 2025-04-29 20:15-22:50 lhr-bsl T5 # BA756 London to Basel booking confirmation WMYHP8
