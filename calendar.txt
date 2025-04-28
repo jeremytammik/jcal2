@@ -9013,7 +9013,7 @@ year 2015
 2025-04-27 17:00 mike@twickenham # MacLeod, holle max, helene
 2025-04-28 13:00 celebrate life # thames ditton skiff and punting club
 2025-04-29 17:15 maris@lhr depart
-2025-04-29 20:15-22:50 lhr-bsl T5 # BA756 London to Basel booking confirmation WMYHP8
+2025-04-29 20:15-22:50 <a href="/Users/jta/a/doc/travel/trip/london/2025-04-26_ba756_bsl_lhr_boarding_pass.pdf">lhr-bsl</a> T5 # BA756 London to Basel booking confirmation WMYHP8
 2025-04-30 13:30-14:30 marek@telegram
 2025-04-30 waedel@walpurgis # in der kleinen waldlichtung zwischen rodersdorf und metzerlen
 
