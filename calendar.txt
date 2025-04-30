@@ -8896,6 +8896,8 @@ year 2015
 2025-02-28 wildhaus end
 2025-02-28 18:00 schnitzelbank@stetten # madlee
 
+2025-03-03 09:00-12:00 marek@zoom
+
 2025-03-04 nik begin
 2025-03-04 08:03-10:50 bsl-goeschenen
 2025-03-04 voralphuette
@@ -8962,7 +8964,7 @@ year 2015
 2025-03-31 14:00 falk? nik?
 
 2025-04-01 13:10-13:50 matthias
-2025-04-01 14:30 marek@telegram
+2025-04-01 14:30-16:00 marek@telegram
 2025-04-01 18:00 rene
 2025-04-01 20:00-21:30 jam@hammerstr25ugI # wettstein thomas blatter nik orga
 
@@ -9017,12 +9019,14 @@ year 2015
 2025-04-29 19:30 boarding
 2025-04-29 20:15-22:50 <a href="/Users/jta/a/doc/travel/trip/london/2025-04-29_ba756_lhr_bsl_boarding_pass.pdf">lhr-bsl</a> T5 # BA756 London to Basel booking confirmation WMYHP8
 2025-04-30 10:00 dentist connert@uzb # piece of tooth 46 broke off
-2025-04-30 13:30-14:30 marek@telegram
+2025-04-30 13:30-15:00 marek@telegram
 2025-04-30 waedel@walpurgis # in der kleinen waldlichtung zwischen rodersdorf und metzerlen
 
 2025-05-01 piazzogna begin
 2025-05-04 piazzogna end
 2025-05-04 singenfuermadlee
+
+2025-05-05 17:00 marek@telegram
 
 2025-05-09 13:00 madlee@tuellingen
 
