@@ -9038,6 +9038,7 @@ year 2015
 2025-05-11 15:00 gritjochen@h30
 2025-05-12 13:00 marek@telegram
 
+2025-05-14 10:30 martin bad + gas
 2025-05-14 18:00 sanieren@kaltenbach
 2025-05-15 grundsteuerabbuchung 1800
 
@@ -9074,9 +9075,9 @@ year 2015
 
 2025-06-20 18:00 isabell + hartmut
 
-2025-07-05 piazzogna begin
 2025-07-06 maennerschwitzhuette@wiechs
-2025-07-14 piazzogna end
+2025-07-07 piazzogna begin
+2025-07-13 piazzogna end
 
 2025-07-16 jusoca begin
 2025-07-19 moni vacation begin
