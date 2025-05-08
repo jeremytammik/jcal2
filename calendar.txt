@@ -8985,7 +8985,6 @@ year 2015
 2025-04-08 09:30-10:30 bremse@matthias
 2025-04-09 08:30-09:00 <a href="https://meet.google.com/rpm-uetd-ueu">yoni+team@meet</a>
 2025-04-09 12:00-13:00 hermann@glashaus
-2025-04-09 18:00 sanieren@nellie
 2025-04-10 16:00 bsb@kaltenbach # regio messe nachbearbeitung
 2025-04-10 18:30-19:30 <a href="https://meet.google.com/toe-bbgn-fmb">medo@meet</a> # Meeting w/AG2 re Session Persistence
 2025-04-11 16:00 cook
@@ -9039,6 +9038,7 @@ year 2015
 2025-05-11 15:00 gritjochen@h30
 2025-05-12 13:00 marek@telegram
 
+2025-05-14 18:00 sanieren@kaltenbach
 2025-05-15 grundsteuerabbuchung 1800
 
 # Experiment Gemeinschaft
