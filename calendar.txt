@@ -9006,7 +9006,7 @@ year 2015
 #2025-04-19 11:00 mensweatlodge
 #2025-04-21 piazzogna end
 
-2025-04-22 09:00 <a href="https://meet.google.com/pqr-ugkc-bpk">yoni@meet</a>
+2025-04-22 09:00-09:30 <a href="https://meet.google.com/pqr-ugkc-bpk">yoni@meet</a>
 
 2025-04-25 09:00 pilzreise@h30
 2025-04-26 21:55 maris@lhr arrive
@@ -9036,6 +9036,7 @@ year 2015
 2025-05-10 11:00 anne-marie geburi
 2025-05-10 18:00 beltane@wiechs
 2025-05-11 15:00 gritjochen@h30
+2025-05-12 09:00-09:30 <a href="https://meet.google.com/bdv-djvf-fto">yoni@meet</a>
 2025-05-12 13:00 marek@telegram
 
 2025-05-14 10:30 martin bad + gas
