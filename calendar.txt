@@ -9045,6 +9045,8 @@ year 2015
 2025-05-14 14:00 nik@bsl
 2025-05-14 18:00 sanieren@kaltenbach
 2025-05-15 grundsteuerabbuchung 1800
+2025-05-15 11:00-13:00 pv@matthias # balkonkraftwerk mikrowechselrichter lettenweg
+2025-05-15 16:00 bsb@kaltenbach
 
 # Experiment Gemeinschaft
 # Ein ZEGG Kennlern-Wochenende
@@ -9068,6 +9070,7 @@ year 2015
 
 2025-06-07 piarene@guido
 2025-06-08 piarene@guido
+2025-06-08 11:00 fest@linach # Adresse: Linach 16/1, 78120 Furtwangen, im Navi Linach 14/2 eingeben!
 2025-06-09 piarene@guido
 
 2025-06-09 16:00 lomi@jura end
@@ -9076,8 +9079,11 @@ year 2015
 2025-06-15 sauna@ella end
 
 2025-06-17 19:30 stammtisch@fairvelo
+2025-06-18 18:80 hermann@tennisklub # steinen
 
 2025-06-20 18:00 isabell + hartmut
+
+2025-07-03 18:00 klimafest@schoepflin
 
 2025-07-06 maennerschwitzhuette@wiechs
 2025-07-07 piazzogna begin
@@ -9087,6 +9093,7 @@ year 2015
 2025-07-19 moni vacation begin
 2025-07-19 09:00 helene@nantes
 2025-07-19 tammiku begin # Argentré-Du-Plessis, France, east of Rennes, or train Basel SBB to Laval, 53000, France in less than 6 hours
+2025-07-26 <a href="https://sommercamp.zegg.de">zeggcamp</a> begin
 2025-07-26 tammiku end
 2025-07-26 jusoca end
 2025-08-03 moni vacation end
@@ -9098,6 +9105,10 @@ year 2015
 
 2025-08-29 medizin@jurte begin
 2025-09-02 medizin@jurte end
+
+2025-09-07 oberalppass
+2025-09-08 oberalppass
+2025-09-08 oberalppass
 
 2025-09-12 lina begin
 2025-09-13 lina
