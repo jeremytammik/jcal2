@@ -9056,7 +9056,9 @@ year 2015
 2025-05-17 zegg
 2025-05-18 zegg
 
-2025-05-20 06:00-07:25 <a href="/Users/jta/a/doc/expense/receipt/2025/2025-03-13_opodo_klm_berlin_amsterdam.pdf">berlin-amsterdam</a> # klm royal dutch airlines kl 1770 BER flughafen brandenburg 1h 25m
+2025-05-20 05:30 boarding
+2025-05-20 05:45 gate closed
+2025-05-20 06:00-07:25 <a href="/Users/jta/a/doc/expense/receipt/2025/2025-03-13_opodo_klm_berlin_amsterdam.pdf">berlin-amsterdam</a> # klm royal dutch airlines kl 1770 BER flughafen brandenburg 1h 25m OMU9PB
 2025-05-20 devcon@amsterdam
 2025-05-20 11:45-13:30 graanbeurszaal # room captain
 2025-05-20 14:30-17:15 graanbeurszaal # room captain
