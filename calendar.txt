@@ -9101,13 +9101,18 @@ year 2015
 2025-08-03 moni vacation end
 2025-08-06 <a href="https://sommercamp.zegg.de">zeggcamp</a> end
 
+2025-08-11 18:00 lina arrive
+2025-08-12 08:00 lina depart
+
 2025-08-15 grundsteuerabbuchung 1800
 
 #2025-08-16 tammiku begin # <a href="https://www.google.com/maps/place/47292+stillingsoen+sweden">stillingsoen</a>
 #2025-08-24 tammiku end
 
 2025-08-29 medizin@jurte begin
-2025-09-02 medizin@jurte end
+# Gruppe 1 - 29.-31.08
+# Gruppe 2 - 01.-03.09
+2025-09-03 medizin@jurte end
 
 2025-09-07 oberalppass
 2025-09-08 oberalppass
