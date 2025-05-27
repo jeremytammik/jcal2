@@ -1,6 +1,7 @@
 #!/bin/sh
 # to define preprocessor symbols, call with 'jcal -Dall'
 # Jeremy Tammik, Autodesk Inc. 2003-2016
+# 2025-05-27 moved to linux mint
 
 DB="$HOME/j/doc/db"
 DIR="$DB/jcal2"
@@ -44,7 +45,8 @@ then
   #"/Applications/Komodo Edit 8.app/Contents/MacOS/komodo" $0
   #k $0 # --> /j/doc/db/jcal/jcal: line 42: k: command not found
   #"$EDITOR" $0
-  open -a Komodo\ Edit\ 8 $0
+  #open -a Komodo\ Edit\ 8 $0
+  echo "-m? why"
   exit 0
 fi
 
@@ -87,7 +89,8 @@ sed -f $DIR/unisodate.sed < $DIR/calendar.txt > $DIR/tmp/calendar
 
 #pcal -f $DIR/tmp/calendar -H $YEAR | sed -f $F | sed -e 's|a><br|a>\&nbsp\;<a href="http://jeremytammik.github.io/jcal">url</a><br|' > $DIR/out/$YEAR.htm
 
-pcal -f $DIR/tmp/calendar -H $YEAR | sed -f $F > $DIR/out/$YEAR.htm
+echo "todo: set up github and pcal"
+echo "pcal -f $DIR/tmp/calendar -H $YEAR | sed -f $F > $DIR/out/$YEAR.htm"
 
 echo $DIR/out/$YEAR.htm
 
