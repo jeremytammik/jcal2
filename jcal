@@ -89,8 +89,7 @@ sed -f $DIR/unisodate.sed < $DIR/calendar.txt > $DIR/tmp/calendar
 
 #pcal -f $DIR/tmp/calendar -H $YEAR | sed -f $F | sed -e 's|a><br|a>\&nbsp\;<a href="http://jeremytammik.github.io/jcal">url</a><br|' > $DIR/out/$YEAR.htm
 
-echo "todo: set up github and pcal"
-echo "pcal -f $DIR/tmp/calendar -H $YEAR | sed -f $F > $DIR/out/$YEAR.htm"
+pcal -f $DIR/tmp/calendar -H $YEAR | sed -f $F > $DIR/out/$YEAR.htm
 
 echo $DIR/out/$YEAR.htm
 
