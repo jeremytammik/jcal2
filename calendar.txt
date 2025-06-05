@@ -9097,7 +9097,9 @@ year 2015
 
 2025-06-20 18:00 isabell + hartmut
 
+2025-07-02 klimafest begin
 2025-07-03 18:00 klimafest@schoepflin
+2025-07-05 klimafest end
 
 2025-07-06 maennerschwitzhuette@wiechs
 2025-07-07 piazzogna begin
