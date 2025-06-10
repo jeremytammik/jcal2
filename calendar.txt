@@ -9087,7 +9087,7 @@ year 2015
 
 #2025-06-09 16:00 lomi@jura end
 
-2025-06-11 10:59-19:48 ventimiglia-sbb
+2025-06-11 10:59-19:48 <a href="/home/jeremy/x/doc/expense/receipt/2025/2025-06-11_sbb_ventimiglia_zrh.pdf">ventimiglia-sbb</a>
 2025-06-12 sauna@ella begin
 2025-06-12 19.30-21.30 mantra@hebelpark # Am Hebelpark 5 bei schönem Wetter draußen 10-20€ + Instrument + Knabbern danach
 2025-06-15 sauna@ella end
