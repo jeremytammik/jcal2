@@ -9088,7 +9088,7 @@ year 2015
 #2025-06-09 16:00 lomi@jura end
 
 2025-06-11 10:59-19:48 <a href="/home/jeremy/x/doc/expense/receipt/2025/2025-06-11_sbb_ventimiglia_zrh.pdf">ventimiglia-sbb</a>
-2025-06-12 sauna@ella begin
+2025-06-12 11:30 sauna@ella begin
 2025-06-12 19.30-21.30 mantra@hebelpark # Am Hebelpark 5 bei schönem Wetter draußen 10-20€ + Instrument + Knabbern danach
 2025-06-15 sauna@ella end
 
@@ -9111,6 +9111,8 @@ year 2015
 2025-07-19 moni vacation begin
 2025-07-19 09:00 helene@nantes
 2025-07-19 tammiku begin # Argentré-Du-Plessis, France, east of Rennes, or train Basel SBB to Laval, 53000, France in less than 6 hours
+2025-07-20 wybie + zak begin
+2025-07-25 wybie + zak end
 2025-07-26 <a href="https://sommercamp.zegg.de">zeggcamp</a> begin
 2025-07-26 tammiku end
 2025-07-26 jusoca end
