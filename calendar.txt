@@ -9089,8 +9089,9 @@ year 2015
 
 2025-06-11 10:59-19:48 <a href="/home/jeremy/x/doc/expense/receipt/2025/2025-06-11_sbb_ventimiglia_zrh.pdf">ventimiglia-zrh</a>
 2025-06-11 19:34-20:28 <a href="/home/jeremy/x/doc/expense/receipt/2025/2025-06-11_sbb_zrh_bsl.pdf">zrh-bsl</a>
-2025-06-12 09:00 <a href="https://meet.google.com/???">yoni@meet</a>
+2025-06-12 09:00-09:30 <a href="https://meet.google.com/ssd-zerb-zoi">yoni@meet</a>
 2025-06-12 11:30 sauna@ella begin
+2025-06-12 16:00 bsb@kaltenbach
 2025-06-12 19:00 rainbow@wutach begin
 2025-06-12 19.30-21.30 mantra@hebelpark # Am Hebelpark 5 bei schönem Wetter draußen 10-20€ + Instrument + Knabbern danach
 2025-06-15 rainbow@wutach end
