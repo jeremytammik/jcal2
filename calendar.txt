@@ -9123,6 +9123,7 @@ year 2015
 2025-07-26 jusoca end
 2025-08-03 moni vacation end
 2025-08-06 <a href="https://sommercamp.zegg.de">zeggcamp</a> end
+2025-08-09 17:00 gartenfest@andrea # Oristalstr. 16, 16.8 verschiebedatum
 
 2025-08-11 18:00 lina arrive
 2025-08-12 08:00 lina depart
