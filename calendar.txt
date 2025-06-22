@@ -282,7 +282,7 @@ first day in may*               first of may
 60th day after easter           corpus christi fronleichnam
 3rd sunday in june              father's day
 01 aug                          swiss national day
-monday after 3rd sunday in september         ne jeune federal
+#monday after 3rd sunday in september         ne jeune federal
 03 oct                          german tag der einheit
 last sunday in oct              dst ends (-1h)
 31 oct halloween
