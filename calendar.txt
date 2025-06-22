@@ -9147,7 +9147,8 @@ year 2015
 2025-09-08 oberalppass
 2025-09-09 oberalppass
 
-2025-09-12 lina begin
+2025-09-11 lina begin
+2025-09-12 lina
 2025-09-13 lina
 2025-09-14 lina end
 
