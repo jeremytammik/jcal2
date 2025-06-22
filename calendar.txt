@@ -9127,6 +9127,8 @@ year 2015
 2025-07-26 <a href="https://sommercamp.zegg.de">zeggcamp</a> begin
 2025-07-26 tammiku end
 2025-07-26 jusoca end
+2025-07-29 05:55-13:50 <a href="/home/jeremy/x/doc/expense/receipt/2025/2025-07-15_flixbus_bsl_paris.pdf">paris-bsl</a>
+
 2025-08-03 moni vacation end
 2025-08-06 <a href="https://sommercamp.zegg.de">zeggcamp</a> end
 2025-08-09 17:00 gartenfest@andrea # oristalstr. 16, 16.8 verschiebedatum
