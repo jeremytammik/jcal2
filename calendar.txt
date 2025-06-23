@@ -9109,6 +9109,11 @@ year 2015
 2025-06-23 10:00 pv@hermann
 2025-06-23 20:00 bettinamaria@wiese # unterhalb des Stauwehres in Fahrnau; Geschirr, Getränk und Sitzgelegenheit mitbringen! 
 
+2025-07-02 14:00 vorbereitung@heiner
+2025-07-02 16:00 beginn@heiner
+2025-07-02 19:00 essen@heiner
+2025-07-02 21:00 tanzen@heiner
+
 2025-07-02 klimafest begin
 2025-07-03 18:00 klimafest@schoepflin
 2025-07-05 klimafest end
