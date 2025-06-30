@@ -9142,14 +9142,14 @@ year 2015
 2025-07-19 tammiku begin # Argentré-Du-Plessis, France, east of Rennes, or train Basel SBB to Laval, 53000, France in less than 6 hours
 2025-07-20 wybie + zak begin
 2025-07-25 wybie + zak end
-2025-07-26 <a href="https://sommercamp.zegg.de">zeggcamp</a> begin
+#2025-07-26 <a href="https://sommercamp.zegg.de">zeggcamp</a> begin
 2025-07-26 tammiku end
 2025-07-26 jusoca end
 2025-07-27 <a href="https://www.google.com/maps/dir/Argentre-du-Plessis+France/Paris+Bercy+Seine+France/">argentre-du-plessis-paris</a>
 2025-07-29 05:55-13:50 <a href="/home/jeremy/x/doc/expense/receipt/2025/2025-07-29_flixbus_paris_bsl.pdf">paris-bsl</a>
 
 2025-08-03 moni vacation end
-2025-08-06 <a href="https://sommercamp.zegg.de">zeggcamp</a> end
+#2025-08-06 <a href="https://sommercamp.zegg.de">zeggcamp</a> end
 2025-08-09 17:00 gartenfest@andrea # oristalstr. 16, 16.8 verschiebedatum
 
 2025-08-11 18:00 lina arrive
