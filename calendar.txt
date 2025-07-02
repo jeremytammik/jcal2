@@ -9130,7 +9130,7 @@ year 2015
 2025-07-03 19:30-21:30 mantra@kraftwerkinsel
 2025-07-05 klimafest end
 
-2025-07-06 maennerschwitzhuette@wiechs
+2025-07-06 15:00 maennerschwitzhuette@wiechs
 2025-07-07 piazzogna begin
 2025-07-08 10:00 sofa@piazzogna
 2025-07-08 <a href="~/w/tmp/2025-07-01_Locarno-Arona.pdf">luino-intra</a> # https://www.navigazionelaghi.it
