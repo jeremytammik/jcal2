@@ -9127,7 +9127,7 @@ year 2015
 2025-07-02 21:00 tanzen@heiner
 
 2025-07-02 klimafest begin
-2025-07-03 18:00 <a href="~/w/tmp/2025-07-03_klimafest.pdf">klimafest@schoepflin</a>
+2025-07-03 18:00 <a href="/hom/jeremy/w/tmp/2025-07-03_klimafest.pdf">klimafest@schoepflin</a>
 2025-07-03 19:30-21:30 mantra@kraftwerkinsel
 2025-07-05 klimafest end
 
