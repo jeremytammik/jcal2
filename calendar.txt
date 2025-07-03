@@ -8019,7 +8019,8 @@ year 2015
 2023-06-02 <a href="https://vindskyddskartan.se/en/places/388/Tjustleden%20Vindskydd">tjustleden vindskydd</a>
 2023-06-03 stuga begin # Åtvidaberg V
 2023-06-07 stuga end
-2023-06-11 10:00-13:00 daniela@fr&auml;lseg&aring;rden
+2023-06-11 10:00-13:00 <a href="https://www.lilla-gronsakslandet.se/">daniela@fr&auml;lseg&aring;rden</a>
+2023-06-15 fr&auml;lseg&aring;rden end
 2023-06-17 oeresundsbron # Ordernummer PRD_SU_35634 Namn JEREMY TAMMIK E-post jeremy.tammik@autodesk.com Biljettyp Enkel fordon BL139548
 2023-06-17 <a href="https://www.google.com/maps/dir//Havnevej+50+4895+Errindlev+Denmark">shelter errindlev havn</a>
 2023-06-18 faerja
