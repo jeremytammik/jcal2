@@ -9139,7 +9139,7 @@ year 2015
 2025-07-08 10:00 sofa@piazzogna
 2025-07-08 15:30-15:44 <a href="/home/jeremy/w/tmp/2025-07-01_Locarno-Arona.pdf">luino-cannero</a> # https://www.navigazionelaghi.it
 2025-07-09 17:40-17:54 <a href="/home/jeremy/w/tmp/2025-07-01_Arona-Locarno-1.pdf">cannero-luino</a>
-2025-07-10 08:30 <a href="https://meet.google.com/sev-megb-heb">yoni@meet</a>
+2025-07-10 08:30-09:00 <a href="https://meet.google.com/zwh-srwv-vda">yoni@meet</a>
 2025-07-10 13:00-17:00 pvselbst@weil
 2025-07-13 piazzogna end
 
