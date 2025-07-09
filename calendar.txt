@@ -9148,10 +9148,12 @@ year 2015
 2025-07-16 jusoca begin
 2025-07-19 moni vacation begin
 2025-07-19 09:00 helene@nantes
+2025-07-19 10:00 marie begin
 2025-07-19 18:45 maris@nantes
 2025-07-19 tammiku begin # Argentré-Du-Plessis, France, east of Rennes, or train Basel SBB to Laval, 53000, France in less than 6 hours
 2025-07-20 wybie + zak begin
 2025-07-25 wybie + zak end
+2025-07-25 18:00 marie end
 #2025-07-26 <a href="https://sommercamp.zegg.de">zeggcamp</a> begin
 2025-07-26 tammiku end
 2025-07-26 jusoca end
