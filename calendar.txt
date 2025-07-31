@@ -9166,8 +9166,11 @@ year 2015
 2025-07-27 <a href="https://www.google.com/maps/dir/Argentre-du-Plessis+France/Paris+Bercy+Seine+France/">argentre-du-plessis-paris</a>
 2025-07-28 21:18-22:06 <a href="/home/jeremy/x/doc/expense/receipt/2025/2025-07-28_sncf_dreux_paris.pdf">dreux-paris</a> ref NDJ95Q
 2025-07-29 05:55-13:50 <a href="/home/jeremy/x/doc/expense/receipt/2025/2025-07-29_flixbus_paris_bsl.pdf">paris-bsl</a> N191 to Przemysl
-2025-07-30 19:00 mantra@kraftwerkinsel
+2025-07-30 19:30 mantra@kraftwerksinsel
 2025-07-30 19:00 medizin@zoom # jurte
+2025-07-31 16:00 nik@h30
+2025-07-31 21:30 kino@nellie
+2025-08-01 garten@bunterkunt
 
 2025-08-03 moni vacation end
 #2025-08-06 <a href="https://sommercamp.zegg.de">zeggcamp</a> end
