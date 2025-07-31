@@ -9183,6 +9183,7 @@ year 2015
 
 2025-08-15 grundsteuerabbuchung 1800
 
+2025-08-26 12:00 martina@ognw_bed
 2025-08-29 medizin@jurte begin
 2025-08-31 gruppe 1 end
 2025-09-01 gruppe 2 begin
