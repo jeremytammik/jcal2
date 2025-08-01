@@ -9171,6 +9171,7 @@ year 2015
 2025-07-31 16:00 nik@h30
 2025-07-31 21:30 kino@nellie
 2025-08-01 garten@bunterkunt
+2025-08-01 19:00 sauna
 
 2025-08-03 moni vacation end
 #2025-08-06 <a href="https://sommercamp.zegg.de">zeggcamp</a> end
