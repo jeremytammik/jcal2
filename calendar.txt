@@ -9175,6 +9175,7 @@ year 2015
 
 2025-08-03 moni vacation end
 2025-08-03 19:00 martin@tel
+2025-08-04 11:00 nik@ognwbad
 #2025-08-06 <a href="https://sommercamp.zegg.de">zeggcamp</a> end
 2025-08-06 19:00 kernies@kulturbeiz113 # im alten Warteck zum Essen
 2025-08-07 14:00 nicole + falk@wld
