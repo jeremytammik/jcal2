@@ -9217,10 +9217,13 @@ year 2015
 2025-09-20 dani + paolo?
 
 2025-09-26 17:00-21:00 nachbarschaftstreff
+2025-09-28 moni@heilkreis
 
-2025-10-03 telpaare@<a href="">sonnennest</a> begin
+2025-10-03 telpaare@<a href="">sonnennest</a> begin # sumvitg
 2025-10-04 telpaare
 2025-10-05 telpaare
+
+2025-10-06 piazzogna begin
 
 2025-10-14 10:00 dentist connert@uzb # kontrolle
 
