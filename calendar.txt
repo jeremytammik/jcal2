@@ -9191,7 +9191,7 @@ year 2015
 2025-08-12 sauna@ella
 
 2025-08-15 grundsteuerabbuchung 1800
-2025-08-16 marie + jay end
+2025-08-16 13:30 marie + jay end
 
 2025-08-23 12:00 baggersee
 2025-08-23 16:00 geburi@anja
