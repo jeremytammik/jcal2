@@ -9245,7 +9245,7 @@ year 2015
 2025-09-06 moni@frauen
 2025-09-07 moni@frauen
 
-2025-12-29 Janos_grimm@tao begin # Silvester Tanz Retreat im TAO
-2026-01-02 Janos_grimm@tao end
+2025-12-29 janos_grimm@tao begin # silvester tanz retreat im tao
+2026-01-02 janos_grimm@tao end
 
 
