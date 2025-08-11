@@ -9190,7 +9190,7 @@ year 2015
 2025-08-10 13:00 moni@frauen
 
 2025-08-11 18:00 lina arrive
-2025-08-12 08:00 lina depart
+2025-08-12 10:00 lina depart
 2025-08-12 14:00 nik@ognwbad
 2025-08-12 sauna@ella
 
