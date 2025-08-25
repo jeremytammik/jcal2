@@ -9212,7 +9212,9 @@ year 2015
 2025-08-23 16:00 geburi@anja
 2025-08-24 tag@bunterkunt
 2025-08-26 12:00 martina@ognw_bed
+2025-08-28 20:00 medizinreise pack
 2025-08-29 medizin@jurte begin
+2025-08-29 12:00 matthias
 2025-08-29 12:45 kueche@baar begin
 2025-08-30 moni@heilkreis
 2025-08-31 moni@frauen
