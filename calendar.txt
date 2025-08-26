@@ -9192,7 +9192,7 @@ year 2015
 2025-08-11 18:00 lina arrive
 2025-08-12 10:00 lina depart
 2025-08-12 14:00 nik@ognwbad
-2025-08-12 sauna@ella
+#2025-08-12 sauna@ella
 
 2025-08-15 grundsteuerabbuchung 1800
 2025-08-16 andrea + nik begin
