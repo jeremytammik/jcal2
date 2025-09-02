@@ -9223,6 +9223,7 @@ year 2015
 2025-09-01 gruppe 2 begin
 2025-09-03 medizin@jurte end
 2025-09-03 18:00 pvselbst@kaltenbach
+2025-09-04 16:00 bsb@kaltenbach
 
 2025-09-06 17:00 rose@nellie
 2025-09-07 06:00 dav@gruett
