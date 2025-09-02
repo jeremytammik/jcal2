@@ -9225,9 +9225,13 @@ year 2015
 2025-09-03 18:00 pvselbst@kaltenbach
 2025-09-04 16:00 bsb@kaltenbach
 
+2025-09-05 moni@frauen begin
+
+2025-09-06 moni@frauen
 2025-09-06 17:00 rose@nellie
 2025-09-07 06:00 dav@gruett
 2025-09-07 oberalppass # hans <hans@eichackers.de>
+2025-09-07 moni@frauen end
 2025-09-08 oberalppass
 2025-09-09 oberalppass
 
@@ -9259,9 +9263,6 @@ year 2015
 2025-04-13 moni@frauen
 2025-05-25 moni@frauen
 2025-06-15 moni@frauen
-2025-09-05 moni@frauen
-2025-09-06 moni@frauen
-2025-09-07 moni@frauen
 
 2025-12-29 janos_grimm@<a href="https://totalartoasis.net/">tao</a> begin # silvester tanz retreat im tao
 2026-01-02 janos_grimm@tao end
