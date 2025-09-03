@@ -9221,7 +9221,7 @@ year 2015
 2025-08-31 moni@frauen
 2025-08-31 gruppe 1 end
 2025-09-01 gruppe 2 begin
-2025-09-03 medizin@jurte end
+2025-09-02 medizin@jurte end
 2025-09-03 18:00 pvselbst@kaltenbach
 2025-09-04 16:00 bsb@kaltenbach
 
@@ -9242,6 +9242,7 @@ year 2015
 2025-09-13 lina
 2025-09-14 lina end
 2025-09-15 09:15-13:23 <a href="/home/jeremy/x/doc/expense/receipt/2025/2025-09-15_sbb_bonn_bsl.pdf">bonn-bsl</a> # Dauer 4:08
+2025-09-15 14:30 nik@ognwbad
 
 2025-09-18 sauna@ella
 2025-09-19 dani + paolo?
