@@ -9236,6 +9236,7 @@ year 2015
 2025-09-08 oberalppass
 2025-09-09 oberalppass
 
+2025-09-11 09:30-10:30 dentist connert@uzb # piece of tooth 27 broke off
 2025-09-11 12:28-16:43 <a href="/home/jeremy/x/doc/expense/receipt/2025/2025-09-11_sbb_bsl_bonn.pdf">bsl-bonn</a> # Dauer 4:15
 2025-09-11 lina begin
 2025-09-12 lina
