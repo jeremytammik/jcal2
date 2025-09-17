@@ -766,7 +766,7 @@ odd tuesdays in year 8:00 triage
 #first thursday in all bergsteigerapero
 
 #
-# regular monthly st. valentine's day
+# regular monthly events in the morning
 #
 #year 2009
 #14th day in all lucianna
@@ -784,11 +784,6 @@ every tuesday in year 06:30-07:30 zen@feuerwache
 every tuesday in year 16:00-20:00 climb
 every wednesday in year 06:30 preis@rosenfels # Der fruehe Vogel turnt im Park (Rosenfels) Mittwochs, ab 08.05.2019, 6:30h am Rondell
 every friday in year 08:30-10:00 yoga
-
-year 2025
-#all wednesdays in year 19:00 winterfit
-all thursdays in year 19:00-21:00 polysport@th sporthalle # spielsplatz stetten # Sporthalle der Theodor-Heuss-Realschule, Schützenstraße 22, Lörrach
-#all wednesdays in year 20:30 footy
 
 #
 # beginning of normal calendar dates:
@@ -9288,4 +9283,12 @@ year 2015
 
 2026-04-15 lina begin
 2026-04-19 lina end
+
+#
+# regular monthly events in the evening
+#
+year 2025
+#all wednesdays in year 19:00 winterfit
+all thursdays in year 19:00-21:00 polysport@th sporthalle # spielsplatz stetten # sporthalle theodor-heuss-realschule, schuetzen 22
+#all wednesdays in year 20:30 footy
 
