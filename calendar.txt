@@ -9289,6 +9289,6 @@ year 2015
 #
 year 2025
 #all wednesdays in year 19:00 winterfit
-all thursdays in year 19:00-21:00 polysport@th sporthalle # spielsplatz stetten # sporthalle theodor-heuss-realschule, schuetzen 22
+all thursdays in year 19:00-21:00 polysport@ths # spielsplatz stetten # sporthalle theodor-heuss-realschule, schuetzen 22
 #all wednesdays in year 20:30 footy
 
