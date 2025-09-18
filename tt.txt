@@ -5628,3 +5628,13 @@ http://auskunft.kvb-koeln.de
   Direction Schwarzenburg, Bahnhof
   Guggisberg, Post arr 12:55
 
+2025-09-19 bsl-bruesti
+  Basel SBB --> Brüsti, Fr. 19. September 2025 14:03 - 16:45
+  Ab 14:03 Basel SBB - Gl. 5 (IR 26, Richtung: Locarno)
+  An 16:17 Altdorf UR - Gl. 1
+  Ab 16:21 Altdorf UR, Bahnhof Ost (B 408, Richtung: Attinghausen, Seilbahn)
+  An 16:27 Attinghausen, Seilbahn
+  Ab 16:30 Attinghausen (Luftseilbahn) (PB, Richtung: Brüsti)
+  An 16:45 Brüsti
+
+
