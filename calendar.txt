@@ -9256,8 +9256,8 @@ year 2015
 
 2025-09-22 08:30 martin@ognwbad
 2025-09-22 13:00 nik@ognwbad
-
-2025-09-24 08:30 martin@ognwbad
+2025-09-24 09:30-13:00 martin@ognwbad
+2025-09-25 08:30 martin@ognwbad
 2025-09-25 11:00 <a href="https://meet.google.com/pdf-fhqd-wsc">yvonne@meet</a>
 
 2025-09-26 17:00-21:00 nachbarschaftstreff
