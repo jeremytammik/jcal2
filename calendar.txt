@@ -9266,6 +9266,8 @@ year 2015
 2025-09-28 13:00 wave
 2025-09-28 14:30 party + chill
 
+2025-10-02 16:00 bsb@kaltenbach
+
 2025-10-03 telpaare@<a href="">sonnennest</a> begin # sumvitg
 2025-10-04 telpaare
 2025-10-05 telpaare
@@ -9293,12 +9295,20 @@ year 2015
 2025-12-29 janos_grimm@<a href="https://totalartoasis.net/">tao</a> begin # silvester tanz retreat im tao
 2026-01-02 janos_grimm@tao end
 
+2026-01-18 heilkreis
+
+2026-03-08 heilkreis
+
 2026-03-13 <a href="https://come-together-songs.de/event/heilkraft-gesang-tanz-und-gemeinschaft-4/">saig</a> begin
 2026-03-14 saig
 2026-03-15 saig end
 
+2026-04-12 heilkreis
+
 2026-04-15 lina begin
 2026-04-19 lina end
+
+2026-05-31 heilkreis
 
 #
 # regular monthly events in the evening
