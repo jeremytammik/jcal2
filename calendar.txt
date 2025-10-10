@@ -9300,10 +9300,13 @@ year 2015
 2025-05-25 moni@frauen
 2025-06-15 moni@frauen
 
+2025-12-26 15:55 cbl@bsl depart
 2025-12-29 janos_grimm@<a href="https://totalartoasis.net/">tao</a> begin # silvester tanz retreat im tao
 2026-01-02 janos_grimm@tao end
 
 2026-01-18 heilkreis
+
+2026-02-14 cbl@bsl return
 
 2026-03-08 heilkreis
 
