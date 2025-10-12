@@ -9290,6 +9290,8 @@ year 2015
 2025-10-26 19:00 <a href="https://www.barakuba.ch/2025/24/10/irre-welle">irre_welle@barakuba</a>
 2025-10-27 wolfram@loetschental
 
+2025-11-05 19:00 winterfit start # alte HTG-Halle Kreuzstraße 33a neben phænovum
+
 2025-11-07 ahvfest@pratteln
 
 2025-11-15 grundsteuerabbuchung 1800
@@ -9335,7 +9337,7 @@ year 2015
 # regular monthly events in the evening
 #
 year 2025
-#all wednesdays in year 19:00 winterfit
+#all wednesdays in year 19:00 winterfit # alte HTG-Halle Kreuzstraße 33a neben phænovum
 all thursdays in year 19:00-21:00 polysport@ths # spielsplatz stetten # sporthalle theodor-heuss-realschule, schuetzen 22
 #all wednesdays in year 20:30 footy
 
