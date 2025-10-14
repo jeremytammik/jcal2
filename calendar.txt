@@ -9280,7 +9280,7 @@ year 2015
 2025-10-09 dani + paolo end 
 
 2025-10-14 10:00 dentist connert@uzb # kontrolle
-2025-10-14 13:00-17:00 pvselbst # Uhr PV-Anlage von Verena und Friedrich
+2025-10-14 13:00-17:00 pvselbst@<a href="~/w/doc/group/klima/pvselbst/2025-10-14_pvs_einsatzplan.pdf">salzert</a>
 2025-10-15 09:00 <a href="https://zoom.us/j/2671685937">fischer@zoom</a> # leonard fejza meeting id 267 168 5937
 2025-10-19 10:00 brunch@monigeburi
 2025-10-19 15:00 spiele@monigeburi
