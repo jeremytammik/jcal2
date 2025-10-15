@@ -9302,6 +9302,7 @@ year 2015
 2025-12-06 dani + paolo 
 2025-12-07 dani + paolo 
 2025-12-08 dani + paolo end
+2025-12-09 09:00 <a href="https://zoom.us/j/2671685937">fischer@zoom</a> # leonard fejza meeting id 267 168 5937
 
 2025-02-16 moni@frauen
 2025-04-13 moni@frauen
