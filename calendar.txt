@@ -9253,7 +9253,6 @@ year 2015
 2025-09-20 nik@berg
 2025-09-21 nik@berg
 
-
 2025-09-22 08:30 martin@ognwbad
 2025-09-22 13:00 nik@ognwbad
 2025-09-24 09:30-13:00 martin@ognwbad
@@ -9282,6 +9281,7 @@ year 2015
 2025-10-14 10:00 dentist connert@uzb # kontrolle
 2025-10-14 13:00-17:00 pvselbst@<a href="/home/jeremy/w/doc/group/klima/pvselbst/2025-10-14_pvs_einsatzplan.pdf">salzert</a>
 2025-10-15 10:00 <a href="https://zoom.us/j/2671685937">fischer@zoom</a> # leonard fejza meeting id 267 168 5937
+
 2025-10-19 10:00 brunch@monigeburi
 2025-10-19 15:00 spiele@monigeburi
 
@@ -9355,3 +9355,4 @@ year 2025
 all thursdays in year 19:00-21:00 polysport@ths # spielsplatz stetten # sporthalle theodor-heuss-realschule, schuetzen 22
 #all wednesdays in year 20:30 footy
 #all tuesdays after nov 14:00-15:30 fitness@gruett # Ab dem 11.11.2025 bis zum und mit 31.03.2026 (ausgenommen Ferienzeiten) findet das Fitnesstraining für Seniorinnen und Senioren jeweils dienstags in der Zeit von 14:00 Uhr bis 15:30 Uhr in der Gymnastikhalle im Grütt statt.
+
