@@ -9339,6 +9339,9 @@ year 2015
 2026-04-15 lina begin
 2026-04-19 lina end
 
+2026-04-30 piazzogna begin
+2026-05-04 piazzogna end
+
 2026-05-12 10:00 dentist connert@uzb # kontrolle
 
 2026-05-14 moni ferien begin
