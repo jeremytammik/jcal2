@@ -9292,7 +9292,10 @@ year 2015
 2025-10-27 wolfram@loetschental
 2025-10-28 15:30-16:15 henderson # 09:30-10:15 CDT Adam Roth <adam.roth@hendersonengineers.com> + Dustin Schafer <dustin.schafer@hendersonengineers.com> Meeting ID: 269 632 316 100 2 Passcode: F7z5JD6i 
 
+# link contains invalid characters for jcal:
+
 # https://teams.microsoft.com/light-meetings/launch?context=%7B%22Tid%22%3A%22476f105f-1115-47c5-886f-fb6007362e4c%22%2C%22Oid%22%3A%22e2c242ce-892f-4589-9da7-58bfdfc63c48%22%7D&anon=true&lightExperience=true&correlationId=4e1e308c-7a8a-4f1a-b707-6e48c7849550&agent=web&version=25100213804&coords=eyJjb252ZXJzYXRpb25JZCI6IjE5Om1lZXRpbmdfTmpWaU0yRmxaRGd0WTJObU1pMDBZVFF5TFdJNFptTXRORFJoTURsa016UTNPV1kwQHRocmVhZC52MiIsInRlbmFudElkIjoiNDc2ZjEwNWYtMTExNS00N2M1LTg4NmYtZmI2MDA3MzYyZTRjIiwib3JnYW5pemVySWQiOiJlMmMyNDJjZS04OTJmLTQ1ODktOWRhNy01OGJmZGZjNjNjNDgiLCJtZXNzYWdlSWQiOiIwIn0%3D&deeplinkId=cdf06c85-70ef-422c-8e70-6d24b7f8f102
+
 # https://www.worldtimebuddy.com/?qm=1&lid=6,12,2643743&h=6&date=2025-10-28&sln=9.5-10&hf=1
 
 2025-10-28 17:00 call dietrich # Anmeldung bei Dietrich Plaas am Dienstag, 28.10.2025, zwischen 17:00 und 18:00 unter Telefon +49 7621 89920
