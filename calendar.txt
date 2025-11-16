@@ -9330,7 +9330,7 @@ year 2015
 
 2025-11-15 grundsteuerabbuchung 1800
 
-2025-11-16 16:00-17:00 nicolas@meet
+2025-11-18 16:00-17:00 nicolas@meet
 
 2025-11-20 11:30-16:00 rene + tobias
 
