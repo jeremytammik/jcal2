@@ -9336,7 +9336,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2025-11-15 grundsteuerabbuchung 1800
 
-2025-11-18 16:00-17:00 nicolas@meet
+2025-11-18 16:00-17:00 <a href="https://meet.google.com/drd-kugh-tzb">nicolas@meet</a>
 
 2025-11-20 11:30-16:00 rene + tobias
 
