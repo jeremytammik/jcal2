@@ -8788,6 +8788,9 @@ year 2015
 2024-12-30 19:00 sauna
 2024-12-31 18:00 silvester@nik
 
+#
+# regular events in the morning
+#
 year 2025
 all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.03.2026 ausgenommen Ferienzeiten Fitnesstraining Senior.innen dienstags in der Gymnastikhalle im Gruett anmeldung https://docs.google.com/spreadsheets/d/1iYp6VrHasEckulFDR19Ff1htU6uG4Uy2FjfmMSM5ka0/edit?usp=sharing
 
@@ -9391,7 +9394,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-09-14 lina end
 
 #
-# regular monthly events in the evening
+# regular events in the evening
 #
 year 2025
 #all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.03.2026 ausgenommen Ferienzeiten Fitnesstraining Senior.innen dienstags in der Gymnastikhalle im Gruett anmeldung https://docs.google.com/spreadsheets/d/1iYp6VrHasEckulFDR19Ff1htU6uG4Uy2FjfmMSM5ka0/edit?usp=sharing
