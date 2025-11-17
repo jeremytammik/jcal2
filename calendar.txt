@@ -8788,6 +8788,9 @@ year 2015
 2024-12-30 19:00 sauna
 2024-12-31 18:00 silvester@nik
 
+year 2025
+all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.03.2026 ausgenommen Ferienzeiten Fitnesstraining Senior.innen dienstags in der Gymnastikhalle im Gruett anmeldung https://docs.google.com/spreadsheets/d/1iYp6VrHasEckulFDR19Ff1htU6uG4Uy2FjfmMSM5ka0/edit?usp=sharing
+
 2025-01-01 18:00-19:00 medo
 2025-01-02 nele + dan
 2025-01-03 10:00 kim
@@ -9391,7 +9394,7 @@ year 2015
 # regular monthly events in the evening
 #
 year 2025
-all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.03.2026 ausgenommen Ferienzeiten Fitnesstraining Senior.innen dienstags in der Gymnastikhalle im Gruett anmeldung https://docs.google.com/spreadsheets/d/1iYp6VrHasEckulFDR19Ff1htU6uG4Uy2FjfmMSM5ka0/edit?usp=sharing
+#all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.03.2026 ausgenommen Ferienzeiten Fitnesstraining Senior.innen dienstags in der Gymnastikhalle im Gruett anmeldung https://docs.google.com/spreadsheets/d/1iYp6VrHasEckulFDR19Ff1htU6uG4Uy2FjfmMSM5ka0/edit?usp=sharing
 all wednesdays in year 19:00-21:00 winterfit # alte HTG-Halle Kreuzstraße 33a neben phænovum
 #all wednesdays in year 20:30 footy
 all thursdays in year 19:00-21:00 polysport@ths # spielsplatz stetten # sporthalle theodor-heuss-realschule, schuetzen 22
