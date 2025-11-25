@@ -9340,7 +9340,11 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2025-11-20 11:30-16:00 rene + tobias
 
+2025-11-24 cipriano noshow
+
+2025-11-25 11:30 matthias
 2025-11-25 15:45 probe@rueckgrat
+2025-11-25 17:00 davanmeldung
 
 2025-11-26 09:00 dav@gruett
 2025-11-26 09:00 schneeschuhtour rupert
