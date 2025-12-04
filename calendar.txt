@@ -9368,7 +9368,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2025-12-06 dani + paolo 
 2025-12-07 dani + paolo 
 2025-12-08 dani + paolo end
-2025-12-09 09:00 <a href="https://zoom.us/j/2671685937">fischer@zoom</a> # leonard fejza meeting id 267 168 5937
+
+2025-12-10 13:15 <a href="https://www.google.com/maps/place/hohe-flum-strasse+60+d-79650+schopfheim">steffen@toom</a>
 
 2025-12-11 18:30 polysport@steinen # hoellsteiner hof
 
@@ -9376,8 +9377,10 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2025-12-12 16:30 kaffee@stefanie
 2025-12-12 19:00 party@stefanie
 
+2025-12-16 09:00 <a href="https://zoom.us/j/2671685937">fischer@zoom</a> # leonard fejza meeting id 267 168 5937
+
 2025-12-26 15:55 cbl@bsl depart
-2025-12-29 janos_grimm@<a href="https://totalartoasis.net/">tao</a> begin # silvester tanz retreat im tao
+2025-12-29 janos@<a href="https://totalartoasis.net/">tao</a> begin # silvester tanz retreat im tao
 
 2026-02-16 moni@frauen
 2026-04-13 moni@frauen
