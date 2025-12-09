@@ -9368,6 +9368,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2025-12-07 dani + paolo 
 2025-12-08 dani + paolo end
 
+2025-12-10 10:00 ara
 2025-12-10 13:15 <a href="https://www.google.com/maps/place/hohe-flum-strasse+60+d-79650+schopfheim">steffen@toom</a>
 
 2025-12-11 18:30 polysport@steinen # hoellsteiner hof
