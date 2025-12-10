@@ -9306,7 +9306,6 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2025-10-28 17:00 call dietrich # anmeldung dietrich p @ tel +49 7621 89920
 2025-10-29 07:00 dav@gruett # dav senioren wanderung hoch ueber waldenburg mit dietrich plaas 
-2025-10-30 17:00 bsb@kaltenbach
 2025-10-30 18:20-19:30 badminton@impulsiv
 
 2025-11-01 09:30 holz@karen
@@ -9371,6 +9370,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2025-12-10 10:00 ara
 2025-12-10 13:15 <a href="https://www.google.com/maps/place/hohe-flum-strasse+60+d-79650+schopfheim">steffen@toom</a>
 
+2025-12-11 10:00-18:00 nik@ognw
+2025-12-11 16:00 bsb@kaltenbach
 2025-12-11 18:30 polysport@steinen # hoellsteiner hof
 
 2025-12-12 15:00 spazier@stefanie
