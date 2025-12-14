@@ -9405,8 +9405,10 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-02-14 cbl@bsl return
 
+2026-03-07 wildhaus begin
 2026-03-08 heilkreis
 
+2026-03-13 wildhaus end
 2026-03-13 <a href="https://come-together-songs.de/event/heilkraft-gesang-tanz-und-gemeinschaft-4/">saig</a> begin
 2026-03-14 saig
 2026-03-15 saig end
