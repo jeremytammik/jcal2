@@ -9394,8 +9394,11 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2025-12-21 00:30 m&amp;m@hbf arrival
 2025-12-21 16:00 maerchen@wiechs
 
+2025-12-26 paula begin
 2025-12-26 15:55 cbl@bsl depart
 2025-12-29 janos@<a href="https://totalartoasis.net/">tao</a> begin # silvester tanz retreat im tao
+
+2026-01-05 maris end
 
 2026-02-16 moni@frauen
 2026-04-13 moni@frauen
