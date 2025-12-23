@@ -9402,6 +9402,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2025-12-26 paula begin
 2025-12-26 15:55 cbl@bsl depart
 2025-12-26 16:00 lina begin
+2025-12-28 15:00 gemuetlich@stefanie
+2025-12-28 18:00 tanzdich@yogaraum # 20 euro, schwarzwaldstrasse 31, 3. og
 2025-12-29 lina end
 2025-12-29 janos@<a href="https://totalartoasis.net/">tao</a> begin # silvester tanz retreat im tao
 
