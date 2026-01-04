@@ -9411,6 +9411,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-01-02 janos_grimm@tao end
 
+2026-01-12 13:00 marie@sparda
+
 2026-01-18 heilkreis
 
 2026-02-14 cbl@bsl return
