@@ -9310,7 +9310,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2025-11-01 09:30 holz@karen
 
-2025-11-05 18:00 pvselbst@kaltenbach
+#2025-11-05 18:00 pvselbst@kaltenbach
 2025-11-05 19:00-20:30 winterfit start # alte HTG-Halle Kreuzstraße 33a neben phænovum
 
 2025-11-06 wandern mit wolfram
@@ -9419,6 +9419,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-01-16 14:00 saenger@maulburg # herr saenger (meister), philipp Feuerträume, Neue Straße 35, 79689 Maulburg
 
 2026-01-18 heilkreis
+
+2026-02-11 18:00 pvselbst@kaltenbach
 
 2026-02-14 cbl@bsl return
 
