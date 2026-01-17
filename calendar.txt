@@ -9443,8 +9443,11 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-04-02 moni ferien begin
 2026-04-06 moni ferien end
 
+2026-04-10 tel@kiental
+2026-04-11 tel@kiental
+2026-04-12 tel@kiental
 2026-04-12 heilkreis
-2026-04-13 moni@frauen
+#2026-04-13 moni@frauen
 
 2026-04-15 lina begin
 2026-04-19 lina end
