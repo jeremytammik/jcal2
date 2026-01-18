@@ -9421,12 +9421,14 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-01-16 14:00 saenger@maulburg # herr saenger (meister), philipp Feuerträume, Neue Straße 35, 79689 Maulburg
 
 2026-01-18 heilkreis
+2026-01-22 19:00 dav@lasser # stammtisch
+
+2026-01-31 13:00 nicola + falk
+2026-02-01 moni@frauen
 
 2026-02-11 18:00 pvselbst@kaltenbach
 
 2026-02-14 cbl@bsl return
-
-2026-02-16 moni@frauen
 
 2026-02-17 09:00 <a href="https://zoom.us/j/2671685937">fischer@zoom</a> # leonard fejza meeting id 267 168 5937
 
@@ -9439,6 +9441,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-03-13 <a href="https://come-together-songs.de/event/heilkraft-gesang-tanz-und-gemeinschaft-4/">saig</a> begin
 2026-03-14 saig
 2026-03-15 saig end
+
+2026-03-21 moni@kita
 
 2026-04-02 moni ferien begin
 2026-04-06 moni ferien end
@@ -9461,11 +9465,11 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-05-14 moni ferien begin
 2026-05-18 moni ferien end
 
-2026-05-25 moni@frauen
+2026-05-10 heilkreis
 
-2026-05-31 heilkreis
+2026-05-31 moni@frauen
 
-2026-06-15 moni@frauen
+2026-06-14 heilkreis
 
 2026-09-10 lina begin
 2026-09-11 lina
