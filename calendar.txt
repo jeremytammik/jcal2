@@ -9430,8 +9430,9 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-01-27 09:00-09:30 <a href="https://meet.google.com/hnm-sxru-uzm">yoni@meet</a>
 
-2026-01-29 15:00 qaqcdemo # Thursday 6am PST, 3pm CET
-2026-01-31 06:00 qaqcdemo # Friday 9pm PST, Saturday 6am CET
+2026-01-29 15:00-16:00 qaqcdemo # Thursday 6am PST, 3pm CET
+
+2026-01-31 06:00-07:00 qaqcdemo # Friday 9pm PST, Saturday 6am CET
 
 2026-01-31 13:00 nicola + falk
 2026-02-01 moni@frauen
