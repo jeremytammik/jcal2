@@ -9431,6 +9431,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-01-27 09:00-09:30 <a href="https://meet.google.com/hnm-sxru-uzm">yoni@meet</a>
 
 2026-01-29 15:00-16:00 <a href="https://meet.google.com/act-yzio-qow">qaqcdemo</a> # Thursday 6am PST, 3pm CET
+2026-01-29 16:00 jan@umzug
 
 2026-01-30 20:15 tichu@caro # inzlinger 13
 
