@@ -9430,16 +9430,16 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-01-27 09:00-09:30 <a href="https://meet.google.com/hnm-sxru-uzm">yoni@meet</a>
 
-2026-01-29 15:00-16:00 <a href="https://meet.google.com/act-yzio-qow">qaqcdemo</a> # Thursday 6am PST, 3pm CET
+2026-01-29 15:00-16:00 <a href="https://meet.google.com/act-yzio-qow">qaqcdemo a</a> # Thursday 6am PST, 3pm CET
 2026-01-29 16:00 jan@umzug
 
 2026-01-30 20:15 tichu@caro # inzlinger 13
 
-2026-01-31 06:00-07:00 qaqcdemo # Friday 9pm PST, Saturday 6am CET
+2026-01-31 <a href="https://www.worldtimebuddy.com/?qm=1&lid=8,12,2643743&h=8&date=2026-1-30&sln=21-22&hf=1">06:00-07:00</a> qaqcdemo b # Friday 30.1. 9pm PST, Saturday 6am CET
 
 2026-01-31 13:00 nicola + falk
 
-2026-02-01 00:00-01:00 qaqcdemo
+2026-02-01 <a href="https://www.worldtimebuddy.com/?qm=1&lid=8,12,2643743&h=8&date=2026-1-31&sln=15-16&hf=1">00:00-01:00</a> qaqcdemo c # 2pm pst
 
 2026-02-01 moni@frauen
 
