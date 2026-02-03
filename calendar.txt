@@ -8927,7 +8927,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2025-03-11 16:00 laternen@bsl
 2025-03-11 17:50 wettsteinplatz
 
-2025-03-12 09:30 fischer@zoom
+2025-03-12 09:30 fisher@zoom
 2025-03-13 16:30-17:00 <a href="https://join.skype.com/sPkQV3VpD0eZ">bsb@skype</a> # Besprechung Messestand Regio Messe
 2025-03-13 19:00 dav-mv@asg # Mitgliederversammlung, Festsaal der Albert-Schweizer-Gemeinschaftsschule
 
@@ -8939,7 +8939,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2025-03-17 10:00-14:00 bsb+psv@regiomesse
 2025-03-17 17:15 madlee@tichu
 
-2025-03-18 09:30-10:30 fischer@zoom
+2025-03-18 09:30-10:30 fisher@zoom
 
 2025-03-19 08:00 <a href="https://meet.google.com/bsp-ouhc-rii?hs=224">yoni@meet</a>
 
@@ -8951,11 +8951,11 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2025-03-22 singen@saig
 2025-03-23 13:00 singen end
 
-2025-03-24 09:30-10:00 <a href="https://zoom.us/j/2671685937">fischer@zoom</a> # Leonard Fejza
+2025-03-24 09:30-10:00 <a href="https://zoom.us/j/2671685937">fisher@zoom</a> # Leonard Fejza
 2025-03-24 14:00 mtb@matthias
 2025-03-25 09:00 ella@h30
 2025-03-26 08:00 waschbeton@inzlingen # gartenweg 12a 79594 inzlingen
-2025-03-26 13:00-13:30 <a href="https://zoom.us/j/2671685937">fischer@zoom</a> # leonard fejza meeting id 267 168 5937
+2025-03-26 13:00-13:30 <a href="https://zoom.us/j/2671685937">fisher@zoom</a> # leonard fejza meeting id 267 168 5937
 2025-03-26 20:00-21:30 <a href="https://meet.google.com/noh-czpb-zfz?hs=224">medo@meet</a> # review ui debug plan w/ mohamed
 2025-03-27 16:30 burcu@h30
 
@@ -8971,7 +8971,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2025-04-01 18:00 rene
 2025-04-01 20:00-21:30 jam@hammerstr25ugI # wettstein thomas blatter nik orga
 
-2025-04-02 15:00-16:30 <a href="https://zoom.us/j/2671685937">fischer@zoom</a> # leonard fejza meeting id 267 168 5937
+2025-04-02 15:00-16:30 <a href="https://zoom.us/j/2671685937">fisher@zoom</a> # leonard fejza meeting id 267 168 5937
 2025-04-02 18:00 pvselbst@kaltenbach
 
 2025-04-03 08:30-09:00 <a href="meet.google.com/oti-mxua-ytd">yoni@meet</a>
@@ -9286,7 +9286,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2025-10-14 10:00 dentist connert@uzb # kontrolle
 2025-10-14 13:00-17:00 pvselbst@<a href="/home/jeremy/w/doc/group/klima/pvselbst/2025-10-14_pvs_einsatzplan.pdf">salzert</a>
-2025-10-15 10:00 <a href="https://zoom.us/j/2671685937">fischer@zoom</a> # leonard fejza meeting id 267 168 5937
+2025-10-15 10:00 <a href="https://zoom.us/j/2671685937">fisher@zoom</a> # leonard fejza meeting id 267 168 5937
 
 2025-10-19 10:00 brunch@monigeburi
 2025-10-19 15:00 spiele@monigeburi
@@ -9385,7 +9385,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2025-12-15 08:00 tel bachthaler # ~/w/doc/fin/vb3/todo_vb3.txt
 2025-12-15 15:00 tatjana + juergen
 
-2025-12-16 09:00 <a href="https://zoom.us/j/2671685937">fischer@zoom</a> # leonard fejza meeting id 267 168 5937
+2025-12-16 09:00 <a href="https://zoom.us/j/2671685937">fisher@zoom</a> # leonard fejza meeting id 267 168 5937
 2025-12-16 14:00 <a href="https://www.google.de/maps/place/Manzentalstrasse+9+79541+Loerrach/">alte halle haagen</a>
 
 2025-12-18 09:00-09:20 <a href="https://meet.google.com/ive-retb-rvg">yoni@meet</a>
@@ -9444,7 +9444,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-02-01 moni@frauen
 
 2026-02-02 11:00 huenenberger@fenster
-2026-02-03 11:00 fejza
+2026-02-03 11:00 <a href="https://zoom.us/j/2671685937">fisher@zoom</a> # leonard fejza meeting id 267 168 5937
 2026-02-03 18:45 eisstock@eglisee # gartenbad
 
 2026-02-08 13:00 grit + jochen
@@ -9453,7 +9453,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-02-14 cbl@bsl return
 
-2026-02-17 09:00 <a href="https://zoom.us/j/2671685937">fischer@zoom</a> # leonard fejza meeting id 267 168 5937
+2026-02-17 09:00 <a href="https://zoom.us/j/2671685937">fisher@zoom</a> # leonard fejza meeting id 267 168 5937
 
 2026-02-28 wildhaus begin
 2026-03-07 wildhaus end
