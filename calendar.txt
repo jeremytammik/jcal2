@@ -9445,7 +9445,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-02-02 11:00 huenenberger@fenster
 2026-02-03 11:00 <a href="https://zoom.us/j/2671685937">fisher@zoom</a> # leonard fejza meeting id 267 168 5937
-2026-02-03 18:45 eisstock@eglisee # gartenbad
+2026-02-04 10:00-13:00 matthias schutt
+2026-02-05 18:45 eisstock@eglisee # gartenbad
 
 2026-02-08 13:00 grit + jochen
 
