@@ -9486,8 +9486,10 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-04-12 tel@kiental
 2026-04-12 heilkreis
 
+2026-04-15 devcon@amsterdam
 2026-04-15 lina begin
 2026-04-15 12:25-16:43 <a href="/home/jeremy/x/adsk/expense/receipt/2026/2026-04-15_db_bsl_bonn.pdf">bsl-bonn</a>
+2026-04-16 devcon@amsterdam
 2026-04-19 lina end
 2026-04-20 09:14-13:36 <a href="/home/jeremy/x/adsk/expense/receipt/2026/2026-04-20_db_bonn_bsl.pdf">bonn-bsl</a>
 
