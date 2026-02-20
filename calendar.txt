@@ -9459,7 +9459,6 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-02-14 cbl@bsl return
 
 2026-02-18 09:15-09:40 <a href="https://zoom.us/j/2671685937">fisher@zoom</a> # leonard fejza meeting id 267 168 5937
-2026-02-18 10:00-11:00 <a href="https://scnem2.com/goto.php?l=pduwmt.1htorhp,u=3b08414d9b740cb5493c1659040a8cf1,n=8c1a8.2p08ssj,art_id=8c1a8.2p08ssj">anmeldung fisher videokonferenz</a> 
 2026-02-18 14:00-14:30 <a href="https://zoom.us/j/2671685937">fisher@zoom</a> # leonard fejza meeting id 267 168 5937
 2026-02-19 12:00 maris
 2026-02-20 18:00-19:00 nik@impulsiv
@@ -9467,6 +9466,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-02-28 wildhaus begin
 2026-03-07 wildhaus end
 2026-03-08 heilkreis
+
+2026-03-10 10:00-11:00 <a href="https://zoom.us/j/93248064194">FI7@fisher</a>
 
 2026-03-11 aufenthaltstitel@binningen # laeuft ab 30.3
 2026-03-12 20:00 dav # mitgliederversammlung der sektion, festsaal der albert-schweizer-gemeinschaftsschule in loerrach
