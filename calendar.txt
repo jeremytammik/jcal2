@@ -9464,9 +9464,14 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-02-20 18:00-19:00 nik@impulsiv
 
 2026-03-01 wildhaus begin
+
+2026-03-04 10:30-11:00 <a href="https://teams.microsoft.com/meet/34766506890635?p=7b0NsYGzPS84Og1AgJ">dial@teams</a> # besprechungs-id 347 665 068 906 35 pw xu7kY3MM
+
 2026-03-07 wildhaus end
 2026-03-08 heilkreis
 2026-03-08 09:00 bunterkunt
+
+2026-03-09 10:00 <a href="https://elogistics.dachser.com/shp2s/?search=00359025395000469956&javalocale=de_DE">kratki@dachser</a>
 
 2026-03-10 08:30 huenenberger@fenster
 2026-03-10 10:00-11:00 <a href="https://zoom.us/j/93248064194">FI7@fisher</a>
