@@ -9520,10 +9520,12 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-06-14 heilkreis
 
+2026-07-15 jusoca begin
 2026-07-16 lina hike begin
 2026-07-17 lina
 2026-07-18 lina
 2026-07-19 lina hike end
+2026-07-25 jusoca end
 
 2026-09-10 lina begin
 2026-09-11 lina
