@@ -9484,10 +9484,10 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-03-14 saig
 2026-03-15 saig end
 
-2026-03-20 <a href="https://treffen.wir-im-wandel.org/">wir im wandel</a>
+2026-03-20 17:30 <a href="https://treffen.wir-im-wandel.org/">wir im wandel</a>
 2026-03-21 moni@kita
 2026-03-21 <a href="https://treffen.wir-im-wandel.org/">wir im wandel</a>
-2026-03-22 <a href="https://treffen.wir-im-wandel.org/">wir im wandel</a>
+2026-03-22 14:00 w-i-w end
 
 2026-04-02 moni ferien begin
 2026-04-06 moni ferien end
@@ -9519,6 +9519,11 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-05-31 moni@frauen
 
 2026-06-14 heilkreis
+
+2026-07-16 lina hike begin
+2026-07-17 lina
+2026-07-18 lina
+2026-07-18 lina hike end
 
 2026-09-10 lina begin
 2026-09-11 lina
