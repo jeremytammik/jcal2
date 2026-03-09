@@ -9472,6 +9472,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-03-08 09:00 bunterkunt
 
 2026-03-09 10:00 <a href="https://elogistics.dachser.com/shp2s/?search=00359025395000469956&javalocale=de_DE">kratki@dachser</a>
+2026-03-09 11:00 araceli
 
 2026-03-10 08:30 huenenberger@fenster
 2026-03-10 10:00-11:00 <a href="https://zoom.us/j/93248064194">FI7@fisher</a>
