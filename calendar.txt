@@ -9490,6 +9490,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-03-21 <a href="https://treffen.wir-im-wandel.org/">wir im wandel</a>
 2026-03-22 14:00 w-i-w end
 
+2026-03-25 13:40-14:00 <a href="https://meet.google.com/aic-hbjh-gcm">bimrock@meet</a> # bimrock ai chat with founders quick intro / discovery chat with the founders of bimrock ai
+
 2026-04-01 12:00 camino@ticino depart
 2026-04-02 moni ferien begin
 2026-04-07 moni ferien end
