@@ -9492,6 +9492,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-03-25 13:40-14:00 <a href="https://meet.google.com/aic-hbjh-gcm">bimrock@meet</a> # bimrock ai chat with founders quick intro / discovery chat with the founders of bimrock ai
 
+2026-03-31 17:30 kristina + stephan
 2026-04-01 12:00 camino@ticino depart
 2026-04-02 moni ferien begin
 2026-04-07 moni ferien end
@@ -9512,6 +9513,9 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-04-30 piazzogna begin
 2026-05-04 piazzogna end
+
+2026-05-06 17:00 <a href="https://zauberperlen.ch/>andrea@proviant</a> # spalenvorstadt 36, basel
+2026-05-07 18:00 <a href="https://zauberperlen.ch/>andrea@forum</a> # rathausgasse 1, liestal
 
 2026-05-12 10:00 dentist connert@uzb # kontrolle
 
