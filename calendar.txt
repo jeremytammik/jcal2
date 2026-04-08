@@ -9504,6 +9504,9 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-04-12 heilkreis
 
 2026-04-12 08:00 medo@amsterdam
+2026-04-13 18:40 <a href="/home/jeremy/x/adsk/expense/receipt/2026/2026-04-13_flixbux_bsl_amserdam.pdf">flixbus@sbb</a>
+2026-04-14 <a href="https://cityhub.com/amsterdam/">medo@cityhub</a>
+2026-04-14 20:33-23:38 <a href="/home/jeremy/x/adsk/expense/receipt/2026/2026-04-14_db_amsterdam_koeln.pdf">amsterdam-bsl</a>
 
 2026-04-15 devcon@amsterdam
 2026-04-15 lina begin
