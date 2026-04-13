@@ -9534,6 +9534,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-05-12 10:00 dentist connert@uzb # kontrolle
 
 2026-05-14 moni ferien begin
+2026-05-15 grundsteuer 783 + 1000
 2026-05-18 moni ferien end
 
 2026-05-10 heilkreis
