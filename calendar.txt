@@ -9539,6 +9539,11 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-05-10 heilkreis
 
+2026-05-20 06:00 depart
+2026-05-20 09:10-11:15 bsl-valencia
+2026-05-21 eubim
+2026-05-22 06:00-08:10 valencia-bsl
+
 2026-05-23 markus + nik
 2026-05-24 markus + nik
 2026-05-25 markus + nik
