@@ -1441,7 +1441,6 @@ every friday in year 08:30-10:00 yoga
 2011-05-19 13:00 mwiss
 2011-05-19 17:00 revit api webcast
 
-
 2011-05-24 9:45 mwiss
 2011-05-24 19:00 klaus
 
@@ -4474,7 +4473,7 @@ year 2015
 
 2016-10-23 09:35-13:25 opo-muc # transavia HV9228 Porto - Munique número de reserva J1S7TB Duração de voo 2h50
 
-2016-10-23 19:00-21:00 open floor wave # mohr–villa gewölbesaal, situlistraße 73, 80939 muenchen, in der mohr–villa in muenchen freimann, u6 r garching bis freimann, dann der beschilderung folgen, zu fuß ca. 5 minuten, http://www.moving-awareness.com
+2016-10-23 19:00-21:00 open floor wave # mohr–villa gewölbesaal, situlistraße 73, 80939 muenchen, in der mohr–villa in muenchen freimann, u6 r garching bis freimann, dann der beschilderung folgen, zu fuß ca. 5 minuten, http://www.moving-awareness.com
 
 2016-10-24 altmetall
 
@@ -5112,7 +5111,7 @@ year 2015
 2017-11-09 20:30 tanzimpro@gruett
 
 #2017-11-07 10:20-11:30 fra-yvr # Air Canada AC9101 Frankfurt Terminal 1 Vancouver Main Terminal 10h10m
-#2017-11-09 13:25-16:03 yvr-las # Air Canada AC1898 Vancouver Main Terminal Mccarran Terminal 2h38m 
+#2017-11-09 13:25-16:03 yvr-las # Air Canada AC1898 Vancouver Main Terminal Mccarran Terminal 2h38m 
 
 2017-11-10 10:00 forum@wandelhof
 2017-11-11 10:00 forum@wandelhof
@@ -9542,9 +9541,11 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-05-10 heilkreis
 
 2026-05-20 06:00 depart
-2026-05-20 09:10-11:15 bsl-valencia
+2026-05-20 09:05-11:15 bsl-valencia
+2026-05-20 09:10-11:15 (jt: bsl-valencia)
 2026-05-21 eubim
-2026-05-22 06:00-08:10 valencia-bsl
+2026-05-22 06:00-08:10 (jt: valencia-bsl)
+2026-05-22 08:50-11:00 valencia-bsl
 
 2026-05-23 markus + nik
 2026-05-24 markus + nik
