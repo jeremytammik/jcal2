@@ -5674,4 +5674,8 @@ http://auskunft.kvb-koeln.de
   15min Umstieg
   14:06-14:25 19min RB68 Frankfurt Hbf Gleis 10 nach Wiesloch-Walldorf Darmstadt Hbf Gleis 11
 
+18:02-21:01 Dauer 2 Stunden 59 Minuten  1 Umstieg
+  18:02-19:20 1h 18min ICE 1671 Darmstadt Hbf Gleis 11 nach Karlsruhe Hbf Gleis 4
+  19:26-21:01 1h 35min ICE 75 Karlsruhe Hbf Gleis 1 nach Basel SBB bis Basel Bad Bf Gl. 3
+
 
