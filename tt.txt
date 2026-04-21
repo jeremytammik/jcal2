@@ -5648,19 +5648,6 @@ http://auskunft.kvb-koeln.de
   Basel SBB - Mannheim ZOB - Amsterdam Sloterdijk
 
 2026-04-19 Michaelshoven - Darmstadt
-  10:03-12:25 Dauer 2 Stunden 22 Minuten 4 Umstiege
-  Von: Rodenkirchen Michaelshoven, Köln
-  Nach: Darmstadt Hbf
-  10:03-10:05 2min STR 16 Rodenkirchen Michaelshoven nach Niehl bis Rodenkirchen Bahnhof
-    6min Umstieg
-  10:11-10:21 10min STR 17 Rodenkirchen Bahnhof nach Severinstr Bussteig 2
-    Fußweg 49m, ca. 3min
-  10:31-10:36 5min STR 4 Severinstr Bussteig 3 nach Leverkusen Schlebusch bis Bahnhof Deutz Bussteig 3
-    Fußweg 9min ca. 427m 
-  10:45-11:51 1h 6min ICE 623 Köln Messe/Deutz Gleis 11 nach München Hbf Frankfurt Hbf Gleis 8
-  15min Umstieg
-  12:06-12:25 19min RB68 Frankfurt Hbf Gleis 10 nach Wiesloch-Walldorf Darmstadt Hbf Gleis 11
-
   12:03-14:25 Dauer 2 Stunden 22 Minuten 4 Umstiege
   Von: Rodenkirchen Michaelshoven, Köln
   Nach: Darmstadt Hbf
@@ -5673,10 +5660,12 @@ http://auskunft.kvb-koeln.de
   12:45-13:51 1h 6min ICE 627 Köln Messe/Deutz Gleis 11 nach München Hbf Frankfurt Hbf Gleis 8
   15min Umstieg
   14:06-14:25 19min RB68 Frankfurt Hbf Gleis 10 nach Wiesloch-Walldorf Darmstadt Hbf Gleis 11
-
-18:02-21:01 Dauer 2 Stunden 59 Minuten  1 Umstieg
+  ----
+  18:02-21:01 Dauer 2 Stunden 59 Minuten  1 Umstieg
   18:02-19:20 1h 18min ICE 1671 Darmstadt Hbf Gleis 11 nach Karlsruhe Hbf Gleis 4
   19:26-21:01 1h 35min ICE 75 Karlsruhe Hbf Gleis 1 nach Basel SBB bis Basel Bad Bf Gl. 3
+  ----
+  ~/x/adsk/expense/receipt/2026/2026-04-20_db_bonn_bsl.pdf
+  ~/x/adsk/expense/receipt/2026/2026-04-20_db_bonn_bsl_x.pdf
 
-~/x/adsk/expense/receipt/2026/2026-04-20_db_bonn_bsl_x.pdf
 
