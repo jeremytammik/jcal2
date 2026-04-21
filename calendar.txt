@@ -9562,11 +9562,15 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-06-14 heilkreis
 
+2026-07-04 piazzogna begin
+2026-07-11 piazzogna end
+
 2026-07-15 jusoca begin
 2026-07-15 lina hike begin # capanna mitaresci
 2026-07-16 lina # terrihütte
 2026-07-17 lina # capanna scaletti
 2026-07-18 lina hike end
+2026-07-18 moni@jusoca
 2026-07-25 jusoca end
 
 2026-09-10 lina begin
