@@ -9565,7 +9565,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-06-14 heilkreis
 
-2026-06-25 08:30 deoart
+2026-06-25 08:30 depart
 2026-06-25 09:00 rolf + ingrid
 2026-06-25 10:30 tramelan
 
