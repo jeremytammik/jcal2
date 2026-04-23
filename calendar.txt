@@ -9551,11 +9551,14 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-05-10 heilkreis
 
 2026-05-20 06:00 depart
-2026-05-20 09:05-11:15 bsl-valencia
+2026-05-20 08:35 gate close
+2026-05-20 09:05-11:15 <a href="/home/jeremy/w/doc/trip/valencia/2026-05-20_easyjet_bsl_vlc.pdf">bsl-valencia</a>
 2026-05-20 09:10-11:15 (jt: bsl-valencia)
+2026-05-20 <a href="/home/jeremy/w/doc/trip/valencia/2026-05-20_hotel_silken.pdf">hotel silken</a>
 2026-05-21 eubim
 2026-05-22 06:00-08:10 (jt: valencia-bsl)
-2026-05-22 08:50-11:00 valencia-bsl
+2026-05-22 08:20 gate close
+2026-05-22 08:50-11:00 <a href="/home/jeremy/w/doc/trip/valencia/2026-05-20_easyjet_bsl_vlc.pdf">valencia-bsl</a>
 
 2026-05-23 markus + nik
 2026-05-24 markus + nik
