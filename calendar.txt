@@ -9570,7 +9570,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-06-25 08:30 depart
 2026-06-25 09:00 rolf + ingrid
-2026-06-25 10:30 tramelan
+2026-06-25 10:45 tramelan
 
 2026-07-04 piazzogna begin
 2026-07-11 piazzogna end
