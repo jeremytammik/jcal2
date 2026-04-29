@@ -9542,13 +9542,15 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-05-06 17:00 <a href="https://zauberperlen.ch">andrea@proviant</a> # spalenvorstadt 36, basel
 2026-05-07 18:00 <a href="https://zauberperlen.ch">andrea@forum</a> # rathausgasse 1, liestal
 
+2026-05-09 nik@hike?
+2026-05-10 heilkreis
+
 2026-05-12 10:00 dentist connert@uzb # kontrolle
+2026-05-12 23:00 <a href="https://www.worldtimebuddy.com/?qm=1&lid=2174003,360630,2657896,8&h=2174003&date=2026-5-13&sln=7-8&hf=1">qlh@meet</a>
 
 2026-05-14 moni ferien begin
 2026-05-15 grundsteuer 783 + 1000
 2026-05-18 moni ferien end
-
-2026-05-10 heilkreis
 
 2026-05-20 06:00 depart
 2026-05-20 08:35 gate close
