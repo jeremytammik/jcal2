@@ -5668,4 +5668,43 @@ http://auskunft.kvb-koeln.de
   ~/x/adsk/expense/receipt/2026/2026-04-20_db_bonn_bsl.pdf
   ~/x/adsk/expense/receipt/2026/2026-04-20_db_bonn_bsl_x.pdf
 
+2026-05-09 sbb-thann-le markstein grand ballon:
 
+09:21
+Basel Sbb
+Durée du trajet 22 min
+Train TER Train T E Rn° 96218
+09:43
+Mulhouse
+Correspondance Durée du trajet 7 min
+09:50
+Mulhouse Gare Centrale
+Durée du trajet 40 min
+Train TER Train T E Rn° 832618
+10:30
+Thann
+
+Connection from Basel SBB to Thann
+Sa. 09.05.2026,
+Travel time 1 Hour 39 Minutes
+Departure:  09:21
+Arrival:  11:00
+
+Basel SBB
+Departure from: 09:21 in Basel SBB on Platform 31 with TRAIN TER Direction Strasbourg
+Arrival at: 09:43 in Mulhouse 
+Departure 09:21
+Basel SBBBasel SBB
+Platform Platform 31
+TRAIN TER 96218 
+Direction Strasbourg
+Arrival 09:43
+Mulhouse
+10'min Walking route
+Departure from: 10:20 in Mulhouse Gare Centrale on Stop with TRAMWAY T Direction Thann Saint-Jacques
+Arrival at: 11:00 in Thann 
+Departure 10:20
+Mulhouse Gare Centrale
+TRAMWAY T Direction Thann Saint-Jacques
+Arrival 11:00
+Thann
