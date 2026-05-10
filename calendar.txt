@@ -9605,6 +9605,10 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-11-21 tel@tramelan
 2026-11-22 tel@tramelan
 
+2027-03-05 saig begin # hagara feinbier
+2027-03-06 saig
+2027-03-07 saig
+
 #
 # regular events in the evening
 #
