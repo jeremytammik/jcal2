@@ -9538,9 +9538,9 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-04-30 15:00 waedel@walpurgis
 2026-05-01 linach
 
-2026-05-06 17:00 <a href="https://zauberperlen.ch">andrea@proviant</a> # spalenvorstadt 36, basel
+#2026-05-06 17:00 <a href="https://zauberperlen.ch">andrea@proviant</a> # spalenvorstadt 36, basel
 2026-05-07 09:45-10:45 mrt@liestal
-2026-05-07 18:00 <a href="https://zauberperlen.ch">andrea@forum</a> # rathausgasse 1, liestal
+#2026-05-07 18:00 <a href="https://zauberperlen.ch">andrea@forum</a> # rathausgasse 1, liestal
 
 2026-05-09 nik@hike
 2026-05-10 heilkreis
