@@ -93,6 +93,8 @@ pcal -f $DIR/tmp/calendar -H $YEAR | sed -f $F > $DIR/out/$YEAR.htm
 
 echo $DIR/out/$YEAR.htm
 
+source jhtmlmime
+
 #open -a Firefox.app $DIR/$YEAR.htm
 
 #open $DIR/out/$YEAR.htm
