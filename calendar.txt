@@ -9556,6 +9556,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-05-14 moni ferien begin
 2026-05-14 13:00 anja + joachim
 2026-05-15 grundsteuer 783 + 1000
+2026-05-15 19:30 spargel@matthias]
 2026-05-17 18:00 real + huebl
 2026-05-18 12:00-14:45 walk+fika@stefanie
 2026-05-18 moni ferien end
