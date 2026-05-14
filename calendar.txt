@@ -9557,7 +9557,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-05-14 13:00 anja + joachim
 2026-05-15 grundsteuer 783 + 1000
 2026-05-15 19:30 spargel@matthias
-2026-05-17 18:00 real + huebl
+2026-05-17 18:00 <a href="https://youtu.be/3IaltdZB_do">real + huebl</a> (<a href="/home/jeremy/w/doc/group/tel/2026-04-23_relationship_spritual_practice.txt">de</a>) # Relationship as a Spiritual Practice: Terry Real in Conversation with Thomas Hübl 
+
 2026-05-18 12:00-14:45 walk+fika@stefanie
 2026-05-18 moni ferien end
 
