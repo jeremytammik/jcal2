@@ -5716,3 +5716,25 @@ http://auskunft.kvb-koeln.de
   Carrer de Colón, 42
   L'Eixample, 46004 València, Spain
 
+2026-05-22 silken-vlc:
+  5:41 AM
+  Silken Puerta Valencia
+  Avinguda del Cardenal Benlloch, 28, Camins al Grau, 46021 València, Valencia
+  Walk About 10 min, 650 m
+  5:51 AM
+  Aragó
+  Subway 5 Aeroport
+  26 min (14 stops)
+  6:17 AM
+  Aeroport
+  ---
+  6:11 AM
+  Silken Puerta Valencia
+  Avinguda del Cardenal Benlloch, 28, Camins al Grau, 46021 València, Valencia
+  Walk About 10 min, 650 m
+  6:21 AM
+  Aragó
+  Subway 5 Aeroport
+  26 min (14 stops)
+  6:47 AM
+  Aeroport
