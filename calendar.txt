@@ -9588,7 +9588,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-05-31 moni@frauen
 2026-05-31 bl tax deadline
 
-2026-06-01 11:00 martin@zoom
+2026-06-01 11:00 <a href="https://us04web.zoom.us/j/78627333924?pwd=Gucl2DabpWRzjP2qrF2CINxXtVEgWk.1">martin@zoom</a>
 
 2026-06-12 20:00 <a href="https://nellie-nashorn.de/wp/2026-2/06-2026/poetryslam-12-06-26/">poetryslam@nellie</a>
 2026-06-14 heilkreis
