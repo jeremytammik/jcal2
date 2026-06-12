@@ -9595,14 +9595,11 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-06-09 16:30-17:30 <a href="https://meet.google.com/fgv-inki-zrq">ian arden adaia@meet</a>
 
-2026-06-10 20:00 frauen@bafudi
+2026-06-10 20:30 frauen@bafudi
 
 2026-06-11 03:00-04:00 bca@teams
 
-# https://teams.microsoft.com/v2/?meetingjoin=true#/l/meetup-join/19:meeting_ZThiYTMwMTgtM2Q2Yi00MzhkLWIxOWUtMmRlYjhiMzYxZjU1@thread.v2/0?context=%7b%22Tid%22%3a%220b11c524-9a1c-4e1b-84cb-6336aefc2243%22%2c%22Oid%22%3a%22124e735c-bc5c-4846-b5e9-606d59d01b90%22%7d">bca@teams</a>
-# https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZThiYTMwMTgtM2Q2Yi00MzhkLWIxOWUtMmRlYjhiMzYxZjU1%40thread.v2/0?context=%7b%22Tid%22%3a%220b11c524-9a1c-4e1b-84cb-6336aefc2243%22%2c%22Oid%22%3a%22124e735c-bc5c-4846-b5e9-606d59d01b90%22%7d
-# https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZThiYTMwMTgtM2Q2Yi00MzhkLWIxOWUtMmRlYjhiMzYxZjU1%40thread.v2/0?context=%7b%22Tid%22%3a%220b11c524-9a1c-4e1b-84cb-6336aefc2243%22%2c%22Oid%22%3a%22124e735c-bc5c-4846-b5e9-606d59d01b90%22%7dmeetingjoin=true
-# https://teams.microsoft.com/light-meetings/launch?context=%7B%22Tid%22%3A%220b11c524-9a1c-4e1b-84cb-6336aefc2243%22%2C%22Oid%22%3A%22124e735c-bc5c-4846-b5e9-606d59d01b90%22%7D&anon=true&launchAgent=join_launcher_web&lightExperience=true&correlationId=34191503-1ceb-4c6f-b52f-c35f01ea8b6e&agent=web&coords=eyJjb252ZXJzYXRpb25JZCI6IjE5Om1lZXRpbmdfWlRoaVlUTXdNVGd0TTJRMllpMDBNemhrTFdJeE9XVXRNbVJsWWpoaU16WXhaalUxQHRocmVhZC52MiIsInRlbmFudElkIjoiMGIxMWM1MjQtOWExYy00ZTFiLTg0Y2ItNjMzNmFlZmMyMjQzIiwib3JnYW5pemVySWQiOiIxMjRlNzM1Yy1iYzVjLTQ4NDYtYjVlOS02MDZkNTlkMDFiOTAiLCJtZXNzYWdlSWQiOiIwIn0%3D&deeplinkId=e1d241d8-621a-427d-b84f-f7a0a5070a3b
+2026-06-12 16:00-17:00 <a href="https://meet.google.com/hnm-uicu-wqt">henderson@meet</a>
 
 2026-06-12 20:00 <a href="https://nellie-nashorn.de/wp/2026-2/06-2026/poetryslam-12-06-26/">poetryslam@nellie</a>
 2026-06-14 heilkreis
