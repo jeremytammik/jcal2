@@ -9642,17 +9642,28 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-08-07 berlin end?
 2026-08-08 gartenfest@andrea
 
+2026-08-16 frauengruppe
+
 2026-09-10 lina begin
 2026-09-11 lina
+2026-09-11 frauen@hotzenwald begin
 2026-09-12 lina
 2026-09-13 lina
+2026-09-13 frauen@hotzenwald end
 2026-09-14 lina end
+
+2026-10-25 frauengruppe
+
+2026-11-01 heilkreis
 
 2026-11-10 10:30 dentist connert@uzb # kontrolle
 
 2026-11-20 tel@tramelan
 2026-11-21 tel@tramelan
 2026-11-22 tel@tramelan
+
+2026-12-05 heilkreis@h30
+2026-12-06 heilkreis@h30
 
 2027-03-05 saig begin # hagara feinbier
 2027-03-06 saig
