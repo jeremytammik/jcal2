@@ -9669,6 +9669,15 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2027-03-06 saig
 2027-03-07 saig
 
+2027-04-02 paargruppe@kiental
+2027-04-03 paargruppe@kiental
+2027-04-04 paargruppe@kiental
+
+2027-05-17 korsika travel begin
+2027-05-19 korsika begin
+2027-05-25 korsika end
+2027-05-30 korsika travel end
+
 #
 # regular events in the evening
 #
