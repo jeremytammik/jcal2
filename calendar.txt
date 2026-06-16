@@ -9609,6 +9609,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-06-17 08:30 rupert@gruett
 2026-06-17 09:15-15:00 dav@hike
 2026-06-17 15:00-17:00 dav@chill
+2026-06-17 18:00 pvselbst@kaltenbach
 
 2026-06-22 diavolo klettersteig
 2026-06-23 18:00 alpinversand@dav
