@@ -9612,6 +9612,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-06-17 18:00 pvselbst@kaltenbach
 2026-06-17 20:30 medo@meet
 
+2026-06-21 10:45 depart
+2026-06-21 11:38 bsl-grindel
 2026-06-22 07:00 abfahrt # Park und Ride Parkplatz Lörrach Messe
 2026-06-22 diavolo klettersteig
 2026-06-23 18:00 alpinversand@dav
@@ -9624,6 +9626,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-06-25 09:00 rolf + ingrid
 2026-06-25 10:45 tramelan
 2026-06-25 18:00 1 jahr polysport @ gruett
+
+2026-06-26 09:30 bachthaler@tel # vb3 festnetz
 
 2026-07-01 ramy return
 2026-07-03 <a href="https://www.dav-loerrach.de/touren-und-kursprogramm/chronologische-uebersicht/">klettern</a> &gt; T466 # Großes Alpinkletterwochenende (T466)
