@@ -9619,7 +9619,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-06-23 18:00 alpinversand@dav
 
 2026-06-24 08:00-10:00 erik frits
-2026-06-24 16:00-17:00 <a href="https://meet.google.com/tfc-yucn-bqp">aaron henderson@meet</a> # <a href="https://www.worldtimebuddy.com/?qm=1&lid=12,6,2643743&h=12&date=2026-6-24&sln=16-16.5&hf=1">9am cdt</a> 
+2026-06-24 15:30-16:30 <a href="https://meet.google.com/tfc-yucn-bqp">aaron henderson@meet</a> # <a href="https://www.worldtimebuddy.com/?qm=1&lid=12,6,2643743&h=12&date=2026-6-24&sln=16-16.5&hf=1">9am cdt</a> 
 2026-06-24 19:00 vorbesprechung klettern
 
 #2026-06-25 08:30 depart
@@ -9629,6 +9629,9 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-06-25 18:00 1 jahr polysport @ gruett
 
 2026-06-26 09:30 bachthaler@tel # vb3 festnetz
+
+2026-06-27 18:00 nicole + falk@rhyy
+2026-06-27 19:30 apero@nicole
 
 2026-06-30 19:00-21:30 party@heiner
 
