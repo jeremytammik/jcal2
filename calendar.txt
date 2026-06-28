@@ -9659,7 +9659,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-07-30 15:00 <a href="https://www.sobawi.org/sommertreffen2026/">sobawi@berlin</a> begin
 2026-07-31 moni ferien end
 2026-08-02 moni berlin end
-2026-08-02 12:00 sobawi end
+2026-08-02 14:37-21:36 <a href="/home/jeremy/x/adsk/expense/receipt/2026/2026-08-02_db_berlin_bsl_moni.pdf">berlin-bsl moni</a>2026-08-02 12:00 sobawi end
 
 2026-08-07 berlin end?
 2026-08-08 gartenfest@andrea
