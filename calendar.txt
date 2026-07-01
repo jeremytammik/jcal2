@@ -9635,7 +9635,6 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-06-30 19:00-21:30 party@heiner
 
-2026-07-01 ramy return
 2026-07-02 10:00 bachthaler@vb3
 2026-07-02 18:00 <a href="https://teams.microsoft.com/meet/344308857630067?p=axgSad6KpKkuxnvKl7">joan@teams</a>
 2026-07-03 06:00 mikha@bsl bad bhf
@@ -9644,6 +9643,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-07-04 klettern
 2026-07-05 klettern
 2026-07-05 piazzogna begin
+2026-07-06 gisela + albert
+2026-07-08 dani + paolo
 2026-07-10 piazzogna end
 2026-07-11 17:30 anja+joachim@staufen
 2026-07-15 jusoca begin
