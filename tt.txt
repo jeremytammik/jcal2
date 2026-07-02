@@ -5741,72 +5741,40 @@ http://auskunft.kvb-koeln.de
 
 2026-07-04 seewenhuette-piazzogna
 
-Wassen, Dorf
-Piazzogna, Paese
-Connection from Wassen, Dorf to Piazzogna, Paese
-Su. 05.07.2026,
-Travel time 2 h 44 min
-Departure:  16:53
-5 changes
-Arrival:  19:37
-    Wassen, Dorf
-    1. Partial route Wassen, Dorf to Altdorf UR, Kollegium
-    Departure from: 16:53 in Wassen, Dorf on Stop A with BUS B 401 Direction Flüelen, Gruonbach, Arrival at: 17:37 in Altdorf UR, Kollegium on Stop A , 
-    Stop Stop A
-    BUS B401
-    Direction Flüelen, Gruonbach
-    Arrival 17:37
-    Altdorf UR, Kollegium
-    Stop Stop A
-    2. Partial route Altdorf UR, Kollegium to Altdorf UR, Bahnhof Ost
-    Departure from: 17:52 in Altdorf UR, Kollegium on Stop A with BUS B 412 Direction Seedorf UR, Schloss A Pro, Arrival at: 18:02 in Altdorf UR, Bahnhof Ost on Stop A , 
+Wassen, Dorf > Piazzogna, Paese, Su. 05.07.2026, 16:53-19:37, 2 h 44 min, 5 changes
 
-     Altdorf UR, KollegiumAltdorf UR, Kollegium
-    Stop Stop A
-    BUS B412
-    Direction Seedorf UR, Schloss A Pro
-    Arrival 18:02
-    Altdorf UR, Bahnhof Ost
- 
-    3. Partial route Altdorf UR to Bellinzona
-    Departure from: 18:08 in Altdorf UR on Platform 1 with TRAIN ic-2 Direction Lugano, Arrival at: 18:42 in Bellinzona on Platform 3 , 
-     Altdorf URAltdorf UR
-    Platform Platform 1
-    TRAIN 
-    IC 2 881 
-    Direction Lugano
-    Arrival 18:42
-    Bellinzona
-    Platform Platform 3
+1. Partial route Wassen, Dorf to Altdorf UR, Kollegium
+Departure from: 16:53 in Wassen, Dorf on Stop A with BUS B 401 Direction Flüelen, Gruonbach, Arrival at: 17:37 in Altdorf UR, Kollegium
 
-    4. Partial route Bellinzona to Cadenazzo
-    Departure from: 18:49 in Bellinzona on Platform 3 with TRAIN S 20 Direction Locarno, Arrival at: 18:59 in Cadenazzo on Platform 2 , 1st class. Low to average occupancy expected 2nd class. Low to average occupancy expected Travelhints: Info Velo/bici: www.tilo.ch/bici 
-    Departure 18:49
-    Departure 18:49
-     BellinzonaBellinzona
-    Platform Platform 3
-    TRAIN 
-    S 20 25673 
-    Direction Locarno
-    Arrival 18:59
-    Cadenazzo
-    Platform Platform 2
+2. Partial route Altdorf UR, Kollegium to Altdorf UR, Bahnhof Ost
+Departure from: 17:52 in Altdorf UR, Kollegium on Stop A with BUS B 412 Direction Seedorf UR, Schloss A Pro, Arrival at: 18:02 in Altdorf UR, Bahnhof Ost
 
-    5. Partial route Cadenazzo, Stazione to Magadino-Vira, Stazione
-    Departure from: 19:06 in Cadenazzo, Stazione on Stop with BUS B 350 Direction Dirinella, Confine, Arrival at: 19:22 in Magadino-Vira, Stazione on Stop , 
-     Cadenazzo, StazioneCadenazzo, Stazione
-    BUS B350
-    Direction Dirinella, Confine
-    Arrival 19:22
-    Magadino-Vira, Stazione
+3. Partial route Altdorf UR to Bellinzona    
+Departure from: 18:08 in Altdorf UR on Platform 1 with TRAIN IC 2 881 Direction Lugano, Arrival at: 18:42 in Bellinzona on Platform 3
 
+4. Partial route Bellinzona to Cadenazzo
+Departure from: 18:49 in Bellinzona on Platform 3 with TRAIN S 20 Direction Locarno, Arrival at: 18:59 in Cadenazzo on Platform 2
 
-    6. Partial route Magadino-Vira, Stazione to Piazzogna, Paese
-    Departure from: 19:31 in Magadino-Vira, Stazione on Stop with BUS B 330 Direction Gerra (Gambarogno), Stazione, Arrival at: 19:37 in Piazzogna, Paese 
-     Magadino-Vira, StazioneMagadino-Vira, Stazione
-    BUS B330
-    Direction Gerra (Gambarogno), Stazione
-    Arrival 19:37
-    Piazzogna, Paese
+5. Partial route Cadenazzo, Stazione to Magadino-Vira, Stazione
+Departure from: 19:06 in Cadenazzo, Stazione on Stop with BUS B 350 Direction Dirinella, Confine, Arrival at: 19:22 in Magadino-Vira, Stazione on Stop
 
+6. Partial route Magadino-Vira, Stazione to Piazzogna, Paese
+Departure from: 19:31 in Magadino-Vira, Stazione on Stop with BUS B 330 Direction Gerra (Gambarogno), Stazione, Arrival at: 19:37 in Piazzogna, Paese 
+
+Wassen, Dorf > Vira (Gambarogno), La Riva, Su. 05.07.2026, 18:53-21:24, 2 h 31 min, 4 changes
+
+1. Partial route Wassen, Dorf to Altdorf UR, Kollegium
+Departure from: 18:53 in Wassen, Dorf on Stop A with BUS B 401 Direction Flüelen, Gruonbach, Arrival at: 19:37 in Altdorf UR, Kollegium on Stop A , 
+
+2. Partial route Altdorf UR, Kollegium to Altdorf UR, Bahnhof Ost
+Departure from: 19:52 in Altdorf UR, Kollegium on Stop A with BUS B 412 Direction Attinghausen, Seilbahn, Arrival at: 20:02 in Altdorf UR, Bahnhof Ost on Stop A
+
+3. Partial route Altdorf UR to Bellinzona
+Departure from: 20:08 in Altdorf UR on Platform 1 with TRAIN IC 2 885 Direction Lugano, Arrival at: 20:42 in Bellinzona on Platform 3
+
+4. Partial route Bellinzona to Cadenazzo
+Departure from: 20:49 in Bellinzona on Platform 3 with TRAIN S 20 Direction Locarno, Arrival at: 20:59 in Cadenazzo on Platform 2
+
+5. Partial route Cadenazzo, Stazione to Vira (Gambarogno), La Riva
+Departure from: 21:06 in Cadenazzo, Stazione on Stop with BUS B 350 Direction Dirinella, Confine, Arrival at: 21:24 in Vira (Gambarogno), La Riva on Stop
 
