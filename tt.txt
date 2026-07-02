@@ -5738,3 +5738,75 @@ http://auskunft.kvb-koeln.de
   26 min (14 stops)
   6:47 AM
   Aeroport
+
+2026-07-04 seewenhuette-piazzogna
+
+Wassen, Dorf
+Piazzogna, Paese
+Connection from Wassen, Dorf to Piazzogna, Paese
+Su. 05.07.2026,
+Travel time 2 h 44 min
+Departure:  16:53
+5 changes
+Arrival:  19:37
+    Wassen, Dorf
+    1. Partial route Wassen, Dorf to Altdorf UR, Kollegium
+    Departure from: 16:53 in Wassen, Dorf on Stop A with BUS B 401 Direction Flüelen, Gruonbach, Arrival at: 17:37 in Altdorf UR, Kollegium on Stop A , 
+    Stop Stop A
+    BUS B401
+    Direction Flüelen, Gruonbach
+    Arrival 17:37
+    Altdorf UR, Kollegium
+    Stop Stop A
+    2. Partial route Altdorf UR, Kollegium to Altdorf UR, Bahnhof Ost
+    Departure from: 17:52 in Altdorf UR, Kollegium on Stop A with BUS B 412 Direction Seedorf UR, Schloss A Pro, Arrival at: 18:02 in Altdorf UR, Bahnhof Ost on Stop A , 
+
+     Altdorf UR, KollegiumAltdorf UR, Kollegium
+    Stop Stop A
+    BUS B412
+    Direction Seedorf UR, Schloss A Pro
+    Arrival 18:02
+    Altdorf UR, Bahnhof Ost
+ 
+    3. Partial route Altdorf UR to Bellinzona
+    Departure from: 18:08 in Altdorf UR on Platform 1 with TRAIN ic-2 Direction Lugano, Arrival at: 18:42 in Bellinzona on Platform 3 , 
+     Altdorf URAltdorf UR
+    Platform Platform 1
+    TRAIN 
+    IC 2 881 
+    Direction Lugano
+    Arrival 18:42
+    Bellinzona
+    Platform Platform 3
+
+    4. Partial route Bellinzona to Cadenazzo
+    Departure from: 18:49 in Bellinzona on Platform 3 with TRAIN S 20 Direction Locarno, Arrival at: 18:59 in Cadenazzo on Platform 2 , 1st class. Low to average occupancy expected 2nd class. Low to average occupancy expected Travelhints: Info Velo/bici: www.tilo.ch/bici 
+    Departure 18:49
+    Departure 18:49
+     BellinzonaBellinzona
+    Platform Platform 3
+    TRAIN 
+    S 20 25673 
+    Direction Locarno
+    Arrival 18:59
+    Cadenazzo
+    Platform Platform 2
+
+    5. Partial route Cadenazzo, Stazione to Magadino-Vira, Stazione
+    Departure from: 19:06 in Cadenazzo, Stazione on Stop with BUS B 350 Direction Dirinella, Confine, Arrival at: 19:22 in Magadino-Vira, Stazione on Stop , 
+     Cadenazzo, StazioneCadenazzo, Stazione
+    BUS B350
+    Direction Dirinella, Confine
+    Arrival 19:22
+    Magadino-Vira, Stazione
+
+
+    6. Partial route Magadino-Vira, Stazione to Piazzogna, Paese
+    Departure from: 19:31 in Magadino-Vira, Stazione on Stop with BUS B 330 Direction Gerra (Gambarogno), Stazione, Arrival at: 19:37 in Piazzogna, Paese 
+     Magadino-Vira, StazioneMagadino-Vira, Stazione
+    BUS B330
+    Direction Gerra (Gambarogno), Stazione
+    Arrival 19:37
+    Piazzogna, Paese
+
+
