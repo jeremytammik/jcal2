@@ -9708,6 +9708,10 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2027-05-25 korsika end
 2027-05-30 korsika travel end
 
+2027-11-19 telpaare@kientalerhof
+2027-11-20 telpaare@kientalerhof
+2027-11-21 telpaare@kientalerhof
+
 #
 # regular events in the evening
 #
