@@ -9648,6 +9648,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-07-08 dani + paolo
 2026-07-10 piazzogna end
 2026-07-11 17:30 anja+joachim@staufen
+2026-07-14 20:57 lina@loehbf
 2026-07-15 jusoca begin
 2026-07-15 lina hike begin # capanna mitaresci
 2026-07-16 lina # terrihütte
