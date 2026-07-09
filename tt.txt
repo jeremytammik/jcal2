@@ -5740,41 +5740,9 @@ http://auskunft.kvb-koeln.de
   Aeroport
 
 2026-07-04 seewenhuette-piazzogna
+  a: Wassen, Dorf > Piazzogna, Paese, Su. 05.07.2026, 16:53-19:37, 2 h 44 min, 5 changes
+  b: Wassen, Dorf > Vira (Gambarogno), La Riva, Su. 05.07.2026, 18:53-21:24, 2 h 31 min, 4 changes
 
-Wassen, Dorf > Piazzogna, Paese, Su. 05.07.2026, 16:53-19:37, 2 h 44 min, 5 changes
-
-1. Partial route Wassen, Dorf to Altdorf UR, Kollegium
-Departure from: 16:53 in Wassen, Dorf on Stop A with BUS B 401 Direction Flüelen, Gruonbach, Arrival at: 17:37 in Altdorf UR, Kollegium
-
-2. Partial route Altdorf UR, Kollegium to Altdorf UR, Bahnhof Ost
-Departure from: 17:52 in Altdorf UR, Kollegium on Stop A with BUS B 412 Direction Seedorf UR, Schloss A Pro, Arrival at: 18:02 in Altdorf UR, Bahnhof Ost
-
-3. Partial route Altdorf UR to Bellinzona    
-Departure from: 18:08 in Altdorf UR on Platform 1 with TRAIN IC 2 881 Direction Lugano, Arrival at: 18:42 in Bellinzona on Platform 3
-
-4. Partial route Bellinzona to Cadenazzo
-Departure from: 18:49 in Bellinzona on Platform 3 with TRAIN S 20 Direction Locarno, Arrival at: 18:59 in Cadenazzo on Platform 2
-
-5. Partial route Cadenazzo, Stazione to Magadino-Vira, Stazione
-Departure from: 19:06 in Cadenazzo, Stazione on Stop with BUS B 350 Direction Dirinella, Confine, Arrival at: 19:22 in Magadino-Vira, Stazione on Stop
-
-6. Partial route Magadino-Vira, Stazione to Piazzogna, Paese
-Departure from: 19:31 in Magadino-Vira, Stazione on Stop with BUS B 330 Direction Gerra (Gambarogno), Stazione, Arrival at: 19:37 in Piazzogna, Paese 
-
-Wassen, Dorf > Vira (Gambarogno), La Riva, Su. 05.07.2026, 18:53-21:24, 2 h 31 min, 4 changes
-
-1. Partial route Wassen, Dorf to Altdorf UR, Kollegium
-Departure from: 18:53 in Wassen, Dorf on Stop A with BUS B 401 Direction Flüelen, Gruonbach, Arrival at: 19:37 in Altdorf UR, Kollegium on Stop A , 
-
-2. Partial route Altdorf UR, Kollegium to Altdorf UR, Bahnhof Ost
-Departure from: 19:52 in Altdorf UR, Kollegium on Stop A with BUS B 412 Direction Attinghausen, Seilbahn, Arrival at: 20:02 in Altdorf UR, Bahnhof Ost on Stop A
-
-3. Partial route Altdorf UR to Bellinzona
-Departure from: 20:08 in Altdorf UR on Platform 1 with TRAIN IC 2 885 Direction Lugano, Arrival at: 20:42 in Bellinzona on Platform 3
-
-4. Partial route Bellinzona to Cadenazzo
-Departure from: 20:49 in Bellinzona on Platform 3 with TRAIN S 20 Direction Locarno, Arrival at: 20:59 in Cadenazzo on Platform 2
-
-5. Partial route Cadenazzo, Stazione to Vira (Gambarogno), La Riva
-Departure from: 21:06 in Cadenazzo, Stazione on Stop with BUS B 350 Direction Dirinella, Confine, Arrival at: 21:24 in Vira (Gambarogno), La Riva on Stop
+2026-07-18 capanna scaletta - bad krozingen
+  ~/w/doc/people/lina_tammik/2026-07-18_sbb_olivone_bad_krozingen.pdf
 
