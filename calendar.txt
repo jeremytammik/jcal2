@@ -9650,7 +9650,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-07-11 17:30 anja+joachim@staufen
 2026-07-14 20:57 lina@loehbf
 2026-07-15 jusoca begin
-2026-07-15 lina@capanna mottarescio
+2026-07-15 <a href="https://capannamotterascio.casticino.ch/">lina@capanna motterascio</a>
 2026-07-16 lina@terrihütte
 2026-07-17 lina@capanna scaletta
 2026-07-18 lina hike end
