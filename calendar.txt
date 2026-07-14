@@ -9652,6 +9652,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-07-15 jusoca begin
 2026-07-15 <a href="">lina hike</a> begin
 2026-07-15 07:02-11:07 <a href="/home/jeremy/x/adsk/expense/receipt/2026/2026-07-15_loe_biasca.pdf">loe-biasca</a>
+2026-07-15 07:43 sbb gl 10 IR 2261 to zrh
 2026-07-15 11:11-12:41 <a href="/home/jeremy/x/adsk/expense/receipt/2026/2026-07-15_biasca_ghirone.pdf">biasca-ghirone</a>
 2026-07-15 <a href="https://capannamotterascio.casticino.ch/">capanna motterascio</a>
 2026-07-16 terrihuette
