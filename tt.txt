@@ -5745,4 +5745,6 @@ http://auskunft.kvb-koeln.de
 
 2026-07-18 capanna scaletta - bad krozingen
   ~/w/doc/people/lina_tammik/2026-07-18_sbb_olivone_bad_krozingen.pdf
+  Basel SBB --> Ghirone, Aquilesco Via Zürich HB, Bellinzona, Biasca 
+  We. 15.07.2026, 07:53 - 11:58, 4 h 15 min, chf 51.20
 
