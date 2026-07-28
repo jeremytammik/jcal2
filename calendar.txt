@@ -9685,6 +9685,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-08-18 09:30 luers@weil
 
 2026-08-22 20:00 maris@h30 begin
+2026-08-23 18:30-20:30 mantrasingen@h30
 2026-08-25 07:00 maris@h30 end
 
 2026-09-05 pay sbb halbtax
