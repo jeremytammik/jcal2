@@ -5748,3 +5748,6 @@ http://auskunft.kvb-koeln.de
   Basel SBB --> Ghirone, Aquilesco Via Zürich HB, Bellinzona, Biasca 
   We. 15.07.2026, 07:53 - 11:58, 4 h 15 min, chf 51.20
 
+2026-07-28 bsl-berlin
+  12:42-19:41 ICE 370 6h 59min
+
