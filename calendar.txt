@@ -9677,7 +9677,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-08-05 10:00-10:30 <a href="https://zoom.us/j/2671685937">fisher@zoom</a> # leonard fejza meeting id 267 168 5937
 2026-08-06 00:00-01:00 <a href="https://meet.google.com/irn-vdnx-dvf">qlh@meet</a>
 2026-08-06 15:27-22:39 <a href="/home/jeremy/x/adsk/expense/receipt/2026/2026-08-06_db_berlin_bsl.pdf">berlin-bsl</a>
-2026-08-07 berlin end?
+2026-08-06 16:00-20:01 ICE 1139 berlin-ffm
+2026-08-06 20:20-23:01 ECE 9 ffm-bsl
 2026-08-08 gartenfest@andrea
 
 2026-08-11 09:00-11:00 erik frits

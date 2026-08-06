@@ -5751,3 +5751,11 @@ http://auskunft.kvb-koeln.de
 2026-07-28 bsl-berlin
   12:42-19:41 ICE 370 6h 59min
 
+2026-08-06 berlin-bsl
+  gebucht:
+  15:27-22:39 ~/x/adsk/expense/receipt/2026/2026-08-06_db_berlin_bsl.pdf
+  neue hoffnung:  
+  16:00-23:01 dauer 7:01 1 Umstieg
+  16:00-19:56 --> 20:01 ICE 1139 Berlin Hbf Gl. 6 4:01 nach Frankfurt(M) Flughafen Regionalbf
+  20:20-23:01 ECE 9 Frankfurt(Main)Hbf Gl. 8 2:41 nach Basel SBB
+
