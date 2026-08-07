@@ -5752,8 +5752,19 @@ http://auskunft.kvb-koeln.de
   12:42-19:41 ICE 370 6h 59min
 
 2026-08-06 berlin-bsl
+  /home/jeremy/x/adsk/expense/receipt/2026/2026-07-28_db_bahncard_25.pdf
+  /home/jeremy/x/adsk/expense/receipt/2026/2026-08-06_db_berlin_bsl.pdf
   gebucht:
   15:27-22:39 ~/x/adsk/expense/receipt/2026/2026-08-06_db_berlin_bsl.pdf
+  Ihre Abfahrt mit ICE 2593 von Berlin Hbf nach Mannheim Hbf verspätet sich um 53 Minuten...
+  15:27 Berlin Hbf Gl. 4 --> 16:20 abfahrt  
+  ICE 2593 Richtung München Hbf 
+  20:30 Mannheim Hbf Gl. 3 --> 21:13 ankunft
+  der plan wird nicht eingehalten:
+  20:37 Mannheim Hbf Gl. 4 ICE 203 Richtung Basel SBB --> ???
+  22:39 Basel Bad Bf Gl. 3 --> ???
+  letzte verbindung von mannheim nach basel faehrt ab um 21:00... wird nicht mehr erreicht...
+  die letzte verbindung laut fahrplan von mannheim nach basel faehrt um 21:00 ab... danach ist die ankunft erst am naechsten tag, mit 6 stunden reisezeit... wir werden ja sehen...
   neue hoffnung:  
   16:00-23:01 dauer 7:01 1 Umstieg
   16:00-19:56 --> 20:01 ICE 1139 Berlin Hbf Gl. 6 4:01 nach Frankfurt(M) Flughafen Regionalbf
