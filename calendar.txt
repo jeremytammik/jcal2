@@ -9695,6 +9695,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-08-13 15:30 moni@unispital
 
 2026-08-14 12:15 moc75@cantilena
+2026-08-14 17:00 qcdemo@meet
 
 2026-08-16 frauengruppe
 2026-08-17 13:00-13:30 moni@physio
