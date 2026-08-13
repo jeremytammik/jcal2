@@ -9713,8 +9713,13 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-08-28 dan demo@brugg
 2026-08-31 11:30-12:00 moni@physio
 
+2026-09-03 holz@karen prepare
+
 2026-09-04 11:00-11:30 moni@physio
+2026-09-04 holz@karen
+
 2026-09-05 pay sbb halbtax
+2026-09-05 holz@karen
 
 2026-09-08 12:30-13:00 moni@physio
 2026-09-09 14:25-18:43 <a href="/home/jeremy/x/adsk/expense/receipt/2026/2026-09-09_db_bsl_bonn.pdf">bsl-bonn</a> - <a href="/home/jeremy/x/adsk/expense/receipt/2026/2026-07-28_db_bahncard_25.pdf">bc</a> 
