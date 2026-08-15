@@ -9711,6 +9711,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-08-27 13:30-14:00 moni@physio
 2026-08-28 dan demo@brugg
+2026-08-29 15:00 heiner@tumringen
 2026-08-31 11:30-12:00 moni@physio
 
 2026-09-03 holz@karen prepare
