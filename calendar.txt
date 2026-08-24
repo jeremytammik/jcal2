@@ -9708,12 +9708,12 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-08-23 00:20 maris@bsl
 2026-08-23 maris@h30 begin
 2026-08-23 18:30-20:30 mantrasingen@h30
-2026-08-24 17:00 fernando@meet
+2026-08-24 17:00-18:00 <a href="https://meet.google.com/sxf-nvmv-yyf">fernando@meet</a> # sentinel worksets demo
 2026-08-25 07:00 maris@h30 end
 2026-08-25 15:00-15:30 moni@physio
 
 2026-08-27 13:30-14:00 moni@physio
-2026-08-27 15:00-16:00 <a href="https://meet.google.com/hqo-vbdc-uge">henderson@meet</a> # sentinel bim qc system feedback
+2026-08-27 16:00-17:00 <a href="https://meet.google.com/ebj-gvrt-gnd">henderson@meet</a> # sentinel bim qc system feedback
 
 2026-08-28 via alta begin
 2026-08-28 08:04 bsl-bellinzona
