@@ -9712,6 +9712,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-08-25 07:00 maris@h30 end
 2026-08-25 15:00-15:30 moni@physio
 
+2026-08-26 13:45-14:30 <a href="https://meet.google.com/gjk-caqp-fda">yoni@meet</a> # bimrock team sync
+
 2026-08-27 13:30-14:00 moni@physio
 2026-08-27 16:00-17:00 <a href="https://meet.google.com/ebj-gvrt-gnd">henderson@meet</a> # sentinel bim qc system feedback
 
