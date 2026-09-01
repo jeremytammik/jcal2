@@ -9732,7 +9732,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-08-31 11:30-12:00 moni@physio
 
 2026-09-02 14:00 beat
-2026-09-02 15:00-16:00 dalton@meet
+2026-09-02 15:00-16:00 <a href="https://meet.google.com/rpo-osqi-fdk">dalton@meet</a>
+2026-09-02 17:00-19:00 t+j
 
 2026-09-03 holz@karen prepare
 
