@@ -9743,6 +9743,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-09-05 pay sbb halbtax
 2026-09-05 holz@karen
 
+2026-09-05 09:00 <a href="https://www.google.com/maps/dir/Huenerbergweg+30+79539+Loerrach/Tessinstrasse+%26+Schoellenenstrasse+4054+Basel">ingrid + rolf</a> # ecke tessinstrasse / schöllenenstrasse
+
 2026-09-08 12:30-13:00 moni@physio
 2026-09-09 10:30 bachthaler@vb3
 2026-09-09 14:25-18:43 <a href="/home/jeremy/x/adsk/expense/receipt/2026/2026-09-09_db_bsl_bonn.pdf">bsl-bonn</a> - <a href="/home/jeremy/x/adsk/expense/receipt/2026/2026-07-28_db_bahncard_25.pdf">bc</a> 
