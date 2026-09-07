@@ -9758,6 +9758,9 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-09-14 lina end
 2026-09-14 11:14-15:36 <a href="/home/jeremy/x/adsk/expense/receipt/2026/2026-09-14_db_bonn_bsl.pdf">bonn-bsl</a> - <a href="/home/jeremy/x/adsk/expense/receipt/2026/2026-07-28_db_bahncard_25.pdf">bc</a> 
 
+2026-10-23 14:00 tel@trogen begin
+2026-10-24 tel@trogen
+2026-10-25 14:00 tel@trogen end
 2026-10-25 frauengruppe
 
 2026-11-01 heilkreis
