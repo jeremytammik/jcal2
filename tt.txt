@@ -5770,3 +5770,39 @@ http://auskunft.kvb-koeln.de
   16:00-19:56 --> 20:01 ICE 1139 Berlin Hbf Gl. 6 4:01 nach Frankfurt(M) Flughafen Regionalbf
   20:20-23:01 ECE 9 Frankfurt(Main)Hbf Gl. 8 2:41 nach Basel SBB
 
+2026-09-09 bsl-bonn
+  14:56-19:03
+  Von: Basel Bad Bf
+  ECE 4
+  ICE 224
+  STR 66
+  Nach: Bonn Hbf (tief)
+  Von:Basel Bad Bf
+  Nach:Bonn Hbf (tief)
+  Reiseplan
+  14:56
+  Basel Bad Bf
+  Gleis 4
+  ECE 4
+  nach Hamburg Hbf
+  17:00
+  Mannheim Hbf
+  Gleis 2
+  17:07
+  Mannheim Hbf
+  Gleis 3
+  1h 20min
+  ICE 224
+  nach Amsterdam Centraal
+  18:27
+  Siegburg/Bonn
+  Gleis 3
+  18:38
+  Siegburg Bahnhof
+  25min
+  STR 66
+  nach Bad Honnef Stadtbahn
+  19:03
+  Bonn Hbf (tief)
+
+
