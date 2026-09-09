@@ -9758,6 +9758,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-09-14 lina end
 2026-09-14 11:14-15:36 <a href="/home/jeremy/x/adsk/expense/receipt/2026/2026-09-14_db_bonn_bsl.pdf">bonn-bsl</a> - <a href="/home/jeremy/x/adsk/expense/receipt/2026/2026-07-28_db_bahncard_25.pdf">bc</a> 
 
+2026-09-16 17:00-18:00 <a href="https://meet.google.com/aag-yxri-ddm">fernando@meet</a> # worksets demo 2 + mcp
+
 2026-09-27 11:30 wave@bettine
 
 2026-10-23 14:00 tel@trogen begin
