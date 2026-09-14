@@ -9761,7 +9761,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-09-15 18:30 geburi@geli
 2026-09-16 17:00-18:00 <a href="https://meet.google.com/aag-yxri-ddm">fernando@meet</a> # worksets demo 2 + mcp
 
-2026-09-17 14 preparation
+2026-09-17 14:00 preparation
 2026-09-17 17:00-21:00 nachbarn
 
 2026-09-19 17:00-23:00 kunst unter dem schirm
