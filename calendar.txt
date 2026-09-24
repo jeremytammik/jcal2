@@ -9783,6 +9783,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-09-27 11:30 wave@bettina
 
+2026-10-23 karen return
 2026-10-23 14:00 tel@trogen begin
 2026-10-24 <a href="/home/jeremy//w/doc/group/tel/2026-10-24_trogen.pdf">tel@trogen</a>
 2026-10-25 14:00 tel@trogen end
