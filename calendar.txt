@@ -9834,4 +9834,4 @@ year 2026
 #all wednesdays in year 19:00-20:30 winterfit # alte HTG-Halle Kreuzstraße 33a neben phænovum
 #all wednesdays in year 20:30 footy
 all thursdays in year 19:00-21:00 polysport@ths # spielsplatz stetten # sporthalle theodor-heuss-realschule, schuetzen 22
-
+every fourth monday starting september 7 gbp 579
