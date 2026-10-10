@@ -9795,6 +9795,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-10-07 17:00 tatjana + juergen
 
+2026-10-10 17:40 <a href="/home/jeremy/w/doc/trip/basel/map_stoeberstrasse.png">franca</a>@<a href="https://www.google.com/maps/dir/Clara-Immerwahr-Strasse+1+79539+Loerrach/Stoeberstrasse+24+4055+Basel+Switzerland">stoeber</a>
 2026-10-10 18:00 andrea@eulerhof
 
 2026-10-12 12:00 rose@h30
