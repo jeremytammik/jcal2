@@ -9808,10 +9808,16 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-10-17 20:00 florian@h30
 
-2026-10-19 kuechenausbau@weil # matthias
+2026-10-18 11:00 zwiebelwaihe
+2026-10-18 12:00-15:00 huepers
+2026-10-18 18:00-20:00 travel
+2026-10-18 20:00 marianne
+2026-10-19 moschte@marianne
 
-2026-10-21 18:30 suppe`@stephanie
+2026-10-21 18:30 suppe@stephanie
 2026-10-21 19:30-21:30 mantra@stephanie
+
+2026-10-22 kuechenausbau@weil # matthias
 
 2026-10-23 karen return
 2026-10-23 14:00 tel@trogen begin
@@ -9829,6 +9835,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-11-20 tel@tramelan
 2026-11-21 tel@tramelan
 2026-11-22 tel@tramelan
+
+2026-11-25 12:00-15:00 rene + tobias
 
 2026-11-28 novemberparty
 
