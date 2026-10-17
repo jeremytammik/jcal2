@@ -9847,6 +9847,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-12-12 15:00 feuer@schaedelberg
 2026-12-12 18:00 geburi@stephanie
 
+2026-12-30 <a href="/home/jeremy/w/tmp/2026-12-31_stilleretreat,txt">stilleretreat</a> begin
+
 2027-03-05 saig begin # hagara feinbier
 2027-03-06 saig
 2027-03-07 saig
