@@ -9837,6 +9837,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-11-03 14:00-15:30 fitness@gruett
 
+2026-11-06 12:00 bachthaler@vb3
+
 2026-11-08 laurens@medi end
 
 2026-11-10 10:30 dentist connert@uzb # kontrolle
@@ -9900,3 +9902,4 @@ all wednesdays in year 19:00-20:30 winterfit # sporthalle theodor-heuss-realschu
 #all wednesdays in year 20:30 footy
 all thursdays in year 19:00-21:00 polysport@ths # spielsplatz stetten # sporthalle theodor-heuss-realschule, schuetzen 22
 # all mondays in year gbp 579 # starting september 7 #  pnly every fourth monday
+
