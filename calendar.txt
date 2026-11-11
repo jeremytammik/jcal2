@@ -9841,7 +9841,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-11-08 laurens@medi end
 
-2026-11-10 10:30 dentist connert@uzb # kontrolle
+2026-11-10 10:30 dentist buechi@uzb # kontrolle bei vanessa buechi statt thomas connert
 2026-11-11 19:00-21:00 <a href="https://eeb-sued-west.de/veranstaltungen/familie-beziehung-und-kommunikation/detail/termin/id/985600-den-beziehungsgarten-pflegen/?vt=1&cb-id=117149">beziehungsgarten</a>@<a href="https://www.google.com/maps/place/nansenstr+10+79539+loerrach">kirche_im_q</a> # verbindliche anmeldung vorgangsnummer 6a34e
 
 2026-11-15 grundsteuer
@@ -9867,7 +9867,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-12-12 15:00 feuer@schaedelberg
 2026-12-12 18:00 geburi@stephanie
 
-2026-12-30 <a href="/home/jeremy/w/tmp/2026-12-31_stilleretreat,txt">stilleretreat</a> begin
+2026-12-30 <a href="/home/jeremy/w/tmp/2026-12-31_stilleretreat.txt">stilleretreat</a> begin
 2027-01-01 stilleretreat end
 
 2027-03-05 saig begin # hagara feinbier
@@ -9883,6 +9883,8 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2027-05-25 korsika end
 2027-05-30 korsika travel end
 
+2027-06-08 10:00 dentist buechi@uzb # kontrolle bei vanessa buechi
+
 2027-11-19 telpaare@kientalerhof
 2027-11-20 telpaare@kientalerhof
 2027-11-21 telpaare@kientalerhof
@@ -9897,7 +9899,7 @@ all wednesdays in year 19:00-20:30 winterfit # alte HTG-Halle Kreuzstraße 33a n
 all thursdays in year 19:00-21:00 polysport@ths # spielsplatz stetten # sporthalle theodor-heuss-realschule, schuetzen 22
 
 year 2026
-all tuesdays in year 13:30-15:00 <a href="https://docs.google.com/spreadsheets/d/1iYp6VrHasEckulFDR19Ff1htU6uG4Uy2FjfmMSM5ka0/edit?usp=sharing">fitness@gruett</a>
+all tuesdays in year 14:00-15:30 <a href="https://docs.google.com/spreadsheets/d/1iYp6VrHasEckulFDR19Ff1htU6uG4Uy2FjfmMSM5ka0/edit?usp=sharing">fitness@gruett</a>
 all wednesdays in year 19:00-20:30 winterfit # sporthalle theodor-heuss-realschule, schuetzenstr 22
 #all wednesdays in year 20:30 footy
 all thursdays in year 19:00-21:00 polysport@ths # spielsplatz stetten # sporthalle theodor-heuss-realschule, schuetzen 22
