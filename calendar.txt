@@ -9790,7 +9790,6 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-09-29 calancatal
 2026-09-30 calancatal
 
-2026-10-01 18:00 pvselbst@kaltenbach
 2026-10-02 20:00 <a href="https://youtu.be/yLjAayYEgOQ">unbeugsame</a>@free
 2026-10-03 16:00 travel to lodrino
 2026-10-04 lodrino-lavertezzo
@@ -9854,6 +9853,7 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 2026-11-22 tel@tramelan
 
 2026-11-25 11:30-15:30 rene + tobias
+2026-11-26 18:00 pvselbst@kaltenbach
 
 2026-11-28 novemberparty
 
