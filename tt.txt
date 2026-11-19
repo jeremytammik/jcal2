@@ -5805,4 +5805,8 @@ http://auskunft.kvb-koeln.de
   19:03
   Bonn Hbf (tief)
 
+2026-11-30 bsl-bonn
+  Basel Bad Bf - Bonn Hbf, Mo. 30. Nov. 2026 18:25 – 22:43
 
+2026-12-04 bonn-bsl
+Bonn Hbf - Basel Bad Bf, Fr. 4. Dez. 2026 19:14 – 23:36
