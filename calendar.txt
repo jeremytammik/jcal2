@@ -9854,9 +9854,12 @@ all tuesdays in year 14:00-15:30 fitness@gruett # Ab 11.11.2025 bis und mit 31.0
 
 2026-11-25 11:30-15:30 rene + tobias
 2026-11-26 18:00 pvselbst@kaltenbach
+2026-11-27 09:00-10:00 laurens@wood
 2026-11-27 10:00-10:30 <a href="https://us06web.zoom.us/j/88598433885?pwd=uNXBb5vY6KEqaZBryGcswuUqIUohsR.1&jst=2">alain@zoom</a>
-2026-11-27 11:00-13:00 laurens@wood
-2026-11-27 13:00-15:00 prepare wood
+2026-11-27 10:30-13:00 laurens@wood
+2026-11-27 13:00-13:30 new saw blades
+2026-11-27 15:00-15:30 bauhaus chainsaw chain
+2026-11-27 15:30-17:00 prepare wood
 2026-11-27 17:00 medo@meet
 
 2026-11-28 novemberparty
